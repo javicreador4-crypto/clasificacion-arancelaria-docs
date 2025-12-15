@@ -1,0 +1,3686 @@
+NOTAS EXPLICATIVAS DEL SISTEMA ARMONIZADO
+
+1
+
+SÉPTIMA ENMIENDA - 2022
+
+INTRODUCCIÓN
+Versión en Español de Notas Explicativa del Sistema Armonizado
+La séptima enmienda de la nomenclatura del Sistema Armonizado (HS) ha sido aceptada
+por todas las Partes Contratantes del Convenio del Sistema Armonizado. Entrará en vigor el 1 de
+enero de 2022. La nueva edición HS 2022 realiza algunos cambios importantes en el Sistema Armonizado con un total de 351 conjuntos de enmiendas que cubren una amplia gama de productos
+que se mueven a través de las fronteras. Éstos son algunos de los aspectos más destacados: La
+adaptación al comercio actual a través del reconocimiento de nuevos flujos de productos y la resolución de problemas ambientales y sociales de interés mundial son las principales características
+de las enmiendas del HS 2022.
+Los desechos eléctricos y electrónicos, son un ejemplo de una clase de producto que
+presenta importantes preocupaciones de política, así como un alto valor comercial, por lo tanto,
+el HS 2022 incluye disposiciones específicas para su clasificación para ayudar a los países en su
+trabajo bajo El Convenio de Basilea. Las nuevas disposiciones para los nuevos productos a base
+de tabaco y nicotina resultaron de las dificultades de clasificación de estos productos, la falta
+de visibilidad en las estadísticas comerciales y el muy alto valor monetario de este comercio. Los
+vehículos aéreos no tripulados (UAV),comúnmente conocidos como drones, también obtienen sus
+propias disposiciones específicas para simplificar la clasificación de estos aviones. Los teléfonos
+inteligentes obtendrán su propio subtítulo y Nota, que también aclarará y confirmará la clasificación actual de encabezado de estos dispositivos multifuncionales.
+Se han llevado a cabo importantes reconfiguraciones para las subpartidas de la partida
+70.19 para fibras de vidrio y sus manufacturas y para la partida 84.62 para maquinaria
+de conformado de metales. Estos cambios reconocen que los subtítulos actuales no representan adecuadamente los avances tecnológicos en estos sectores, dejando una falta de estadísticas
+comerciales importantes para las industrias y posibles dificultades de clasificación.
+Los módulos de pantalla plana se clasificarán como un producto por derecho propio,
+lo que simplificará la clasificación de estos módulos al eliminar la necesidad de identificar el uso
+final. La salud y la seguridad también han aparecido en los cambios. El reconocimiento de los peligros de los retrasos en el despliegue de herramientas para el diagnóstico rápido de enfermedades
+infecciosas en los brotes ha llevado a cambios en las disposiciones de dichos kits de diagnóstico
+para simplificar la clasificación.
+Los cultivos celulares y la terapia celular se encuentran entre las clases de productos
+que han obtenido disposiciones nuevas y específicas. A nivel de seguridad humana, una serie de
+nuevas disposiciones prevén específicamente diversos artículos de doble uso. Estos van desde
+toxinas hasta equipos de laboratorio.
+La edición HS 2022 presenta nuevos subtítulos para químicos específicos controlados
+bajo la Convención de Armas Químicas (CWC), para ciertos químicos peligrosos controlados bajo
+el Convenio de Rotterdam y para ciertos contaminantes orgánicos persistentes (COP) controlados
+bajo el Convenio de Estocolmo. Además, a solicitud de la Junta Internacional de Fiscalización de
+Estupefacientes (JIFE), se han introducido nuevos subtítulos para el seguimiento y control de los
+fentanilos y sus derivados, así como dos precursores de fentanilo. Se han introducido cambios
+importantes, incluida la nueva Nota 4 de la Sección VI y la nueva partida 38.27, para los
+gases controlados en virtud de la Enmienda Kigali del Protocolo de Montreal.
+Las enmiendas también incluyen la aclaración de textos para garantizar la aplicación uniforme de
+la nomenclatura. Por ejemplo, hay cambios para la aclaración y alineación entre francés e inglés de
+la forma apropiada de medir la madera en bruto a los efectos de los subtítulos de la partida 44.03.
+La OMA está trabajando actualmente en el desarrollo de tablas de correlación requeridas entre
+el 2017 actual y la nueva edición del HS, y en la actualización de las publicaciones del HS, como
+las Notas explicativas, las Opiniones de clasificación, el Índice alfabético y la base de datos en línea
+del HS. Las administraciones aduaneras y las comunidades económicas regionales tienen la enorme
+
+NOTAS EXPLICATIVAS DEL SISTEMA ARMONIZADO
+
+2
+
+SÉPTIMA ENMIENDA - 2022
+
+tarea de garantizar la implementación oportuna de la edición 2022 HS, como lo exige el Convenio
+del HS. Por lo tanto, se les alienta a comenzar el proceso de preparación para la implementación
+del SA 2022 en sus aranceles aduaneros nacionales o nomenclaturas estadísticas.
+
+NOTAS EXPLICATIVAS DEL SISTEMA ARMONIZADO
+
+3
+
+SÉPTIMA ENMIENDA - 2022
+
+ABREVIATURAS Y SÍMBOLOS
+A
+AC
+AH
+ASTM
+Bq
+ºC
+CCD
+cg
+cm
+cm2
+cm3
+cN
+cSt
+DCI
+g
+Gbit
+GHz
+h
+HP
+HRC
+Hz
+IR
+ISO
+Kbit
+kcal
+kg
+kgf
+KHz
+kN
+kPa
+kV
+kVA
+kvar
+kW
+l
+m
+mm2
+m3
+mbar
+Mbit
+μCi
+mg
+MHz
+min
+mm
+mN
+MPa
+MW
+N
+nº
+nm
+Nm
+ns
+
+ampere(s) (amperio (s)
+Corriente alterna
+ampere(s) (amperio[s])?hora(s)
+American Society for Testing Materials (Sociedad Americana para Ensayo de Materiales)
+Becquerel
+grados(s) Celsius
+Charge Coupled Device (Dispositivo de Cargas Acopladas)
+centigramos(s)
+centímetro(s)
+centímetro(s) cuadrado(s)
+centímetro(s) cúbico(s)
+centinewton(s)
+centistokes
+Designación Común Internacional
+gramo(s)
+gigabit(s)
+gigahertz (gigahercio[s])
+hora(s)
+horse-power (caballo de fuerza)
+dureza Rockwell C
+hercio(s) (hertz)
+Infrarrojo(s)
+Organización Internacional de Normalización
+kilobit(s)
+kilocaloría(s)
+kilogramo(s)
+kilogramo(s) fuerza
+kilohertz (kilohercio[s])
+kilonewton(s)
+kilopascal(es)
+kilovolt(io(s))
+kilovolt(io(s))-ampere(s) (amperio(s))
+kilovolt (io(s))-ampere(s) (amperio(s))reactivo(s)
+kilovatio(s) (kilowatt(s))
+litro(s)
+metro(s)
+metametro(s) cuadrado(s)
+metro(s) cúbico(s)
+milibar(es)
+megabit(s)
+microcurie
+miligramo(s)
+megahertz (megahercio[s])
+minuto(s)
+milímetro(s)
+milinewton(s)
+megapascal(es)
+megavatio(s) («megawatt[s]»)
+newton(s)
+número
+nanometro(s)
+newton(es)?metro
+nanosegundo(s)
+
+NOTAS EXPLICATIVAS DEL SISTEMA ARMONIZADO
+
+4
+
+SÉPTIMA ENMIENDA - 2022
+
+ops
+t
+UV
+V
+vol.
+W
+%
+xº
+
+ortoparasegundo(s)
+tonelada(s)
+ultravioleta(s)
+volt(io(s))
+Volume
+vatio(s) (watt(s))
+por ciento
+x grado(s)
+Ejemplos
+
+1500 g/m2
+
+mil quinientos gramos por metro cuadrado
+
+15 ºC
+
+quince grados Celsius
+
+UNIDADES FISICAS (U.F) POR SUBPARTIDA PARA FACILITAR LA RECOPILACIÓN Y ANÁLISIS DE
+LAS ESTADÍSTICAS DEL COMERCIO EXTERIOR
+ABREVIATURAS UTILIZADAS
+
+Peso
+
+Kg
+
+Kilogramo
+
+c/t
+
+Quilate
+
+Longitud
+
+M
+
+Metro
+
+Área
+
+m2
+
+Metro Cuadrado
+
+m3
+
+Metro Cúbico
+
+3
+
+cm
+
+Centímetro Cúbico
+
+L
+
+Litro
+
+1 000 kWh
+
+Mil kilovatios hora
+
+Volumen
+Energía Eléctrica
+
+Cantidad
+
+U
+
+Unidades o artículos
+
+2u
+
+Par
+
+12 U
+
+Docena
+
+1000
+
+Miles de Unidades o Artículos
+
+TABLA DE CONVERSIÓN DE LAS PRINCIPALES UNIDADES FÍSICAS DE MEDIDA
+NOMBRE DE LA UNIDAD
+
+EQUIVALENCIA
+
+LONGITUD
+1 pie (12 pulgadas)
+
+0,3048 m
+
+1 pulgada
+
+0,0254 m
+
+1 yarda
+
+0,9144 m
+
+MASA
+1 Libra (UK, USA)
+
+0,45359237 kg
+
+1 Onza
+
+0,02834952 kg
+
+1 Libra troy
+
+0,3732417 kg
+
+1 Onza troy
+
+0,03110348 kg
+
+1 quilate
+
+0,0002 kg
+
+1 quintal métrico
+
+100 kg
+
+1 Tonelada (métrica)
+
+1.000 kg
+
+NOTAS EXPLICATIVAS DEL SISTEMA ARMONIZADO
+
+5
+
+SÉPTIMA ENMIENDA - 2022
+
+NOMBRE DE LA UNIDAD
+
+EQUIVALENCIA
+
+1 Tonelada larga
+
+(2.240 lb) (ton UK) 1.016,047 kg
+
+1 Tonelada corta
+
+(2.000 lb) (ton USA) 907,1847 kg
+
+SUPERFICIE
+1 Pie cuadrado
+
+0,09290304 m2
+
+1 Pulgada cuadrada
+
+0,00064516 m2
+
+VOLUMEN
+1 Galón (USA líquido)
+
+0,003785412 m3 3,78 l
+
+1 Pie cúbico
+
+0,02831685 m3
+
+1 Pie cuadrado (madera)
+
+0,002359737 m3
+
+1 Pinta (USA líquida)
+
+0,0004731765 m3
+
+1 Barril de Petróleo
+(42 galones líquidos USA)
+
+0,1589873 m3
+
+1 onza líquida (USA)
+
+0,02957353 l
+
+NOTAS EXPLICATIVAS DEL SISTEMA ARMONIZADO
+
+7
+
+SÉPTIMA ENMIENDA - 2022
+
+REGLAS GENERALES PARA LA INTERPRETACIÓN
+DEL SISTEMA ARMONIZADO
+La clasificación de las mercancías en la nomenclatura se regirá por los principios siguientes:
+REGLA 1
+Los títulos de las Secciones, de los Capítulos o de los Subcapítulos solo tienen un valor indicativo,
+ya que la clasificación está determinada legalmente por los textos de las partidas y de las Notas de
+Sección o de Capitulo y, si no son contrarias a los textos de dichas partidas y Notas, de acuerdo con
+las reglas siguientes:
+NOTA EXPLICATIVA:
+I)
+
+La Nomenclatura presenta en forma sistemática las mercancías que son objeto de comercio internacional.
+Agrupa estas mercancías en Secciones, Capítulos y Subcapítulos, con títulos tan concisos como ha sido
+posible, indicando la clase o naturaleza de los productos que en ellos se incluyen. Pero, en muchos casos,
+ha sido materialmente imposible englobarlos todos o enumerarlos completamente en dichos títulos, a causa
+de la diversidad y número de los artículos.
+
+II)
+
+La Regla 1 comienza pues, disponiendo que los títulos sólo tienen un valor indicativo. Por tanto, de ellos
+no puede deducirse ninguna consecuencia jurídica para la clasificación.
+
+III)
+
+La segunda parte de la Regla prevé que la clasificación se determine:
+a)
+
+según el texto de las partidas y de las Notas de Sección o Capítulo; y
+
+b)
+
+si fuera necesario, según las disposiciones de las Reglas 2, 3, 4 y 5, si no son contrarias a los textos
+de dichas partidas y Notas.
+
+IV) El apartado III) a) no necesita aclaración y numerosas mercancías pueden clasificarse en la Nomenclatura
+sin que sea necesario recurrir a las demás Reglas Generales (por ejemplo, los caballos vivos (partida 01.01),
+o las preparaciones y artículos farmacéuticos a que se refiere la Nota 4 del Capítulo 30 (partida 30.06)).
+V)
+
+En el apartado III) b):
+a)
+
+la frase si no son contrarias a los textos de dichas partidas y Notas está destinada a precisar, sin
+lugar a equívoco, que el texto de las partidas y de las Notas de Sección o de Capítulo tiene prioridad
+sobre cualquier otra consideración para determinar la clasificación de una mercancía. Por ejemplo, en
+el Capítulo 31, las Notas disponen que ciertas partidas sólo comprenden determinadas mercancías.
+Esto significa que el alcance de estas partidas no puede ampliarse para abarcar mercancías que, de
+otra forma, se incluirían en ellas por aplicación de la Regla 2 b).
+
+b)
+
+La referencia a la Regla 2 en la expresión «según las disposiciones de las Reglas 2, 3, 4 y 5», significa
+que:
+1)
+
+Los artículos presentados incompletos o sin terminar (por ejemplo, una bicicleta sin sillín (asiento)
+ni neumáticos), y
+
+2)
+
+Los artículos presentados desmontados o sin montar todavía (por ejemplo, una bicicleta desmontada o sin montar todavía, cuando se presentan juntos todos sus componentes), cuyos
+componentes presentados individualmente pueden clasificarse siguiendo su propio régimen (por
+ejemplo: neumáticos, cámaras para neumáticos) o como partes de estos artículos,
+
+Se deben clasificar como si se presentaran completos o terminados, siempre que se cumplan las
+disposiciones de la Regla 2 a) y éstas no sean contrarias a los textos de dichas partidas y Notas.
+
+NOTAS EXPLICATIVAS DEL SISTEMA ARMONIZADO
+
+8
+
+SÉPTIMA ENMIENDA - 2022
+
+REGLA 2
+a)
+
+Cualquier referencia a un artículo en una partida determinada alcanza al artículo incluso incompleto o sin terminar, siempre que esté presente las características esenciales del artículo completo o
+terminado. Alcanza también al artículo completo o terminado, o considerado como tal en virtud de
+las disposiciones precedentes, cuando se presente desmontado o sin montar todavía.
+
+b)
+
+Cualquier referencia a una materia en una partida determinada alcanza a dicha materia incluso
+mezclada o asociada con otras materias. Asimismo, cualquier referencia a las manufacturas de
+una materia determinada alcanza también a las constituidas total o parcialmente por dicha materia.
+La clasificación de estos productos mezclados o de estos artículos compuestos se efectuará de
+acuerdo con los principios enunciados en la Regla 3.
+
+NOTAS EXPLICATIVAS:
+REGLA 2 a)
+(Artículos incompletos o sin terminar)
+I)
+
+La primera parte de la Regla 2 a) amplía el alcance de las partidas que mencionan un artículo determinado, de tal forma que comprendan, no sólo el artículo completo, sino también el artículo incompleto o sin
+terminar, siempre que presente ya las características esenciales del artículo completo o terminado.
+
+II)
+
+Las disposiciones de esta Regla se extienden también a los esbozos de artículos, salvo el caso en que
+dichos esbozos estén citados expresamente en una partida determinada. Tendrán la consideración de esbozos, los artículos que no sean utilizables tal como se presentan, que tengan aproximadamente la forma
+o el perfil de la pieza o del objeto terminado y que no puedan utilizarse, salvo a título excepcional, para
+fines distintos de la fabricación de dicha pieza o de dicho objeto (por ejemplo: las preformas de botellas de
+plástico, que constituyen productos intermedios y tienen forma tubular con uno de sus extremos cerrados,
+y una rosca en el extremo abierto que permite el cierre por medio de un tapón roscado; la parte inferior del
+extremo roscado puede expandirse al tamaño y forma deseados).
+Los productos semimanufacturados que no presenten todavía la forma esencial de los artículos terminados
+(tal es el caso, generalmente, de barras, discos, tubos, etc.) no tienen la consideración de esbozos.
+
+III)
+
+Habida cuenta del alcance de las partidas de las Secciones I a VI, esta parte de la Regla no se aplica
+normalmente a los productos de estas Secciones.
+
+IV) En las Consideraciones Generales de las Secciones o de los Capítulos (Sección XVI, Capítulos 61, 62, 86,
+87 y 90, principalmente), se citan algunos casos de aplicación de esta Regla.
+REGLA 2 a)
+(Artículos desmontados o sin montar todavía)
+V)
+
+La segunda parte de la Regla 2 a) clasifica, en la misma partida que el artículo montado, al artículo completo o terminado cuando se presente desmontado o sin montar todavía. Las mercancías se presentan en
+estas condiciones sobre todo por razones tales como las necesidades o la comodidad del embalaje, de la
+manipulación o del transporte.
+
+VI) Esta Regla de clasificación se aplica igualmente al artículo incompleto o sin terminar cuando se presente
+desmontado o sin montar todavía, desde el momento en que haya que considerarlo como completo o
+terminado en virtud de las disposiciones de la primera parte de esta Regla.
+VII) Por aplicación de la presente Regla, se consideran como artículos desmontados o sin montar todavía
+los artículos cuyos diferentes elementos hayan de ensamblarse, bien por elementos de fijación (tornillos,
+pernos, tuercas, etc.), bien por remachado o soldadura, por ejemplo, con la condición, sin embargo, de
+que se trate de operaciones de montaje.
+A este respecto, no se tendrá en cuenta la complejidad del método de montaje. Sin embargo, los componentes no pueden someterse a ninguna operación adicional de acabado para alcanzar el estado final.
+Los componentes desensamblados de un artículo que se encuentren en exceso al número requerido para
+el artículo completo, se clasifican separadamente.
+
+NOTAS EXPLICATIVAS DEL SISTEMA ARMONIZADO
+
+9
+
+SÉPTIMA ENMIENDA - 2022
+
+VIII) En las Consideraciones Generales de las Secciones o de los Capítulos (Sección XVI, Capítulos 44, 86, 87
+y 89, principalmente) se citan algunos casos de aplicación de la Regla.
+IX) Habida cuenta del alcance de las partidas de las Secciones I a VI, esta parte de la Regla no se aplica
+normalmente a los productos de estas Secciones.
+REGLA 2 b)
+(Productos mezclados y artículos compuestos)
+X)
+
+La Regla 2 b) afecta a las materias mezcladas o asociadas con otras materias y a las manufacturas
+constituidas por dos o más materias. Las partidas a las que se refiere son las que mencionan una materia determinada, por ejemplo, la partida 05.07, crin, y las que se refieren a manufacturas de una materia
+determinada, por ejemplo, la partida 45.03, artículos de corcho. Hay que destacar que esta Regla sólo se
+aplica en caso de no existir disposición en contrario en los textos de las partidas y de las Notas de Sección
+o de Capítulo (por ejemplo, partida 15.03... aceite de manteca de cerdo ...., sin mezclar).
+Los productos mezclados que constituyan preparaciones contempladas como tales en una Nota de Sección
+o de Capítulo o en el texto de una partida se clasifican por aplicación de la Regla 1.
+
+XI) El efecto de esta Regla es extender el alcance de las partidas que mencionen una materia determinada
+de modo que incluyan esta materia tanto pura como mezclada o asociada con otras. Y también extender
+el alcance de las partidas que mencionen manufacturas de una materia determinada, de modo que comprendan las manufacturas parcialmente constituidas por dicha materia.
+XII) Sin embargo, esta Regla no amplía el alcance de las partidas afectadas hasta el extremo de poder incluir en
+ellas artículos que, como lo exige la Regla 1, no respondan a los términos de los textos de estas partidas,
+como sería el caso cuando la adición de otras materias o sustancias tuviera como consecuencia privar al
+artículo del carácter de una mercancía comprendida en dichas partidas.
+XIII) En consecuencia, si las materias mezcladas o asociadas con otras materias y las manufacturas constituidas
+por dos o más materias son susceptibles de clasificarse, en principio, en dos o más partidas, deben por
+ello clasificarse de acuerdo con las disposiciones de la Regla 3.
+REGLA 3
+Cuando una mercancía pudiera clasificarse, en principio, en dos o más partidas por aplicación de la
+Regla 2 b) o en cualquier otro caso, la clasificación se efectuara como sigue:
+a)
+
+La partida con descripción más específica tendrá prioridad sobre las partidas de alcance más genérico. Sin embargo, cuando dos o más partidas se refieran, cada una, solamente a una parte de las
+materias que constituyen un producto mezclado o un artículo compuesto o solamente a una parte
+de los artículos, en el caso de mercancías presentadas en juegos o surtidos acondicionados para la
+venta al por menor, tales partidas deben considerarse igualmente especificas para dicho producto
+o artículo, incluso si una de ellas lo describe de manera más precisa o completa.
+
+b)
+
+Los productos mezclados, las manufacturas compuestas de materias diferentes o constituidas por
+la unión de artículos diferentes y las mercancías presentadas en juegos o surtidos acondicionados para la venta al por menor, cuya clasificación no pueda efectuarse aplicando la Regla 3 a), se
+clasifican según la materia o con el artículo que les confiera su carácter esencial, si fuera posible
+determinarlo.
+
+c)
+
+Cuando las Reglas 3 a) y 3 b) no permitan efectuar la clasificación, la mercancía se clasificara en la
+última partida por orden de numeración entre las susceptible de tenerse razonablemente en cuenta.
+
+NOTAS EXPLICATIVAS:
+I)
+
+Esta Regla prevé tres métodos de clasificación de las mercancías que, en principio, podrían incluirse en
+varias partidas, bien por aplicación de la Regla 2 b), bien en cualquier otro caso. Estos métodos se aplican
+en el orden en que figuran en la Regla. Así, la Regla 3 b) sólo se aplica si la Regla 3 a) no aporta ninguna
+solución al problema de clasificación y la Regla 3 c) entrará en juego si las Reglas 3 a) y 3 b) son inoperantes. El orden en el que sucesivamente hay que considerar los elementos de la clasificación es el siguiente:
+a) la partida más específica, b) el carácter esencial y c) la última partida por orden de numeración.
+
+NOTAS EXPLICATIVAS DEL SISTEMA ARMONIZADO
+
+10
+II)
+
+SÉPTIMA ENMIENDA - 2022
+
+La Regla sólo se aplica si no es contraria a los textos de las partidas y de las Notas de Sección o de
+Capítulo. Por ejemplo, la Nota 4 B) del Capítulo 97 indica que los artículos susceptibles de clasificarse
+en las partidas 97.01 a 97.05 y en la partida 97.06, deben clasificarse en la más apropiada de las partidas
+97.01 a 97.05. La clasificación de estos artículos se desprende de la Nota 4 B) del Capítulo 97 y no de la
+presente Regla.
+REGLA 3 a)
+
+III)
+
+El primer método de clasificación está expuesto en la Regla 3 a), en virtud de la cual la partida más específica tendrá prioridad sobre las partidas de alcance más general.
+
+IV) No es posible sentar principios rigurosos que permitan determinar si una partida es más específica que
+otra respecto de la mercancía presentada; sin embargo, se puede decir con carácter general:
+a)
+
+Que una partida que designa nominalmente un artículo determinado es más específica que una partida
+que comprenda una familia de artículos: por ejemplo, las máquinas de afeitar, de cortar el pelo y de
+esquilar, con motor eléctrico incorporado, se clasifican en la partida 85.10 y no en la 85.08 (herramientas
+electromecánicas con motor eléctrico incorporado, de uso manual) ni en la partida 85.09 (aparatos
+electromecánicos con motor eléctrico incorporado, de uso doméstico).
+
+b)
+
+que debe considerarse más específica la partida que identifique más claramente y con una descripción
+más precisa y más completa la mercancía considerada.
+Se pueden citar como ejemplos de este último tipo de mercancías:
+
+V)
+
+1)
+
+Las alfombras de materias textiles con pelo insertado, reconocibles como destinadas a los vehículos automóviles, que deben clasificarse en la partida 57.03 donde están comprendidas más
+específicamente, y no como accesorios de vehículos automóviles de la partida 87.08.
+
+2)
+
+Los vidrios de seguridad, que son vidrios templados o formados con hojas encoladas, sin enmarcar,
+con forma, reconocibles para su utilización como parabrisas de aviones, que deben clasificarse
+en la partida 70.07 donde están comprendidos más específicamente y no en la partida 88.03
+como partes de aparatos de las partidas 88.01 y 88.02.
+
+Sin embargo, cuando dos o más partidas se refieran cada una de ellas a una sola de las materias que
+constituyan un producto mezclado o un artículo compuesto, o a una sola parte de los artículos en el caso
+de mercancías presentadas en juegos o en surtidos acondicionados para la venta al por menor, estas partidas hay que considerarlas, en relación con dicho producto o dicho artículo, como igualmente específicas,
+incluso si una de ellas da una descripción más precisa o más completa. En este caso, la clasificación de
+los artículos estará determinada por aplicación de la Regla 3 b) o 3 c).
+REGLA 3 b)
+
+VI) Este segundo método de clasificación se refiere únicamente a los casos de:
+1)
+2)
+3)
+4)
+
+productos mezclados;
+manufacturas compuestas de materias diferentes;
+manufacturas constituidas por la unión de artículos diferentes;
+mercancías presentadas en juegos o en surtidos acondicionados para la venta al por menor.
+
+Esta Regla sólo se aplica si la Regla 3 a) es inoperante.
+VII) En estas diversas hipótesis, la clasificación de las mercancías debe hacerse según la materia o el artículo
+que confiera el carácter esencial cuando sea posible determinarlo.
+VIII) El factor que determina el carácter esencial varía según la clase de mercancías. Puede resultar, por ejemplo,
+de la naturaleza de la materia constitutiva o de los artículos que la componen, del volumen, la cantidad,
+el peso, el valor, o la importancia de una de las materias constitutivas en relación con la utilización de la
+mercancía.
+IX) Para la aplicación de la presente Regla, se consideran manufacturas constituidas por la unión de artículos
+diferentes, no sólo aquéllas cuyos elementos componentes están fijados los unos a los otros formando un
+
+NOTAS EXPLICATIVAS DEL SISTEMA ARMONIZADO
+SÉPTIMA ENMIENDA - 2022
+
+11
+
+todo prácticamente indisociable, sino también aquéllas en que los elementos son separables, a condición
+de que estos elementos estén adaptados unos a otros y sean complementarios los unos de los otros y que
+unidos constituyan un todo que no pueda venderse normalmente por elementos separados.
+Se pueden citar como ejemplos de este último tipo de manufacturas:
+1)
+
+Los ceniceros compuestos por un soporte en el que se inserta un platillo amovible destinado a las
+cenizas.
+
+2)
+
+Los especieros compuestos por un soporte (generalmente de madera) y de un cierto número de frascos
+vacíos de forma y dimensiones apropiadas para las especias.
+
+Los diferentes elementos que componen estos conjuntos se presentan, por regla general, en un mismo
+envase.
+X)
+
+Para la aplicación de la presente Regla, se considera que se presentan en juegos o en surtidos acondicionados para la venta al por menor, las mercancías que reúnan simultáneamente las condiciones siguientes:
+a)
+
+Que estén constituidas por lo menos por dos artículos diferentes que, en principio, puedan clasificarse
+en partidas distintas. No se considerarían como un surtido, a efectos de esta Regla, seis tenedores
+de «fondue»;
+
+b)
+
+que estén constituidas por productos o artículos que se presenten juntos para la satisfacción de una
+necesidad específica o el ejercicio de una actividad determinada; y
+
+c)
+
+que estén acondicionadas de modo que puedan venderse directamente a los utilizadores sin reacondicionar (por ejemplo, cajas, cofres, panoplias).
+
+El término «mercancías presentadas en juegos para la venta al por menor» por lo que sólo cubre los
+sistemas que consiste en bienes destinados a ser vendidos al usuario final, donde están destinados los
+productos individuales para ser utilizados juntos. Por ejemplo, diferentes productos alimenticios destinados
+a ser utilizados conjuntamente en la preparación de «un producto listo para el consumo plato o comida,
+envasados juntos y destinados al consumo por parte del comprador sería un conjunto preparado para la
+venta al por menor».
+Se pueden citar como ejemplos de surtidos cuya clasificación puede realizarse por aplicación de la Regla
+General Interpretativa 3 b):
+1)
+
+a)
+
+Los juegos o surtidos que consisten en un bocadillo de carne con o sin queso en un panecillo
+(partida 16.02) presentado en un embalaje con una ración de patatas (papas) fritas (partida 20.04):
+Se clasifican en la partida 16.02.
+
+b)
+
+Los juegos o surtidos cuyos componentes se destinan a ser utilizados conjuntamente para la
+elaboración de un plato de espaguetis, constituidos por un paquete de espaguetis sin cocer (partida 19.02), una bolsita de queso rallado (partida 04.06) y una latita de salsa de tomate (partida
+21.03), presentados en una caja de cartón:
+Se clasifican en la partida 19.02.
+
+Sin embargo, no deben considerarse surtidos determinados productos alimenticios presentados conjuntamente que comprendan, por ejemplo:
+-
+
+camarones (partida 16.05), paté de hígado (partida 16.02), queso (partida 04.06), tiras (lonchas)
+de panceta (partida 16.02) y salchichas llamadas coctel (partida 16.01), que se presentan cada
+uno en una lata;
+
+-
+
+una botella de una bebida alcohólica de la partida 22.08 y una botella de vino de la partida 22.04.
+
+En el caso de estos dos ejemplos, así como en otros casos similares, cada artículo se clasificará por
+separado en su partida correspondiente. También se aplica, por ejemplo, para el café soluble en un
+frasco de vidrio (partida 21.01), una taza y un plato de cerámica (partida 69.12), acondicionados juntos
+
+NOTAS EXPLICATIVAS DEL SISTEMA ARMONIZADO
+
+12
+
+SÉPTIMA ENMIENDA - 2022
+
+a la venta al por menor en una caja de cartón.
+2)
+
+Los neceseres para el cuidado del cabello constituidos por una maquinilla eléctrica de cortar el pelo
+(partida 85.10), un peine (partida 96.15), unas tijeras (partida 82.13), un cepillo (partida 96.03) y una
+toalla de materia textil (partida 63.02), que se presenten en un estuche de cuero (partida 42.02):
+Se clasifican en la partida 85.10.
+
+3)
+
+Los juegos de dibujo compuestos por una regla (partida 90.17), un círculo de cálculo (transportador)
+(partida 90.17), un compás (partida 90.17), un lápiz (partida 96.09) y un sacapuntas (partida 82.14),
+que se presenten en un estuche de plástico en hojas (partida 42.02):
+Se clasifican en la partida 90.17.
+En todos los anteriores surtidos, la clasificación se realizará teniendo en cuenta el objeto, o los objetos
+considerados en su conjunto, que pueda considerarse que confieren al artículo el carácter esencial.
+
+XI) Esta Regla no se aplica a las mercancías constituidas por diferentes componentes, en proporciones determinadas, contenidas en envases separados pero que se presentan conjuntamente (incluso en embalaje
+común), por ejemplo, para la fabricación industrial de bebidas.
+REGLA 3 c)
+XII) Cuando las Reglas 3 a) o 3 b) sean inoperantes, las mercancías se clasificarán en la última partida entre
+las susceptibles de tenerse en cuenta para la clasificación.
+REGLA 4
+Las mercancías que no puedan clasificarse aplicando las Reglas anteriores se clasificaran en la partida que comprenda aquellas con las que tengan mayor analogía.
+NOTA EXPLICATIVA:
+I)
+
+Esta regla se refiere a las mercancías que no puedan clasificarse en virtud de las Reglas 1 a 3. La Regla
+dispone que las mercancías se clasificarán en la partida que comprenda los artículos que con ellas tengan
+mayor analogía.
+
+II)
+
+La clasificación de acuerdo con la Regla 4 exige la comparación de las mercancías presentadas con
+mercancías similares para determinar las más análogas a las mercancías presentadas. Estas últimas se
+clasificarán en la partida que comprenda los artículos con los que tengan mayor analogía.
+
+III)
+
+Naturalmente la analogía puede fundarse en numerosos elementos, tales como la denominación, las características o la utilización.
+REGLA 5
+
+Además de las disposiciones precedentes, a las mercancías consideradas a continuación se le aplicaran las Reglas siguientes:
+a)
+
+Los estuches para cámaras fotográficas, instrumentos musicales, armas, instrumentos de dibujo,
+collares y continentes similares, especialmente apropiados para contener un artículo determinado
+o un juego o surtido, susceptible de uso prolongado y presentados con los artículos a los que estén
+destinados, se clasificaran con dichos artículos cuando sean del tipo de los normalmente vendidos
+con ellos. Sin embargo, esta Regla no se aplica a la clasificación de los continentes que confieran
+al conjunto el carácter esencial.
+
+b)
+
+Salvo lo dispuesto en la Regla 5 a), los envases que contengan mercancías se clasificaran con ellas
+cuando sean del tipo de los normalmente utilizados para esa clase de mercancías, sin embargo,
+esta disposición no es obligatoria cuando los envases sean susceptibles de ser utilizados razonablemente de manera repetida.
+
+NOTAS EXPLICATIVAS DEL SISTEMA ARMONIZADO
+
+13
+
+SÉPTIMA ENMIENDA - 2022
+
+NOTAS EXPLICATIVAS:
+REGLA 5 a)
+(Estuches y continentes similares)
+I)
+
+II)
+
+Esta Regla debe entenderse aplicable exclusivamente a los continentes que, al mismo tiempo:
+1)
+
+estén especialmente preparados para alojar un artículo determinado o un surtido, es decir, preparados
+de tal manera que el artículo contenido encuentre su lugar exacto, aunque algunos continentes puedan
+además tener la forma del artículo que deben contener;
+
+2)
+
+sean susceptibles de uso prolongado, es decir, que estén concebidos, principalmente en cuanto a
+resistencia o acabado para tener una duración de uso en relación con la del contenido. Estos continentes suelen emplearse para proteger al artículo que alojan cuando no se utilice (transporte, colocación,
+etc.). Estos criterios permiten diferenciarlos de los embalajes corrientes;
+
+3)
+
+se presenten con los artículos que han de contener, aunque estén envasados separadamente para
+facilitar el transporte. Si se presentan aisladamente, los continentes siguen su propio régimen;
+
+4)
+
+sean de una clase que se venda normalmente con dichos artículos;
+
+5)
+
+no confieran al conjunto el carácter esencial.
+
+Como ejemplos de continentes presentados con los artículos a los que se destinan y cuya clasificación se
+realiza por aplicación de la presente Regla se pueden citar:
+1)
+
+Los estuches para joyas (partida 71.13);
+
+2)
+
+Los estuches para máquinas de afeitar eléctricas (partida 85.10);
+
+3)
+
+Los estuches para gemelos y prismáticos o los estuches para anteojos de larga vista (partida 90.05);
+
+4) Las fundas y estuches para instrumentos de música (por ejemplo, partida 92.02);
+5) Los estuches para escopetas (por ejemplo, partida 93.03).
+III)
+
+Por el contrario, se pueden citar como ejemplos de continentes que no están afectados por esta Regla, los
+continentes tales como los botes de plata para té que contengan té o las copas decorativas de cerámica
+que contengan caramelos.
+REGLA 5 b)
+(Envases)
+
+IV) La presente Regla rige la clasificación de los envases del tipo de los normalmente utilizados para las
+mercancías que contienen. Sin embargo, esta disposición no es obligatoria cuando tales envases sean
+claramente susceptibles de utilización repetida, por ejemplo, en el caso de ciertos bidones metálicos o de
+recipientes de hierro o acero para gases comprimidos o licuados.
+V)
+
+Dado que la presente Regla está subordinada a la aplicación de las disposiciones de la Regla 5 a), la
+clasificación de los estuches y continentes similares del tipo de los mencionados en la Regla 5 a) se regirá
+por las disposiciones de esta Regla.
+REGLA 6
+
+La clasificación de mercancías en las subpartidas de una misma partida está determinada legalmente
+por los textos de estas subpartidas y de las Notas de subpartida así como, mutatis mutandis, por las
+Reglas anteriores, bien entendido que solo pueden compararse subpartidas del mismo nivel. A efecto
+de esta Regla, también se aplacan las Notas de Sección y de Capitulo, salvo disposición en contrario.
+NOTA EXPLICATIVA:
+I)
+
+Las Reglas 1 a 5 precedentes rigen, mutatis mutandis, la clasificación a nivel de subpartidas dentro de una
+
+NOTAS EXPLICATIVAS DEL SISTEMA ARMONIZADO
+
+14
+
+SÉPTIMA ENMIENDA - 2022
+
+misma partida.
+II)
+
+Para la aplicación de la Regla 6, se entenderá:
+a)
+
+por subpartidas del mismo nivel, bien las subpartidas de un guión (nivel 1), bien las subpartidas con
+dos guiones (nivel 2).
+En consecuencia, si en el marco de una misma partida, pueden tomarse en consideración, de acuerdo
+con la Regla 3 a), dos o más subpartidas con un guión, debe apreciarse la especificidad de cada una
+de estas subpartidas con un guión en relación con un artículo determinado en función exclusivamente
+de su propio texto. Cuando ya se ha hecho la elección de la subpartida con un guión más específica
+y está subdividida, entonces, y sólo entonces, interviene el considerar el texto de las subpartidas a
+dos guiones para determinar cuál de ellas debe mantenerse finalmente.
+
+b)
+
+Por disposición en contrario, las Notas o los textos de las subpartidas que serían incompatibles con
+tal o cual Nota de Sección o de Capítulo.
+Ocurre así, por ejemplo, con la Nota de subpartida 2 del Capítulo 71, que da al término platino un
+alcance diferente del contemplado por la Nota 4b del mismo Capítulo y que es la única aplicable para
+la interpretación de las subpartidas 7110.11 y 7110.19.
+
+III)
+
+El alcance de una subpartida con dos guiones no debe extenderse más allá del ámbito abarcado por la
+subpartida con un guión a la que pertenece y ninguna subpartida con un guión podrá ser interpretada con
+un alcance más amplio del campo abarcado por la partida a que pertenece.
+-------------------------
+
+NOTAS EXPLICATIVAS DEL SISTEMA ARMONIZADO
+
+15
+
+SÉPTIMA ENMIENDA - 2022
+
+SECCIÓN I
+ANIMALES VIVOS Y PRODUCTOS DEL REINO ANIMAL
+Notas.
+1.
+
+En esta Sección, cualquier referencia a un género o a una especie determinada de un animal se aplica
+también, salvo disposición en contrario, a los animales jóvenes de ese género o de esa especie.
+
+2.
+
+Salvo disposición en contrario, cualquier referencia en la Nomenclatura a productos secos o desecados
+alcanza también a los productos deshidratados, evaporados o liofilizados.
+-------------------------
+
+CAPÍTULO 1
+ANIMALES VIVOS
+Nota.
+1.
+
+Este Capítulo comprende todos los animales vivos, excepto:
+a)
+
+Los peces, los crustáceos, moluscos y demás invertebrados acuáticos, de las partidas 03.01, 03.06,
+03.07 o 03.08;
+
+b)
+
+Los cultivos de microorganismos y demás productos de la partida 30.02; y
+
+c)
+
+Los animales de la partida 95.08.
+CONSIDERACIONES GENERALES
+
+Este Capítulo comprende todos los animales vivos (para la alimentación u otros usos), excepto:
+1)
+
+Los peces, los crustáceos, moluscos y demás invertebrados acuáticos.
+
+2)
+
+Los cultivos de microorganismos y demás productos de la partida 30.02.
+
+3)
+
+Los animales que formen parte de circos, zoológicos ambulantes u otra atracción de feria (partida 95.08)
+
+Los animales muertos durante el transporte se clasifican en una de las partidas 02.01 a 02.05, 02.07, 02.08,
+si se trata de especies comestibles y se reconocen aptos para la alimentación humana. En caso contrario, se
+clasificarán en la partida 05.11.
+01.01
+
+Caballos, asnos, mulos y burdéganos, vivos (+).
+-
+
+Caballos:
+
+0101.21 - - Reproductores de raza pura
+0101.29 - - Los demás
+0101.30 -
+
+Asnos
+
+0101.90 -
+
+Los demás
+
+Esta partida comprende los caballos (enteros, castrados, yeguas, jacas, potros y ponis), los asnos (incluidas
+las asnas y pollinos, así como hemíonos y onagros), mulos (incluidas las mulas) y burdéganos, domésticos o
+salvajes.
+Los mulos y mulas son híbridos de asno y yegua. El burdégano procede del cruce de caballo y asna.
+
+NOTAS EXPLICATIVAS DEL SISTEMA ARMONIZADO
+
+16
+
+SÉPTIMA ENMIENDA - 2022
+
+Nota explicativa de subpartida.
+Subpartida 0101.21
+En la subpartida 0101.21, la expresión reproductores de raza pura comprende solamente los animales
+reproductores que se consideren de raza pura por las autoridades nacionales competentes.
+01.02
+
+Animales vivos de la especie bovina.
+-
+
+Bovinos domésticos:
+
+0102.21 - - Reproductores de raza pura
+0102.29 - - Los demás
+-
+
+Búfalos:
+
+0102.31 - - Reproductores de raza pura
+0102.39 - - Los demás
+0102.90 -
+
+Los demás
+
+La presente partida comprende todos los bovinos de la subfamilia Bovinae, aunque no pertenezcan a especies domésticas, cualquiera que sea su destino (por ejemplo: renta, crianza, cebado, reproducción, sacrificio).
+Entre ellos, se pueden citar:
+1)
+
+Los bovinos domésticos:
+Esta categoría comprende los animales bovinos del género Bos, que se dividen en cuatro subgéneros:
+Bos, Bibos, Novibos y Poephagus. Entre ellos, se pueden citar:
+
+2)
+
+A)
+
+El buey común (Bos taurus), el Cebú o buey de joroba (Bos indicus) y el buey Watussi.
+
+B)
+
+Los bueyes asiáticos del subgénero Bibos, tales como el Gaur (Bibos gaurus), el Gayal (Bibos frontalis)
+y el Banteng (Bibos sondaicus o Bibos javanicus).
+
+C)
+
+Los animales del subgénero Poephagus, como los Yaks del Tíbet (Bos grunniens).
+
+Los búfalos:
+Esta categoría comprende a los animales de los géneros Bubalus, Syncerus y Bison. Entre ellos, se pueden
+citar:
+
+3)
+
+A)
+
+Los animales del género Bubalus, incluidos el búfalo hindú o búfalo de agua (Bubalus bubalis), el
+búfalo asiático, Tamarao o Arni (Bubalus arni) y el Anoa de las Célebes o búfalo pigmeo (Bubalus
+depressicornis o Anoa depressicornis).
+
+B)
+
+Los búfalos de África del género Syncerus, tales como el búfalo enano (Syncerus nanus) y el gran
+búfalo Cafre (Syncerus caffer).
+
+C)
+
+Los animales del género Bison, a saber, el bisonte de América (Bison bison) o « búfalo » y el bisonte
+de Europa (Bison bonasus).
+
+D)
+
+El « beefalo » (cruce entre un bisonte y un animal doméstico de la especie bovina).
+
+Los demás, incluidos el antílope cuadricorne (Tetracerus quadricornis) y el antílope de cuernos en espiral
+de los géneros Taurotragus y Tragelaphus.
+
+Nota explicativa de subpartidas.
+Subpartidas 0102.21 y 0102.31
+En la subpartidas 0102.21 y 0102.31, la expresión reproductores de raza pura comprende solamente los
+animales reproductores que se consideran de raza pura por las autoridades nacionales competentes.
+
+NOTAS EXPLICATIVAS DEL SISTEMA ARMONIZADO
+SÉPTIMA ENMIENDA - 2022
+
+01.03
+
+17
+
+Animales vivos de la especie porcina (+).
+0103.10 -
+
+Reproductores de raza pura
+Los demás:
+
+0103.91 - - De peso inferior a 50 kg
+0103.92 - - De peso superior o igual a 50 kg
+Esta partida comprende tanto los cerdos domésticos como los salvajes, tales como los jabalíes.
+Notas explicativas de subpartidas.
+Subpartida 0103.10
+En la subpartida 0103.10, la expresión reproductores de raza pura comprende solamente los animales
+reproductores que se consideran de raza pura por las autoridades nacionales competentes.
+Subpartidas 0103.91 y 0103.92
+En las subpartidas 0103.91 y 0103.92, los límites de peso se refieren al peso de cada animal.
+01.04
+
+Animales vivos de las especies ovina o caprina.
+0104.10 -
+
+De la especie ovina
+
+0104.20 -
+
+De la especie caprina
+
+La presente partida comprende, por una parte, los carneros, ovejas, moruecos y corderos y, por otra parte,
+las cabras, machos cabríos y cabritos, tanto de las especies domésticas como de las salvajes.
+01.05
+
+Gallus Domésticus, gallinas, patos, gansos, pavos (gallipavos) y pintadas, de las especies domésticas, vivos.
+-
+
+De peso inferior o igual a 185 g:
+
+0105.11 - - Aves de la especie Gallus Domesticus
+0105.12 - - Pavos (gallipavos)
+0105.13 - - Patos
+0105.14 - - Gansos
+0105.15 - - Pintadas
+-
+
+Los demás:
+
+0105.94 - - Aves de la especie Gallus domesticus
+0105.99 - - Los demás
+Esta partida se refiere únicamente a las aves domésticas vivas (aves de corral) especificadas en su texto,
+incluidos los pollos y capones. Las demás aves vivas (por ejemplo: patos silvestres, gansos silvestres, perdices,
+faisanes, palomas) se clasifican en la partida 01.06.
+Nota explicativa de subpartidas.
+Subpartidas 0105.11, 0105.12, 0105.13, 0105.14 y 0105.15
+En las subpartidas 0105.11, 0105.12, 0105.13, 0105.14 y 0105.15, el límite de peso indicado se refiere al
+peso de cada ave.
+01.06
+
+Los demás animales vivos.
+-
+
+Mamíferos:
+
+0106.11 - - Primates
+
+NOTAS EXPLICATIVAS DEL SISTEMA ARMONIZADO
+
+18
+
+SÉPTIMA ENMIENDA - 2022
+
+0106.12 - - Ballenas, delfines y marsopas (mamíferos del orden Cetacea); manatíes y dugones o
+dugongos (mamíferos del orden Sirenia); otarios y focas, leones marinos y morsas (mamíferos del suborden Pinnipedia)
+0106.13 - - Camellos y demás camélidos (Camelidae)
+0106.14 - - Conejos y liebres
+0106.19 - - Los demás
+0106.20 -
+
+Reptiles (incluidas las serpientes y tortugas de mar)
+Aves:
+
+0106.31 - - Aves de rapiña
+0106.32 - - Psitaciformes (incluidos los loros, guacamayas, cacatúas y demás papagayos)
+0106.33 - - Avestruces; emúes (Dromaius novaehollandiae)
+0106.39 - - Las demás
+-
+
+Insectos:
+
+0106.41 - - Abejas
+0106.49 - - Los demás
+0106.90 -
+
+Los demás
+
+Esta partida comprende, entre otros, los animales domésticos o salvajes siguientes:
+A)
+
+Mamíferos:
+1)
+
+Primates.
+
+2)
+
+Las ballenas, delfines y marsopas (mamíferos del orden Cetáceos); los manatíes y dugones o dugongos
+(mamíferos del orden Sirenios); otarios y focas, leones marinos y morsas (mamíferos del suborden
+Pinnipedia).
+
+3)
+
+Los demás (por ejemplo, renos, gatos, perros, leones, tigres, osos, elefantes, camellos (incluidos
+los dromedarios), cebras, conejos, liebres, ciervos, antílopes (excepto los antílopes de la subfamilia
+Bovinae), gamuzas, zorros, visones y los animales que se crían para peletería).
+
+B)
+
+Reptiles (incluidas las serpientes y tortugas de mar).
+
+C)
+
+Aves:
+1)
+
+Las de rapiña.
+
+2)
+
+Las Psitaciformes (incluidos los loros, guacamayas, cacatúas y demás papagayos).
+
+3)
+
+Las demás (por ejemplo, perdices, faisanes, codornices, chochas, agachadizas, palomas, urogallos
+y lagópedos, ortegas, patos salvajes, gansos salvajes, tordos, mirlos, alondras, pinzones, paros,
+colibríes, pavos reales, cisnes y las no comprendidas en la partida 01.05).
+
+D)
+
+Los insectos, por ejemplo, las abejas domésticas (incluso en colmenas, cajas o continentes similares).
+
+E)
+
+Los demás, por ejemplo, las ranas.
+
+Se excluyen de esta partida los animales que formen parte de circos, zoológicos ambulantes o demás
+atracciones de feria similares (partida 95.08).
+-------------------------
+
+NOTAS EXPLICATIVAS DEL SISTEMA ARMONIZADO
+
+19
+
+SÉPTIMA ENMIENDA - 2022
+
+CAPÍTULO 2
+CARNE Y DESPOJOS COMESTIBLES
+Nota.
+1.
+
+Este Capítulo no comprende:
+a)
+
+respecto de las partidas 02.01 a 02.08 y 02.10, los productos impropios para la alimentación humana;
+
+b)
+
+los insectos comestibles, sin vida (partida 04.10).
+
+c)
+
+las tripas, vejigas y estómagos de animales (partida 05.04), ni la sangre animal (partidas 05.11 o 30.02);
+
+d)
+
+las grasas animales, excepto los productos de la partida 02.09 (Capítulo 15).
+CONSIDERACIONES GENERALES
+
+El presente Capítulo comprende la carne en canales (es decir, el cuerpo del animal, con cabeza o sin
+ella), en medias canales (es decir, una canal dividida en dos en el sentido de su longitud), en cuartos, trozos,
+etc., y los despojos, la harina y el polvo de carne o de despojos de toda clase de animales (excepto pescado
+y crustáceos, moluscos o demás invertebrados acuáticos del Capítulo 3), aptos para la alimentación humana.
+Se excluyen la carne y despojos impropios para la alimentación humana (partida 05.11). También se excluyen la harina, polvo y «pellets», de carne y de despojos, impropios para la alimentación humana (partida 23.01).
+En general, los despojos se pueden agrupar en cuatro categorías:
+1)
+
+Los que se utilizan principalmente para la alimentación humana, tales como la cabeza y sus trozos (incluidas
+las orejas), patas, cola, corazón, lengua, diafragma, menudos, redaño, garganta, timo (molleja o lechecillas).
+
+2)
+
+Los que sólo pueden emplearse en la preparación de productos farmacéuticos, tales como vesícula biliar,
+cápsulas suprarrenales, placenta.
+
+3)
+
+Los que pueden utilizarse en la alimentación humana o en la preparación de productos farmacéuticos,
+tales como hígado, riñones, pulmones, sesos, páncreas, bazo, médula espinal, ovarios, úteros, testículos,
+ubres, tiroides, hipófisis.
+
+4)
+
+Los que, como las pieles, pueden utilizarse en la alimentación humana o para otros fines (por ejemplo, en
+la industria del cuero).
+
+Los despojos comprendidos en el apartado 1), cuando se presenten frescos, refrigerados, congelados,
+salados o en salmuera, secos o ahumados, corresponden al presente Capítulo, salvo el caso en que, por estar
+averiados y reconocidos como impropios para la alimentación humana, deban clasificarse en la partida 05.11.
+Los comprendidos en el apartado 2) corresponden a la partida 05.10, si se presentan frescos, refrigerados,
+congelados o conservados provisionalmente de otro modo y a la partida 30.01, si se presentan secos.
+Los despojos del apartado 3) se clasifican:
+a)
+
+En la partida 05.10 si con el fin de utilizarlos en la fabricación de productos farmacéuticos, están conservados provisionalmente con productos tales como glicerina, acetona, alcohol, formaldehído, borato sódico.
+
+b)
+
+En la partida 30.01, si se presentan secos.
+
+c)
+
+En el Capítulo 2, si son consumibles tal como se presentan (salvo el caso de productos averiados y que
+sean impropios para la alimentación humana, que se clasificarán en la partida 05.11).
+
+Los despojos citados en el apartado 4) pertenecen al Capítulo 2 cuando son aptos para la alimentación
+humana o, generalmente, a la partida 05.11 o al Capítulo 41, si son impropios para la alimentación humana.
+
+NOTAS EXPLICATIVAS DEL SISTEMA ARMONIZADO
+
+20
+
+SÉPTIMA ENMIENDA - 2022
+
+Las tripas, vejigas y estómagos de animales, excepto los de pescado, incluso comestibles, están comprendidos en la partida 05.04.
+La grasa que se presenta adherida al animal, entero o cortado, sigue el régimen de la carne. En cambio,
+la grasa animal que se presente separada, se clasifica en el Capítulo 15, excepto, sin embargo, el tocino sin
+partes magras y la grasa de cerdo o de ave sin fundir, quedan comprendidos en la partida 02.09, aunque sólo
+sean aptos para usos industriales.
+Distinción entre la carne y los despojos del presente Capítulo y los productos del Capítulo 16.
+Sólo están comprendidos en este Capítulo la carne y los despojos presentados en las formas siguientes,
+aunque hayan sido sometidos a un tratamiento térmico poco intenso con agua caliente o vapor (como el escaldado o blanqueado), pero que no tenga por efecto una verdadera cocción de los productos:
+1)
+
+Frescos (es decir, en estado natural), incluso espolvoreados con sal para conservarlos durante el transporte.
+
+2)
+
+Refrigerados, es decir, enfriados generalmente hasta una temperatura aproximada a los 0 ºC sin llegar a
+la congelación.
+
+3)
+
+Congelados, es decir, enfriados por debajo del punto de congelación hasta obtener la congelación total.
+
+4)
+
+Salados o en salmuera, secos o ahumados.
+
+También se clasifica en este Capítulo, la carne ligeramente espolvoreada con azúcar o rociada con agua
+azucarada.
+La carne y despojos presentados en las formas citadas en los anteriores apartados 1) a 4), quedan también
+comprendidos en el presente Capítulo, aunque hayan sido tratados con enzimas proteolíticas (por ejemplo, papaína) para ablandarlos o hayan sido troceados, fileteados o picados. Además, las mezclas o combinaciones de
+productos que correspondan a partidas diferentes del Capítulo (por ejemplo: aves de la partida 02.07 envueltas
+con tocino de la partida 02.09) quedan comprendidas en el presente Capítulo.
+Por el contrario, la carne y despojos se clasifican en el Capítulo 16, cuando se presenten:
+a)
+
+En forma de embutidos y productos similares, cocidos o sin cocer, de la partida 16.01.
+
+b)
+
+Cocinados por cualquier procedimiento (en agua, a la parrilla o a la plancha, fritos o asados) o preparados
+o conservados por cualquier procedimiento no previsto en el presente Capítulo, incluidos los simplemente
+rebozados con pasta o con pan rallado (empanados), trufados o sazonados (por ejemplo: con pimienta y
+sal), incluido el paté de hígado (partida 16.02).
+
+El presente Capítulo comprende también la carne y despojos propios para la alimentación humana, incluso
+cocidos, en forma de harina o polvo.
+La carne y despojos, en las formas previstas en este Capítulo, pueden presentarse ocasionalmente en
+envases herméticos (por ejemplo, carne simplemente seca en latas) sin que por ello se modifique, en principio,
+su clasificación. Sin embargo, debe advertirse que los productos dispuestos en tales envases pertenecerán,
+en la mayoría de los casos, a las partidas del Capítulo 16, por haber sido sometidos a una preparación distinta
+de las previstas en el presente Capítulo, o porque su modo de conservación efectiva difiera igualmente de los
+procedimientos citados en el presente Capítulo.
+Asimismo permanecen clasificados en este Capítulo la carne y despojos (por ejemplo, la carne de animales
+de la especie bobina, fresca o refrigerada) cuando están acondicionados en envases según el método denominado
+«acondicionamiento en atmósfera modificada» (Modified Atmospheric Packaging (MAP)). Con este método (MAP)
+la atmósfera que rodea al producto se cambia o se controla (por ejemplo, sustituyendo el oxígeno por nitrógeno o
+dióxido de carbono, o reduciendo el contenido de oxígeno y aumentando el de nitrógeno o dióxido de carbono).
+Nota explicativa de subpartida.
+Sin deshuesar
+La expresión sin deshuesar designa a la carne con todos los huesos intactos, o a la que se le han retirado
+
+NOTAS EXPLICATIVAS DEL SISTEMA ARMONIZADO
+SÉPTIMA ENMIENDA - 2022
+
+21
+
+algunos huesos o parte de éstos (por ejemplo, los jamones sin el hueso del jarrete o jamones semi deshuesados).
+Sin embargo, esta expresión no comprende los productos cuyos huesos han sido extraídos y posteriormente
+reinsertados de tal forma que ya no están unidos a los tejidos de la carne.
+02.01
+
+Carne de animales de la especie bovina, fresca o refrigerada.
+0201.10 -
+
+En canales o medias canales
+
+0201.20 -
+
+Los demás cortes (trozos) sin deshuesar
+
+0201.30 -
+
+Deshuesada
+
+Esta partida comprende la carne fresca o refrigerada de los animales de la especie bovina, domésticos o
+salvajes, comprendidos en la partida 01.02.
+02.02
+
+Carne de animales de la especie bovina, congelada.
+0202.10 -
+
+En canales o medias canales
+
+0202.20 -
+
+Los demás cortes (trozos) sin deshuesar
+
+0202.30 -
+
+Deshuesada
+
+Esta partida comprende la carne congelada de los animales de la especie bovina, domésticos o salvajes,
+comprendidos en la partida 01.02.
+02.03
+
+Carne de animales de la especie porcina, fresca, refrigerada o congelada.
+-
+
+Fresca o refrigerada:
+
+0203.11 - - En canales o medias canales
+0203.12 - - Piernas, paletas y sus trozos, sin deshuesar
+0203.19 - - Las demás
+-
+
+Congelada:
+
+0203.21 - - En canales o medias canales
+0203.22 - - Piernas, paletas y sus trozos, sin deshuesar
+0203.29 - - Las demás
+Esta partida comprende la carne fresca, refrigerada o congelada de los cerdos de las especies domésticas
+o salvajes (por ejemplo, jabalíes). Esta partida comprende el tocino entreverado de panza (panceta) y el tocino
+con una capa de carne adherida.
+02.04
+
+Carne de animales de las especies ovina o caprina, fresca, refrigerada o congelada (+).
+0204.10 -
+
+Canales o medias canales de cordero, frescas o refrigeradas
+Las demás carnes de animales de la especie ovina, frescas o refrigeradas:
+
+0204.21 - - En canales o medias canales
+0204.22 - - Los demás cortes (trozos) sin deshuesar
+0204.23 - - Deshuesadas
+0204.30 -
+
+Canales o medias canales de cordero, congeladas
+Las demás carnes de animales de la especie ovina, congeladas:
+
+0204.41 - - En canales o medias canales
+0204.42 - - Los demás cortes (trozos) sin deshuesar
+0204.43 - - Deshuesadas
+0204.50 -
+
+Carne de animales de la especie caprina
+
+Esta partida comprende la carne fresca, refrigerada o congelada de los carneros (moruecos, ovejas y
+corderos), cabras o cabritos, de las especies domésticas o salvajes.
+
+NOTAS EXPLICATIVAS DEL SISTEMA ARMONIZADO
+
+22
+
+SÉPTIMA ENMIENDA - 2022
+
+Nota explicativa de subpartida.
+Subpartidas 0204.10 y 0204.30
+En las subpartidas 0204.10 y 0204.30, la carne de cordero es la carne de un animal de la especie ovina,
+que no exceda de 12 meses de edad. La carne es fina y de textura compacta, de color rosa oscuro y de aspecto
+aterciopelado. El peso de la canal no debe ser inferior o igual a 26 kg.
+02.05
+
+Carne de animales de las especies caballar, asnal o mular, fresca, refrigerada o congelada.
+
+Esta partida comprende la carne fresca, refrigerada o congelada de los animales que, vivos, se clasifican
+en la partida 01.01.
+02.06
+
+Despojos comestibles de animales de las especies bovina, porcina, ovina, caprina, caballar,
+asnal o mular, frescos, refrigerados o congelados.
+0206.10 -
+
+De la especie bovina, frescos o refrigerados
+De la especie bovina, congelados:
+
+0206.21 - - Lenguas
+0206.22 - - Hígados
+0206.29 - - Los demás
+0206.30 -
+
+De la especie porcina, frescos o refrigerados
+De la especie porcina, congelados:
+
+0206.41 - - Hígados
+0206.49 - - Los demás
+0206.80 -
+
+Los demás, frescos o refrigerados
+
+0206.90 -
+
+Los demás, congelados
+
+Corresponden a esta partida los despojos comestibles, tales como: cabeza y sus trozos (incluidas las orejas),
+patas, cola, corazón, ubres, hígado, riñones, timo (molleja o lechecillas), páncreas, sesos, pulmón, garganta,
+diafragma, bazo, lengua, redaño, médula espinal, piel comestible, órganos reproductores (por ejemplo: útero,
+ovarios, testículos), tiroides, hipófisis. Véanse las Consideraciones generales de este Capítulo en cuanto a los
+principios que deben aplicarse para la clasificación de los despojos.
+02.07
+
+Carne y despojos comestibles, de aves de la partida 01.05, frescos, refrigerados o congelados.
+0207.1
+
+-
+
+De aves de la especie Gallus domesticus:
+
+0207.11 - - Sin trocear, frescos o refrigerados
+0207.12 - - Sin trocear, congelados
+0207.13 - - Trozos y despojos, frescos o refrigerados
+0207.14 - - Trozos y despojos, congelados
+-
+
+De pavo (gallipavo):
+
+0207.24 - - Sin trocear, frescos o refrigerados
+0207.25 - - Sin trocear, congelados
+0207.26 - - Trozos y despojos, frescos o refrigerados
+0207.27 - - Trozos y despojos, congelados
+-
+
+De pato:
+
+0207.41 - - Sin trocear, frescos o refrigerados
+0207.42 - - Sin trocear, congelados
+0207.43 - - Hígados grasos, frescos o refrigerados
+0207.44 - - Los demás, frescos o refrigerados
+0207.45 - - Los demás, congelados
+-
+
+De ganso:
+
+NOTAS EXPLICATIVAS DEL SISTEMA ARMONIZADO
+SÉPTIMA ENMIENDA - 2022
+
+23
+
+0207.51 - - Sin trocear, frescos o refrigerados
+0207.52 - - Sin trocear, congelados
+0207.53 - - Hígados grasos, frescos o refrigerados
+0207.54 - - Los demás, frescos o refrigerados
+0207.55 - - Los demás, congelados
+0207.60 - De pintada
+Esta partida se aplica exclusivamente a la carne y a los despojos comestibles frescos, refrigerados o congelados, de las aves domésticas que, vivas, se clasifican en la partida 01.05.
+Los despojos de ave que revisten mayor importancia en el comercio internacional son los hígados de pollo,
+ganso o pato. Estos hígados comprenden los « foies gras » de ganso o de pato, que se distinguen de los demás hígados por ser mucho más gruesos y pesados, más consistentes y más ricos en grasa; su color varía del
+pardo blanquecino al castaño claro, mientras que los demás hígados tienen un color rojo más o menos oscuro.
+02.08
+
+Las demás carnes y despojos comestibles, frescos, refrigerados o congelados.
+0208.10 -
+
+De conejo o liebre
+
+0208.30 -
+
+De primates
+
+0208.40 - - De ballenas, delfines y marsopas (mamíferos del orden Cetacea); manatíes y dugones
+o dugongos (mamíferos del orden Sirenia); otarios y focas, leones marinos y morsas
+(mamíferos del suborden Pinnipedia)
+0208.50 -
+
+De reptiles (incluidas las serpientes y tortugas de mar)
+
+0208.60 -
+
+De camellos y demás camélidos (Camelidae)
+
+0208.90 -
+
+Los demás.
+
+Esta partida comprende la carne y despojos de los animales de la partida 01.06, utilizados en la alimentación
+humana, incluidos el conejo, liebre, rana, reno, castor, ballena y tortuga.
+02.09
+
+Tocino sin partes magras y grasa de cerdo o de ave sin fundir ni extraer de otro modo, frescos,
+refrigerados, congelados, salados o en salmuera, secos o ahumados.
+0209.10 -
+
+De cerdo
+
+0209.90 -
+
+Los demás
+
+El tocino aquí comprendido es el que no tiene partes magras, incluido el que sólo es apto para usos industriales. El tocino entreverado de panza (panceta) (es decir, el tocino que posee capas de carne entremezcladas)
+y el tocino con una capa de carne adherida, destinados así al consumo, están comprendidos en las partidas
+02.03 o 02.10, según los casos.
+La grasa de cerdo comprende principalmente la manteca de cerdo, es decir, la grasa que se encuentra en
+especial alrededor de las vísceras del animal. Fundida o extraída de otro modo, se clasifica en la partida 15.01.
+La grasa de ganso o de otras aves de las especies domésticas o salvajes sin fundir o extraer de otro modo
+también se incluye en esta partida. Fundida o extraída de otro modo, corresponde a la partida 15.01.
+El tocino de los mamíferos marinos corresponde al Capítulo 15.
+02.10
+
+Carne y despojos comestibles, salados o en salmuera, secos o ahumados; harina y polvo comestibles, de carne o de despojos.
+-
+
+Carne de la especie porcina:
+
+0210.11 - - Jamones, paletas y sus trozos, sin deshuesar
+0210.12 - - Tocino entreverado de panza (panceta) y sus trozos
+0210.19 - - Las demás
+
+NOTAS EXPLICATIVAS DEL SISTEMA ARMONIZADO
+
+24
+
+SÉPTIMA ENMIENDA - 2022
+
+0210.20 -
+
+Carne de la especie bovina
+Los demás, incluidos la harina y polvo comestibles, de carne o de despojos:
+
+0210.91 - - De primates
+0210.92 - - De ballenas, delfines y marsopas (mamíferos del orden Cetacea); de manatíes y dugones
+o dugongos (mamíferos del orden Sirenia); de otarios y focas, leones marinos y morsas
+(mamíferos del suborden Pinnipedia)
+0210.93 - - De reptiles (incluidas las serpientes y tortugas de mar)
+0210.99 - - Los demás
+Esta partida se aplica solamente a la carne y los despojos de cualquier clase, preparados según especifica
+su texto, excepto, sin embargo, el tocino sin partes magras y las grasas de cerdo o de aves sin fundir ni extraer
+de otro modo (partida 02.09). El tocino entreverado de panza (panceta) (es decir, el tocino que posee capas de
+carne entremezcladas) y el tocino con una capa de carne adherida, corresponden a esta partida siempre que
+estén preparados según las especificaciones del texto.
+La carne salada, seca (especialmente por deshidratación o liofilización) o ahumada, como el bacón, jamón,
+paleta (lacón) y demás carnes así preparadas, queda clasificada en esta partida aunque esté embuchada en
+tripas, estómagos, vejigas, pieles o envolturas similares (naturales o artificiales), siempre que no haya sido
+troceada o picada y combinada con otros ingredientes antes de colocarla en la envoltura (partida 16.01).
+La harina y polvo comestibles de carne o despojos también se clasifican en esta partida. La harina y polvo
+de carne o despojos impropios para la alimentación humana (por ejemplo, para alimentación de animales) se
+incluyen en la partida 23.01.
+Las disposiciones de las Notas explicativas de la partida 02.06, se aplican, mutatis mutandis, a los despojos
+comestibles de esta partida.
+-------------------------
+
+NOTAS EXPLICATIVAS DEL SISTEMA ARMONIZADO
+
+25
+
+SÉPTIMA ENMIENDA - 2022
+
+CAPÍTULO 3
+PESCADOS Y CRUSTÁCEOS, MOLUSCOS Y DEMÁS INVERTEBRADOS ACUÁTICOS
+Notas.
+1.
+
+Este Capítulo no comprende:
+a)
+
+Los mamíferos de la partida 01.06;
+
+b)
+
+La carne de los mamíferos de la partida 01.06 (partidas 02.08 o 02.10);
+
+c)
+
+El pescado (incluidos los hígados, huevas y lechas) ni los crustáceos, moluscos o demás invertebrados
+acuáticos, muertos e impropios para la alimentación humana por su naturaleza o por su estado de
+presentación (Capítulo 5); la harina, polvo y «pellets» de pescado o de crustáceos, moluscos o demás
+invertebrados acuáticos, impropios para la alimentación humana (partida 23.01);
+
+d)
+
+El caviar y los sucedáneos del caviar preparados con huevas de pescado (partida 16.04).
+
+2.
+
+En este Capítulo el término «pellets» designa los productos en forma de cilindro, bolita, etc., aglomerados
+por simple presión o con adición de una pequeña cantidad de aglutinante.
+
+3.
+
+Las partidas 03.05 a 03.08 no comprenden las harinas, polvos y “pellets”, aptos para consumo humano
+(partida 03.09).
+CONSIDERACIONES GENERALES
+
+Este Capítulo comprende todos los peces, pescados, crustáceos, moluscos y demás invertebrados acuáticos,
+vivos o muertos, se destinen directamente a la alimentación humana, o se reserven para la industria (conservera, etc.), repoblación, acuarios, etc., excepto los peces y pescados (incluidos hígados, huevas y lechas) y los
+crustáceos, moluscos y demás invertebrados acuáticos, muertos impropios para la alimentación humana por
+su especie, o por su estado de presentación (Capítulo 5).
+Se entenderá por “refrigerado” el producto cuya temperatura haya descendido generalmente hasta la
+proximidad de 0 ºC, sin alcanzar su congelación. Se entenderá por “congelado” el producto enfriado por debajo
+del punto de congelación hasta su congelación total.
+También están comprendidas en este Capítulo las huevas y lechas comestibles de pescado, sin preparar
+ni conservar o preparadas o conservadas únicamente por los procedimientos previstos en este Capítulo. Las
+huevas y lechas comestibles de pescados preparadas o conservadas de otro modo, o aptas para el consumo
+inmediato como caviar o sucedáneos del caviar, se clasifican en la partida 1604
+Distinción entre los productos de este Capítulo y los del Capítulo 16.
+Sólo están comprendidos en este Capítulo los peces y pescados (y eventualmente sus hígados, huevas y
+lechas) y los crustáceos, moluscos y demás invertebrados acuáticos que se presenten en las diversas formas
+previstas en las partidas del Capítulo. El hecho de haber sido también descabezados, troceados, cortados en
+filetes, picados o molidos, no los excluye de este Capítulo. Además, quedan comprendidas en este Capítulo,
+las mezclas o combinaciones de productos que correspondan a partidas diferentes del Capítulo (por ejemplo,
+pescados de las partidas 03.02 a 03.04 con crustáceos de la partida 03.06).
+Por otro lado, estos productos se clasifican en el Capítulo 16 si se han cocido o preparado de otra forma
+o conservado por procedimientos distintos de los indicados en este Capítulo (por ejemplo: filetes de pescado
+simplemente rebozados con pasta o pan rallado (empanados), pescados cocidos), sin embargo, el pescado,
+los crustáceos, moluscos y demás invertebrados acuáticos ahumados, que pueden haber sido cocidos antes o
+durante las operaciones de ahumado, y los crustáceos sin pelar simplemente cocidos en agua o al vapor, permanecen clasificados en las partidas 03.05, 03.06, 03.07 y 03.08 respectivamente. La harina, polvo y «pellets»
+de pescado o de crustáceos, moluscos o demás invertebrados acuáticos, cocidos, permanecen clasificados en
+las partidas 03.05, 03.06, 03.07 y 03.08, respectivamente.
+Los pescados y los crustáceos, moluscos y demás invertebrados acuáticos, en los estados previstos en
+
+NOTAS EXPLICATIVAS DEL SISTEMA ARMONIZADO
+
+26
+
+SÉPTIMA ENMIENDA - 2022
+
+este Capítulo, pueden presentarse ocasionalmente en envases herméticos (por ejemplo, salmón simplemente
+ahumado, en latas) sin que por ello se modifique, en principio, su clasificación. Sin embargo, debe advertirse que
+los productos dispuestos en tales envases pertenecerán, en la mayoría de los casos, al Capítulo 16, por haber
+sido sometidos a una preparación distinta de las previstas en este Capítulo, o porque su modo de conservación
+efectiva difiera igualmente de los procedimientos citados en este Capítulo.
+Asimismo permanecen clasificados en este Capítulo los pescados y crustáceos, moluscos y demás invertebrados acuáticos (por ejemplo, el pescado fresco o refrigerado) cuando están acondicionados en envases
+según el método denominado “acondicionamiento en atmósfera modificada” (Modified Atmospheric Packaging
+(MAP)). Con este método (MAP) la atmósfera que rodea al producto se cambia o se controla (por ejemplo, sustituyendo el oxígeno por nitrógeno o dióxido de carbono, o reduciendo el contenido de oxígeno y aumentando
+el de nitrógeno o dióxido de carbono).
+Además de los productos ya citados, se excluyen de este Capítulo:
+a)
+
+Los mamíferos marinos (partida 01.06).
+
+b)
+
+Carne de mamíferos marinos de la partida 01.06 (partidas 02.08 o 02.10).
+
+c)
+
+Los desperdicios de pescado y las huevas saladas de bacalao, utilizadas como cebo para la pesca (partida
+05.11).
+
+d)
+
+La harina, polvo y «pellets» de pescado o de crustáceos, moluscos y demás invertebrados acuáticos,
+impropios para la alimentación humana (partida 23.01).
+
+03.01
+
+Peces vivos.
+-
+
+Peces ornamentales:
+
+0301.11 - - De agua dulce
+0301.19
+
+- - Los demás
+-
+
+Los demás peces vivos:
+
+0301.91 - - Truchas (Salmo trutta, Oncorhynchus mykiss, Oncorhynchus clarki, Oncorhynchus aguabonita, Oncorhynchus gilae, Oncorhynchus apache y Oncorhynchus chrysogaster)
+0301.92 - - Anguilas (Anguilla spp.)
+0301.93 - - Carpas (Cyprinus spp., Carassius spp., Ctenopharyngodon idellus, Hypophthalmichthys
+spp., Cirrhinus spp., Mylopharyngodon piceus, Catla catla, Labeo spp., Osteochilus hasselti, Leptobarbus hoeveni, Megalobrama spp.)
+0301.94 - - Atunes comunes o de aleta azul del Atlántico y del Pacífico (Thunnus thynnus,Thunnus
+orientalis)
+0301.95 - - Atunes del sur (Thunnus maccoyii)
+0301.99 - - Los demás
+Esta partida comprende todos los peces vivos, cualquiera que sea la finalidad a la que se destinen (por
+ejemplo, peces ornamentales).
+Los peces clasificados en esta partida se transportan normalmente en acondicionamientos apropiados
+(acuarios, peceras, etc.) que les permitan evolucionar en condiciones análogas a las de su medio natural.
+Nota explicativa de subpartida.
+Subpartidas 0301.11 y 0301.19
+Se entenderá por peces ornamentales los peces vivos que por su color o su forma se destinan normalmente
+a fines ornamentales, principalmente en acuarios.
+
+NOTAS EXPLICATIVAS DEL SISTEMA ARMONIZADO
+SÉPTIMA ENMIENDA - 2022
+
+03.02
+
+27
+
+Pescado fresco o refrigerado, excepto los filetes y demás carne de pescado de la partida 03.04.
+-
+
+Salmónidos, excepto los despojos comestibles de pescado de las subpartidas 0302.91
+a 0302.99:
+
+0302.11 - - Truchas (Salmo trutta, Oncorhynchus mykiss, Oncorhynchus clarki, Oncorhynchus aguabonita, Oncorhynchus gilae, Oncorhynchus apache y Oncorhynchus chrysogaster)
+0302.13 - - Salmones del Pacífico (Oncorhynchus nerka, Oncorhynchus gorbuscha, Oncorhynchus
+keta, Oncorhynchus tschawytscha, Oncorhynchus kisutch, Oncorhynchus masou y Oncorhynchus rhodurus)
+0302.14 - - Salmones del Atlántico (Salmo salar) y salmones del Danubio (Hucho hucho)
+0302.19 - - Los demás
+-
+
+Pescados planos (Pleuronectidae, Bothidae, Cynoglossidae, Soleidae, Scophthalmidae
+y Citharidae), excepto los despojos comestibles de pescado de las subpartidas 0302.91
+a 0302.99:
+
+0302.21 - - Halibut (Fletán) (Reinhardtius hippoglossoides, Hippoglossus hippoglossus, Hippoglossus
+stenolepis)
+0302.22 - - Sollas (Pleuronectes platessa)
+0302.23 - - Lenguados (Solea spp.)
+0302.24 - - Rodaballos (turbots) (Psetta maxima)
+0302.29 - - Los demás
+-
+
+Atunes (del género Thunnus), listados (bonitos de vientre rayado) (Katsuwonus pelamis),
+excepto los despojos comestibles de pescado de las subpartidas 0302.91 a 0302.99:
+
+0302.31 - - Albacoras o atunes blancos (Thunnus alalunga)
+0302.32 - - Atunes de aleta amarilla (rabiles) (Thunnus albacares)
+0302.33 - - Listados o (bonitos de vientre rayado) (Katsuwonus pelamis).
+0302.34 - - Patudos o atunes ojo grande (Thunnus obesus)
+0302.35 - - Atunes comunes o de aleta azul, del Atlántico y del Pacífico (Thunnus thynnus,Thunnus
+orientalis)
+0302.36 - - Atunes del sur (Thunnus maccoyii)
+0302.39 - - Los demás
+-
+
+Arenques (Clupea harengus, Clupea pallasii), anchoas (Engraulis spp.), sardinas (Sardina
+pilchardus, Sardinops spp.), sardinelas (Sardinella spp.), espadines (Sprattus sprattus),
+caballas (Scomber scombrus, Scomber australasicus, Scomber japonicus), caballas de la
+India (Rastrelliger spp.), carites (Scomberomorus spp.), jureles (Trachurus spp.), pámpanos
+(Caranx spp.), cobias (Rachycentron canadum), palometones plateados (Pampus spp.),
+papardas del Pacífico (Cololabis saira), macarelas (Decapterus spp.), capelanes (Mallotus villosus), peces espada (Xiphias gladius), bacoretas orientales (Euthynnus affinis),
+bonitos (Sarda spp.), agujas, marlines, peces vela o picudos (Istiophoridae), excepto los
+despojos comestibles de pescado de las subpartidas 0302.91 a 0302.99:
+
+0302.41 - - Arenques (Clupea harengus, Clupea pallasii)
+0302.42 - - Anchoas (Engraulis spp.)
+0302.43 - - Sardinas (Sardina pilchardus, Sardinops spp.), sardinelas (Sardinella spp.) y espadines
+(Sprattus sprattus)
+0302.44 - - Caballas (Scomber scombrus, Scomber australasicus, Scomber japonicus)
+0302.45 - - Jureles (Trachurus spp.)
+0302.46 - - Cobias (Rachycentron canadum)
+0302.47 - - Peces espada (Xiphias gladius)
+0302.49 - - Los demás
+
+NOTAS EXPLICATIVAS DEL SISTEMA ARMONIZADO
+
+28
+
+SÉPTIMA ENMIENDA - 2022
+
+-
+
+Pescados de las familias Bregmacerotidae, Euclichthyidae, Gadidae, Macrouridae, Melanonidae, Merlucciidae, Moridae y Muraenolepididae, excepto los despojos comestibles
+de pescado de las subpartidas 0302.91 a 0302.99:
+
+0302.51 - - Bacalaos (Gadus morhua, Gadus ogac, Gadus macrocephalus)
+0302.52 - - Eglefinos (Melanogrammus aeglefinus)
+0302.53 - - Carboneros (Pollachius virens)
+0302.54 - - Merluzas (Merluccius spp., Urophycis spp.)
+0302.55 - - Abadejos de Alaska (Theragra chalcogramma)
+0302.56 - - Bacaladillas (Micromesistius poutassou, Micromesistius australis)
+0302.59 - - Los demás
+- - Tilapias (Oreochromis spp.), bagres o peces gato (Pangasius spp., Silurus spp., Clarias
+spp., Ictalurus spp.), carpas (Cyprinus spp., Carassius spp., Ctenopharyngodon idellus,
+Hypophthalmichthys spp., Cirrhinus spp., Mylopharyngodon piceus, Catla catla, Labeo
+spp., Osteochilus hasselti, Leptobarbus hoeveni, Megalobrama spp.), Anguilas (Anguilla
+spp.), percas del Nilo (Lates niloticus) y peces cabeza de serpiente (Channa spp.), excepto
+los despojos comestibles de pescado de las subpartidas 0302.91 a 0302.99:
+0302.71 - - Tilapias (Oreochromis spp.)
+0302.72 - - Bagres o peces gato (Pangasius spp., Silurus spp., Clarias spp., Ictalurus spp.)
+0302.73 - - Carpas (Cyprinus spp., Carassius spp., Ctenopharyngodon idellus, Hypophthalmichthys
+spp., Cirrhinus spp., Mylopharyngodon piceus, Catla catla, Labeo spp., Osteochilus hasselti, Leptobarbus hoeveni, Megalobrama spp.)
+0302.74 - - Anguilas (Anguilla spp.)
+0302.79 - - Los demás
+-
+
+Los demás pescados, excepto los despojos comestibles de pescado de las subpartidas
+0302.91 a 0302.99:
+
+0302.81 - - Cazones y demás escualos
+0302.82 - - Rayas (Rajidae)
+0302.83 - - Austromerluzas antárticas y austromerluzas negras (merluzas negras, bacalaos de profundidad, nototenias negras)* (Dissostichus spp.)
+0302.84 - - Róbalos (Dicentrarchus spp.)
+0302.85 - - Sargos (Doradas, Espáridos)* (Sparidae)
+0302.89 - - Los demás
+-
+
+Hígados, huevas, lechas, aletas, cabezas, colas, vejigas natatorias y demás despojos
+comestibles de pescado:
+
+0302.91 - - Hígados, huevas y lechas.
+0302.92 - - Aletas de tiburón.
+0302.99 - - Los demás.
+Esta partida comprende el pescado fresco o refrigerado, ya sea entero, descabezado o eviscerado, o
+troceado, conservando las espinas o los cartílagos. Sin embargo no comprende los filetes .y demás carne de
+pescado de la partida 03.04. El pescado puede presentarse con o sin hielo, espolvoreado con sal o rociado con
+agua salada, para conseguir su conservación temporal durante el transporte.
+El hecho de que el pescado haya sido ligeramente espolvoreado con azúcar o rociado con agua azucarada,
+no modifica la clasificación. Tampoco la modifica la presencia de algunas hojas de laurel.
+Las pieles y demás despojos, comestibles, de pescado, separados del resto del cuerpo de los peces
+(p. Ej., Pieles, colas, vellosidades, cabezas y mitades de cabezas (con o sin cerebros, mejillas, lenguas, ojos,
+mandíbulas o labios) Estómagos, aletas, lenguas), así como hígados, huevas y leche, frescos o refrigerados,
+también se clasifican en esta partida.
+
+NOTAS EXPLICATIVAS DEL SISTEMA ARMONIZADO
+SÉPTIMA ENMIENDA - 2022
+
+03.03
+
+29
+
+Pescado congelado, excepto los filetes y demás carne de pescado de la partida 03.04.
+-
+
+Salmónidos, excepto los despojos comestibles de pescado de las sub partidas 0303.91
+a 0303.99:
+
+0303.11 - - Salmones rojos (Oncorhynchus nerka)
+0303.12 - - Los demás salmones del Pacífico (Oncorhynchus gorbuscha, Oncorhynchus
+keta,Oncorhynchus tschawytscha, Oncorhynchus kisutch, Oncorhynchus masou y Oncorhynchus rhodurus)
+0303.13 - - Salmones del Atlántico (Salmo salar) y salmones del Danubio (Hucho hucho)
+0303.14 - - Truchas (Salmo trutta, Oncorhynchus mykiss, Oncorhynchus clarki, Oncorhynchus aguabonita, Oncorhynchus gilae, Oncorhynchus apache y Oncorhynchus chrysogaster)
+0303.19 - - Los demás
+-
+
+Tilapias (Oreochromis spp.), bagres o peces gato (Pangasius spp., Silurus spp., Clarias
+spp., Ictalurus spp.), carpas (Cyprinus spp., Carassius spp., Ctenopharyngodon idellus,
+Hypophthalmichthys spp., Cirrhinus spp., Mylopharyngodon piceus, Catla catla, Labeo
+spp., Osteochilus hasselti, Leptobarbus hoeveni, Megalobrama spp.), Anguilas (Anguilla
+spp.), percas del Nilo (Lates niloticus) y peces cabeza de serpiente (Channa spp.), excepto
+los despojos comestibles de pescado de las subpartidas 0303.91 a 0303.99:
+
+0303.23 - - Tilapias (Oreochromis spp.)
+0303.24 - - Bagres o peces gato (Pangasius spp., Silurus spp., Clarias spp., Ictalurus spp.)
+0303.25 - - Carpas (Cyprinus spp., Carassius spp., Ctenopharyngodon idellus, Hypophthalmichthys
+spp., Cirrhinus spp., Mylopharyngodon piceus, Catla catla, Labeo spp., Osteochilus hasselti, Leptobarbus hoeveni, Megalobrama spp.)
+0303.26 - - Anguilas (Anguilla spp.)
+0303.29 - - Los demás
+-
+
+Pescados planos (Pleuronectidae, Bothidae, Cynoglossidae, Soleidae, Scophthalmidae
+y Citharidae), excepto los despojos comestibles de pescado de las subpartidas 0303.91
+a 0303.99:
+
+0303.31 - - Fletanes (halibut) (Reinhardtius hippoglossoides, Hippoglossus hippoglossus, Hippoglossus stenolepis)
+0303.32 - - Sollas (Pleuronectes platessa)
+0303.33 - - Lenguados (Solea spp.)
+0303.34 - - Rodaballos (turbots) (Psetta maxima)
+0303.39 - - Los demás
+-
+
+Atunes (del género Thunnus), listados (bonitos de vientre rayado) (Katsuwonus pelamis),
+excepto los despojos comestibles de pescado de las subpartidas 0303.91 a 0303.99:
+
+0303.41 - - Albacoras o atunes blancos (Thunnus alalunga)
+0303.42 - - Atunes de aleta amarilla (rabiles) (Thunnus albacares)
+0303.43 - - Listados (bonitos de vientre rayado) (Katsuwonus pelamis)
+0303.44 - - Patudos o atunes ojo grande (Thunnus obesus)
+0303.45 - - Atunes comunes o de aleta azul del Atlántico y del Pacífico (Thunnus thynnus, Thunnus
+orientalis)
+0303.46 - - Atunes del sur (Thunnus maccoyii)
+0303.49 - - Los demás
+-
+
+Arenques (Clupea harengus, Clupea pallasii), anchoas (Engraulis spp.), sardinas (Sardina
+pilchardus, Sardinops spp.), sardinelas (Sardinella spp.), espadines (Sprattus sprattus),
+caballas (Scomber scombrus, Scomber australasicus, Scomber japonicus), caballas de la
+India (Rastrelliger spp.), carites (Scomberomorus spp.), jureles (Trachurus spp.), pámpanos
+
+NOTAS EXPLICATIVAS DEL SISTEMA ARMONIZADO
+
+30
+
+SÉPTIMA ENMIENDA - 2022
+
+(Caranx spp.), cobias (Rachycentron canadum), palometones plateados (Pampus spp.),
+papardas del Pacífico (Cololabis saira), macarelas (Decapterus spp.), capelanes (Mallotus villosus), peces espada (Xiphias gladius), bacoretas orientales (Euthynnus affinis),
+bonitos (Sarda spp.), agujas, marlines, peces vela o picudos (Istiophoridae), excepto los
+despojos comestibles de pescado de las subpartidas 0303.91 a 0303.99:
+0303.51 - - Arenques (Clupea harengus, Clupea pallasii)
+0303.53 - - Sardinas (Sardina pilchardus, Sardinops spp.), sardinelas (Sardinella spp.) y espadines
+(Sprattus sprattus)
+0303.54 - - Caballas (Scomber scombrus, Scomber australasicus, Scomber japonicus)
+0303.55 - - Jureles (Trachurus spp.)
+0303.56 - - Cobias (Rachycentron canadum)
+0303.57 - - Peces espada (Xiphias gladius)
+0303.59 - - Los demás.
+-
+
+Pescados de las familias Bregmacerotidae, Euclichthyidae, Gadidae, Macrouridae, Melanonidae, Merlucciidae, Moridae y Muraenolepididae, excepto los despojos comestibles
+de pescado de las subpartidas 0303.91 a 0303.99:
+
+0303.63 - - Bacalaos (Gadus morhua, Gadus ogac, Gadus macrocephalus)
+0303.64 - - Eglefinos (Melanogrammus aeglefinus)
+0303.65 - - Carboneros (Pollachius virens)
+0303.66 - - Merluzas (Merluccius spp., Urophycis spp.)
+0303.67 - - Abadejos de Alaska (Theragra chalcogramma)
+0303.68 - - Bacaladillas (Micromesistius poutassou, Micromesistius australis)
+0303.69 - - Los demás
+-
+
+Los demás pescados, excepto los despojos comestibles de pescado de las sub partidas
+0303.91 a 0303.99:
+
+0303.81 - - Cazones y demás escualos
+0303.82 - - Rayas (Rajidae)
+0303.83 - - Austromerluzas antárticas y austromerluzas negras (merluzas negras, bacalaos de profundidad, nototenias negras)* (Dissostichus spp.)
+0303.84 - - Róbalos (Dicentrarchus spp.)
+0303.89 - - Los demás
+-
+
+Hígados, huevas, lechas, aletas, cabezas, colas, vejigas natatorias y demás despojos
+comestibles de pescado:
+
+0303.91 - - Hígados, huevas y lechas.
+0303.92 - - Aletas de tiburón.
+0303.99 - - Los demás.
+Las disposiciones de la Nota explicativa de la partida 03.02, se aplican, mutatis mutandis, a los productos
+de esta partida.
+03.04
+
+Filetes y demás carne de pescado (incluso picada), frescos, refrigerados o congelados.
+-
+
+Filetes frescos o refrigerados de tilapias (Oreochromis spp.), bagres o peces gato (Pangasius spp., Silurus spp., Clarias spp., Ictalurus spp.), carpas (Cyprinus spp., Carassius spp.,
+Ctenopharyngodon idellus, Hypophthalmichthys spp., Cirrhinus spp., Mylopharyngodon
+piceus, Catla catla, Labeo spp., Osteochilus hasselti, Leptobarbus hoeveni, Megalobrama
+spp.), Anguilas (Anguilla spp.), percas del Nilo (Lates niloticus) y de peces cabeza de
+serpiente (Channa spp.):
+
+0304.31 - - Tilapias (Oreochromis spp.)
+
+NOTAS EXPLICATIVAS DEL SISTEMA ARMONIZADO
+SÉPTIMA ENMIENDA - 2022
+
+31
+
+0304.32 - - Bagres o peces gato (Pangasius spp., Silurus spp., Clarias spp., Ictalurus spp.)
+0304.33 - - Percas del Nilo (Lates niloticus)
+0304.39 - - Los demás
+-
+
+Filetes de los demás pescados, frescos o refrigerados:
+
+0304.41 - - Salmones del Pacífico (Oncorhynchus nerka, Oncorhynchus gorbuscha, Oncorhynchus
+keta, Oncorhynchus tschawytscha, Oncorhynchus kisutch, Oncorhynchus masou y
+Oncorhynchus rhodurus), salmones del Atlántico (Salmo salar) y salmones del Danubio
+(Hucho hucho)
+0304.42 - - Truchas (Salmo trutta, Oncorhynchus mykiss, Oncorhynchus clarki, Oncorhynchus aguabonita, Oncorhynchus gilae, Oncorhynchus apache y Oncorhynchus chrysogaster)
+0304.43 - - Pescados planos (Pleuronectidae, Bothidae, Cynoglossidae, Soleidae, Scophthalmidae
+y Citharidae)
+0304.44 - - Pescados de las familias Bregmacerotidae, Euclichthyidae, Gadidae, Macrouridae, Melanonidae, Merlucciidae, Moridae y Muraenolepididae
+0304.45 - - Peces espada (Xiphias gladius)
+0304.46 - - Austromerluzas antárticas y austromerluzas negras (merluzas negras, bacalaos de profundidad, nototenias negras)* (Dissostichus spp.)
+0304.47 - - Cazones y demás escualos
+0304.48 - - Rayas (Rajidae)
+0304.49 - - Los demás
+-
+
+Los demás, frescos o refrigerados:
+
+0304.51 - - Tilapias (Oreochromis spp.), bagres o pez gato (Pangasius spp., Silurus spp., Clarias spp.,
+Ictalurus spp.), carpas (Cyprinus spp, Carassius; carassius, Ctenopharyngodon idellus,
+Hypophthalmichthys spp., Cirrhinus spp., Mylopharyngodon piceus, Catla catla, labeo
+spp; Osteochilus hasselti, leptobarbus hoeveni, Megalograma spp.) Anguilas (Anguilla
+spp.), percas del Nilo (Lates niloticus) y peces cabeza de serpiente (Channa spp.)
+0304.52 - - Salmónidos
+0304.53 - - Pescados de las familias Bregmacerotidae, Euclichthyidae, Gadidae, Macrouridae, Melanonidae, Merlucciidae, Moridae y Muraenolepididae
+0304.54 - - Peces espada (Xiphias gladius)
+0304.55 - - Austromerluzas antárticas y austromerluzas negras (merluzas negras, bacalaos de profundidad, nototenias negras)* (Dissostichus spp.)
+0304.56 - - Cazones y demás escualos
+0304.57 - - Rayas (Rajidae)
+0304.59 - - Los demás
+- - Filetes congelados de tilapias (Oreochromis spp.), bagres o peces gato (Pangasius
+spp., Silurus spp., Clarias spp., Ictalurus spp.), carpas (Cyprinus spp., Carassius spp.,
+Ctenopharyngodon idellus, Hypophthalmichthys spp., Cirrhinus spp., Mylopharyngodon
+piceus, Catla catla, Labeo spp., Osteochilus hasselti, Leptobarbus hoeveni, Megalobrama
+spp.), anguilas (Anguilla spp.), percas del Nilo (Lates niloticus) y de peces cabeza de
+serpiente (Channa spp.):
+0304.61 - - Tilapias (Oreochromis spp.)
+0304.62 - - Bagres o pez gato (Pangasius spp., Silurus spp., Clarias spp., Ictalurus spp.)
+0304.63 - - Percas del Nilo (Lates niloticus)
+0304.69 - - Los demás
+-
+
+Filetes congelados de pescados de las familias Bregmacerotidae, Euclichthyidae,Gadidae,
+Macrouridae, Melanonidae, Merlucciidae, Moridae y Muraenolepididae:
+
+0304.71 - - Bacalaos (Gadus morhua, Gadus ogac, Gadus macrocephalus)
+
+NOTAS EXPLICATIVAS DEL SISTEMA ARMONIZADO
+
+32
+
+SÉPTIMA ENMIENDA - 2022
+
+0304.72 - - Eglefinos (Melanogrammus aeglefinus)
+0304.73 - - Carboneros (Pollachius virens)
+0304.74 - - Merluzas (Merluccius spp., Urophycis spp.)
+0304.75 - - Abadejo de Alaska (Theraga chalcogramma)
+0304.79 - - Los demás
+-
+
+Filetes congelados de los demás pescados:
+
+0304.81 - - Salmones del Pacífico (Oncorhynchus nerka, Oncorhynchus gorbuscha, Oncorhynchus
+keta, Oncorhynchus tschawytscha, Oncorhynchus kisutch,Oncorhynchus masou y Oncorhynchus rhodurus), salmones del Atlántico (Salmo salar) y salmones del Danubio (Hucho
+hucho)
+0304.82 - - Truchas (Salmo trutta, Oncorhynchus mykiss, Oncorhynchus clarki, Oncorhynchus aguabonita, Oncorhynchus gilae, Oncorhynchus apache y Oncorhynchus chrysogaster)
+0304.83 - - Pescados planos (Pleuronectidae, Bothidae, Cynoglossidae, Soleidae,Scophthalmidae
+y Citharidae)
+0304.84 - - Peces espada (Xiphias gladius)
+0304.85 - - Austromerluzas antárticas y austromerluzas negras (merluzas negras, bacalaos de profundidad, nototenias negras)* (Dissostichus spp.)
+0304.86 - - Arenques (Clupea harengus, Clupea pallasii)
+0304.87 - - Atunes (del género Thunnus), listados (bonitos de vientre rayado) (Katsuwonus pelamis)
+0304.88 - - Cazones, demás escualos y rayas (Rajidae)
+0304.89 - - Los demás
+-
+
+Los demás, congelados:
+
+0304.91 - - Peces espada (Xiphias galdius)
+0304.92 - - Austromerluzas antárticas y austromerluzas negras (merluzas negras, bacalaos de profundidad, nototenias negras)* (Dissostichus spp.)
+0304.93 - - Tilapias (Oreochromis spp.), bagres o peces gato (Pangasius spp., Silurus spp., Clarias
+spp., Ictalurus spp.), carpas (Cyprinus spp., Carassius spp., Ctenopharyngodon idellus,
+Hypophthalmichthys spp., Cirrhinus spp., Mylopharyngodon piceus, Catla catla, Labeo
+spp., Osteochilus hasselti, Leptobarbus hoeveni, Megalobrama spp.), anguilas (Anguilla
+spp.), percas del Nilo (Lates niloticus) y peces cabeza de serpiente (Channa spp.)
+0304.94 - - Abadejos de Alaska (Theragra chalcogramma)
+0304.95 - - Pescados de las familias Bregmacerotidae, Euclichthyidae, Gadidae, Macrouridae, Melanonidae, Merlucciidae, Moridae y Muraenolepididae, excepto los abadejos de Alaska
+(Theragra chalcogramma)
+0304.96 - - Cazones y demás escualos.
+0304.97 - - Rayas (Rajidae).
+0304.99 - - Los demás
+Esta partida comprende:
+1)
+
+Los filetes de pescado.
+
+Se entenderá por filetes de pescado para la aplicación de esta partida las tiras de carne de pescado
+extraídas paralelamente a la espina dorsal, que constituyen su lado derecho o izquierdo, siempre que se hayan
+separado cabeza, vísceras, aletas (dorsales, anales, caudales, ventrales, pectorales), espinas (columna vertebral o espina dorsal, espinas ventrales o costales, hueso branquial o estribo, etc.) y que los dos lados no estén
+unidos entre sí, por ejemplo, por el dorso o por el vientre.
+La presencia eventual de piel, que a veces se mantiene unida al filete para conservar la cohesión o para
+facilitar el corte ulterior en rodajas, no modifica la clasificación de estos productos. Lo mismo puede decirse en
+cuanto a la presencia de espinas menudas, que no se han eliminado totalmente.
+
+NOTAS EXPLICATIVAS DEL SISTEMA ARMONIZADO
+SÉPTIMA ENMIENDA - 2022
+
+33
+
+También corresponden a este grupo los filetes cortados en trozos.
+Los filetes cocidos o simplemente rebozados con pasta o pan rallado (empanados), estén o no congelados,
+se clasifican en la partida 16.04.
+2)
+
+La demás carne de pescado (incluso picada), es decir, la carne de pescado de la que se ha quitado la
+espina dorsal. Como en los filetes, la clasificación de esta carne de pescado no se ve afectada por la presencia de pequeñas espinas que no han sido totalmente eliminadas.
+Esta partida comprende los filetes y demás carne de pescado (incluso picada) que se presenten solamente:
+
+1)
+
+Frescos o refrigerados, incluso con hielo o espolvoreados con sal o rociados con agua salada, para su
+conservación temporal durante el transporte.
+
+2)
+
+Congelados, casi siempre presentados en forma de bloques.
+
+El hecho de que los filetes y demás carne de pescado (incluso picada) hayan sido ligeramente espolvoreados con azúcar o rociados con agua azucarada, no modifica la clasificación. Tampoco la modifica la presencia
+de algunas hojas de laurel.
+03.05
+
+Pescado seco, salado o en salmuera; pescado ahumado, incluso cocido antes o durante el
+ahumado.
+0305.20 -
+
+Hígados, huevas y lechas, de pescado, secos, ahumados, salados o en salmuera
+Filetes de pescado, secos, salados o en salmuera, sin ahumar:
+
+0305.31 - - Tilapias (Oreochromis spp.), bagres o peces gato (Pangasius spp., Silurus spp., Clarias
+spp., Ictalurus spp.), carpas (Cyprinus spp., Carassius spp., Ctenopharyngodon idellus,
+Hypophthalmichthys spp., Cirrhinus spp., Mylopharyngodon piceus, Catla catla, Labeo
+spp., Osteochilus hasselti, Leptobarbus hoeveni, Megalobrama spp.), anguilas (Anguilla
+spp.), percas del Nilo (Lates niloticus) y peces cabeza de serpiente (Channa spp.)
+0305.32 - - Pescados de las familias Bregmacerotidae, Euclichthyidae, Gadidae, Macrouridae, Melanonidae, Merlucciidae, Moridae y Muraenolepididae
+0305.39 - - Los demás
+-
+
+Pescados ahumados, incluidos los filetes, excepto los despojos comestibles de pescado:
+
+0305.41 - - Salmones del Pacífico (Oncorhynchus nerka, Oncorhynchus gorbuscha, Oncorhynchus
+keta, Oncorhynchus tschawytscha, Oncorhynchus kisutch, Oncorhynchus masou y
+Oncorhynchus rhodurus), salmones del Atlántico (Salmo salar) y salmones del Danubio
+(Hucho hucho)
+0305.42 - - Arenques (Clupea harengus, Clupea pallasii)
+0305.43 - - Truchas (Salmo trutta, Oncorhynchus mykiss, Oncorhynchus clarki, Oncorhynchusaguabonita, Oncorhynchus gilae, Oncorhynchus apache y Oncorhynchus chrysogaster)
+0305.44 - - Tilapias (Oreochromis spp.), bagres o peces gato (Pangasius spp., Silurus spp., Clarias
+spp., Ictalurus spp.), carpas (Cyprinus spp., Carassius spp., Ctenopharyngodon idellus,
+Hypophthalmichthys spp., Cirrhinus spp., Mylopharyngodon piceus, Catla catla, Labeo
+spp., Osteochilus hasselti, Leptobarbus hoeveni, Megalobrama spp.), anguilas (Anguilla
+spp.), percas del Nilo (Lates niloticus) y peces cabeza de serpiente (Channa spp.)
+0305.49 - - Los demás
+-
+
+Pescado seco, incluso salado, sin ahumar, excepto los despojos comestibles:
+
+0305.51 - - Bacalaos (Gadus morhua, Gadus ogac, Gadus macrocephalus)
+0305.52 - - Tilapias (Oreochromis spp.), bagres o peces gato (Pangasius spp., Silurus spp., Clarias
+spp., Ictalurus spp.), carpas (Cyprinus spp., Carassius spp., Ctenopharyngodon idellus,
+Hypophthalmichthys spp., Cirrhinus spp., Mylopharyngodon piceus, Catla catla, Labeo
+spp., Osteochilus hasselti, Leptobarbus hoeveni, Megalobrama spp.), anguilas (Anguilla
+
+NOTAS EXPLICATIVAS DEL SISTEMA ARMONIZADO
+
+34
+
+SÉPTIMA ENMIENDA - 2022
+
+spp.), percas del Nilo (Lates niloticus) y peces cabeza de serpiente (Channa spp.)
+0305.53 - - Pescados de las familias Bregmacerotidae, Euclichthyidae, Gadidae, Macrouridae,
+Melanonidae, Merlucciidae, Moridae y Muraenolepididae, excepto los bacalaos (Gadus
+morhua, Gadus ogac, Gadus macrocephalus)
+0305.54 - - Arenques (Clupea harengus, Clupea pallasii), anchoas (Engraulis spp.), sardinas (Sardina
+pilchardus, Sardinops spp.), sardinelas (Sardinella spp.), espadines (Sprattus sprattus),
+caballas (Scomber scombrus, Scomber australasicus, Scomber japonicus), caballas de
+la India (Rastrelliger spp.), carites (Scomberomorus spp.), jureles (Trachurus spp.), pámpanos (Caranx spp.), cobias (Rachycentron canadum), palometones plateados (Pampus
+spp.), papardas del Pacífico (Cololabis saira), macarelas (Decapterus spp.), capelanes
+(Mallotus villosus), peces espada (Xiphias gladius), bacoretas orientales (Euthynnus
+affinis), bonitos (Sarda spp.), agujas, marlines, peces vela o picudos (Istiophoridae).
+0305.59 - - Los demás
+-
+
+Pescado salado sin secar ni ahumar y pescado en salmuera, excepto los despojos comestibles:
+
+0305.61 - - Arenques (Clupea harengus, Clupea pallasii)
+0305.62 - - Bacalaos (Gadus morhua, Gadus ogac, Gadus macrocephalus)
+0305.63 - - Anchoas (Engraulis spp.)
+0305.64 - - Tilapias (Oreochromis spp.), bagres o peces gato (Pangasius spp., Silurus spp., Clarias
+spp., Ictalurus spp.), carpas (Cyprinus spp., Carassius spp., Ctenopharyngodon idellus,
+Hypophthalmichthys spp., Cirrhinus spp., Mylopharyngodon piceus, Catla catla, Labeo
+spp., Osteochilus hasselti, Leptobarbus hoeveni, Megalobrama spp.), anguilas (Anguilla
+spp.), percas del Nilo (Lates niloticus) y peces cabeza de serpiente (Channa spp.)
+0305.69 - - Los demás
+-
+
+Aletas, cabezas, colas, vejigas natatorias y demás despojos comestibles de pescado:
+
+0305.71 - - Aletas de tiburón
+0305.72 - - Cabezas, colas y vejigas natatorias, de pescado
+0305.79 - - Los demás
+Esta partida comprende el pescado (entero, descabezado, troceado, en filetes o picado) y los despojos
+comestibles de pescado, presentados en las formas siguientes:
+1) Seco.
+2) Salado o en salmuera.
+3) Ahumado.
+La sal utilizada para la preparación del pescado salado o en salmuera puede estar adicionada de nitrito
+sódico o nitrato sódico. Pueden utilizarse pequeñas cantidades de azúcar en la preparación de los pescados
+salados, sin que por ello se modifique la clasificación.
+El pescado ahumado suele someterse, antes o durante la operación de ahumado (ahumado llamado en
+caliente), a un tratamiento térmico que alcanza una cocción parcial o total de la carne. El pescado así tratado
+permanece clasificado en esta partida, siempre que no se le haya sometido a otras preparaciones que le hagan
+perder el carácter de pescado ahumado.
+Las principales especies de pescado que se presentan en las formas arriba indicadas son: sardina, anchoa,
+espadín, atún, caballa, salmón, arenque, bacalao, eglefino y halibut (fletán).
+Los despojos de pescado separados del resto del cuerpo del pescado (por ejemplo, pieles , colas, fauces (
+baño vejigas ) , cabezas o partes de cabezas (con o sin los sesos, la carrillada , lenguas , los ojos, las mandíbulas
+o los labios) , estómagos, las aletas) , así como los hígados, huevas y lecha , secos, salados o en salmuera o
+ahumados , son también clasificados en esta partida .
+
+NOTAS EXPLICATIVAS DEL SISTEMA ARMONIZADO
+SÉPTIMA ENMIENDA - 2022
+
+35
+
+Se excluyen de esta partida:
+a)
+
+Los despojos no comestibles de pescado (por ejemplo, de los tipos utilizados en las aplicaciones industriales) y los desechos de pescado (partida 05.11).
+
+b)
+
+El pescado cocido (dependiendo de las disposiciones anteriores relativas al pescado ahumado), así como
+el pescado elaborado de otro modo (tal como la conservación en aceite, en vinagre o escabechado) y el
+caviar y sucedáneos de caviar (partida 16.04).
+
+c)
+
+Las sopas de pescado (partida 21.04).
+
+d)
+
+La harina, polvo y «pellets» de pescado, impropios para la alimentación humana (partida 23.01).
+
+Nota explicativa de subpartida.
+Subpartida 0305.71
+En la subpartida 0305.71, el término «aletas de tiburón» comprende las aletas dorsales, pectorales, ventrales y anales así como el lóbulo inferior de la cola (aleta caudal) de los tiburones. La parte superior de la cola
+del tiburón no se considera aleta de tiburón.
+Corresponden a esta subpartida, las aletas de tiburón sin desollar, simplemente secas y las partes de aletas
+de tiburón que se hayan sumergido en agua hirviendo, desolladas o transformadas en fibras, antes del secado.
+03.06
+
+Crustáceos, incluso pelados, vivos, frescos, refrigerados, congelados, secos, salados o en salmuera; crustáceos ahumados, incluso pelados, incluso cocidos antes o durante el ahumado;
+crustáceos sin pelar, cocidos en agua o vapor, incluso refrigerados, congelados, secos, salados
+o en salmuera.
+-
+
+Congelados:
+
+0306.11 - - Langostas (Palinurus spp., Panulirus spp., Jasus spp.)
+0306.12 - - Bogavantes (Homarus spp.)
+0306.14 - - Cangrejos (excepto macruros)
+0306.15 - - Cigalas (Nephrops norvegicus)
+0306.16 - - Camarones, langostinos y demás decápodos Natantia, de agua fría (Pandalus spp.,
+Crangon crangon)
+0306.17 - - Los demás camarones, langostinos y demás decápodos Natantia
+0306.19 - - Los demás
+-
+
+Vivos, frescos o refrigerados:
+
+0306.31 - - Langostas (Palinurus spp., Panulirus spp., Jasus spp.).
+0306.32 - - Bogavantes (Homarus spp.).
+0306.33 - - Cangrejos (excepto macruros)
+0306.34 - - Cigalas (Nephrops norvegicus).
+0306.35 - - Camarones y langostinos y demás decápodos Natantia, de agua fría (Pandalus spp.,
+Crangon crangon).
+0306.36 - - Los demás camarones, langostinos y demás decápodos Natantia
+0306.39 - - Los demás
+-
+
+Los demás:
+
+0306.91 - - Langostas (Palinurus spp., Panulirus spp., Jasus spp.).
+0306.92 - - Bogavantes (Homarus spp.).
+0306.93 - - Cangrejos (excepto macruros).
+0306.94 - - Cigalas (Nephrops norvegicus).
+0306.95 - - Camarones, langostinos y demás decápodos Natantia
+0306.99 - - Los demás
+
+NOTAS EXPLICATIVAS DEL SISTEMA ARMONIZADO
+
+36
+
+SÉPTIMA ENMIENDA - 2022
+
+La presente partida comprende:
+1)
+
+Los crustáceos, pelados o sin pelar, vivos, frescos, refrigerados, congelados, secos, salados o en salmuera.
+
+2)
+
+Los crustáceos, incluso pelados, ahumados, incluso cocidos antes o durante el ahumado.
+
+3)
+
+Los crustáceos sin pelar cocidos en agua o vapor, incluso si se les han añadido pequeñas cantidades de
+productos químicos para su conservación provisional. También pueden estar refrigerados, congelados,
+secos, salados o en salmuera.
+
+Los principales crustáceos son: bogavante, langosta, cigala, cangrejo (de mar o de río), langostino y camarón (de mar o de río).
+También se clasifican en esta partida las partes de crustáceos (por ejemplo, colas de bogavante, de langosta o cigalas o pinzas de cangrejo) con la condición de que estas partes, si se presentan peladas, no hayan
+sido sometidas a tratamientos distintos de los indicados en el apartado 1) anterior.
+Se excluyen de la presente partida:
+a)
+
+Los erizos de mar y demás invertebrados acuáticos, de la partida 03.08.
+
+b)
+
+Los crustáceos (así como sus partes) preparados o conservados por procedimientos no previstos en la
+presente partida (por ejemplo, los crustáceos cocidos en agua y pelados) (partida 16.05).
+
+03.07
+
+Moluscos, incluso separados de sus valvas, vivos, frescos, refrigerados, congelados, secos,
+salados o en salmuera; moluscos ahumados, incluso pelados, incluso cocidos antes o durante
+el ahumado.
+0307.11
+
+Ostras:
+
+- - Vivas, frescas o refrigeradas
+
+0307.12 - - Congeladas
+0307.19 - - Las demás
+-
+
+Vieiras, volandeiras y demás moluscos de la familia Pectinidae:
+
+0307.21 - - Vivos, frescos o refrigerados
+0307.22 - - Congelados
+0307.29 - - Los demás
+-
+
+Mejillones (Mytilus spp., Perna spp.):
+
+0307.31 - - Vivos, frescos o refrigerados
+0307.32 - - Congelados
+0307.39 - - Los demás
+-
+
+Jibias (sepias)* y globitos; calamares y potas:
+
+0307.42 - - Vivos, frescos o refrigerados.
+0307.43 - - Congelados.
+0307.49 - - Los demás
+-
+
+Pulpos (Octopus spp.):
+
+0307.51 - - Vivos, frescos o refrigerados
+0307.52 - - Congelados
+0307.59 - - Los demás
+0307.60 -
+
+Caracoles, excepto los de mar
+Almejas, berberechos y arcas (familias Arcidae, Arcticidae, Cardiidae, Donacidae,
+Hiatellidae, Mactridae, Mesodesmatidae, Myidae, Semelidae, Solecurtidae, Solenidae,
+Tridacnidae y Veneridae):
+
+0307.71 - - Vivos, frescos o refrigerados
+0307.72 - - Congelados
+
+NOTAS EXPLICATIVAS DEL SISTEMA ARMONIZADO
+SÉPTIMA ENMIENDA - 2022
+
+37
+
+0307.79 - - Los demás
+-
+
+Abulones u orejas de mar (Haliotis spp.) y cobos (caracoles de mar) (Strombus spp.):
+
+0307.81 - - Abulones u orejas de mar (Haliotis spp.), vivos, frescos o refrigerados
+0307.82 - - Cobos (caracoles de mar) (Strombus spp.), vivos, frescos o refrigerados
+0307.83 - - Abulones u orejas de mar (Haliotis spp.), congelados
+0307.84 - - Cobos (caracoles de mar) (Strombus spp.), congelados
+0307.87 - - Los demás abulones u orejas de mar (Haliotis spp.)
+0307.88 - - Los demás cobos (caracoles de mar) (Strombus spp.)
+-
+
+Los demás:
+
+0307.91 - - Vivos, frescos o refrigerados
+0307.92 - - Congelados
+0307.99 - - Los demás
+La presente partida comprende:
+1)
+
+Los moluscos, incluso separados de sus valvas, vivos, frescos, refrigerados, congelados, secos, salados
+o en salmuera.
+
+2)
+
+Los moluscos, incluso pelados, ahumados, incluso cocidos antes o durante el ahumado.
+
+Las principales variedades de moluscos son: las ostras, vieiras, volandeiras, mejillones, jibias, globitos,
+calamares, pulpos, caracoles, almejas, berberechos, arcas y abulones.
+También se clasifican en la presente partida las partes de moluscos con la condición de que estas partes
+no hayan sido sometidas a tratamientos distintos de los indicados en los apartados 1) o 2) anteriores.
+Las crías de ostras (pequeñas ostras destinadas a establecimientos ostrícolas) y la harina, polvo y «pellets»,
+de moluscos aptos para la alimentación humana, también corresponden a la presente partida.
+Se excluyen de la presente partida los moluscos, preparados o conservados por procedimientos no previstos en la presente partida (por ejemplo, moluscos cocidos en agua o conservados en vinagre) (partida 16.05).
+03.08
+
+Invertebrados acuáticos, excepto los crustáceos y moluscos, vivos, frescos, refrigerados, congelados, secos, salados o en salmuera; invertebrados acuáticos ahumados, excepto los crustáceos
+y moluscos, incluso cocidos antes o durante el ahumado.
+-
+
+Pepinos de mar (Stichopus japonicus, Holothuroidea):
+
+0308.11 - - Vivos, frescos o refrigerados
+0308.12 - - Congelados.
+0308.19 - - Los demás
+-
+
+Erizos de mar (Strongylocentrotus spp., Paracentrotus lividus, Loxechinus albus, Echinus
+esculentus):
+
+0308.21 - - Vivos, frescos o refrigerados
+0308.22 - - Congelados.
+0308.29 - - Los demás
+0308.30 -
+
+Medusas (Rhopilema spp.)
+
+0308.90 -
+
+Los demás
+
+Esta partida comprende:
+1)
+
+Los invertebrados acuáticos, excepto los crustáceos y moluscos, vivos, frescos, refrigerados, congelados,
+secos, salados o en salmuera.
+
+2)
+
+Los invertebrados acuáticos ahumados, excepto los crustáceos y moluscos, incluso cocidos antes o después
+del ahumado.
+
+NOTAS EXPLICATIVAS DEL SISTEMA ARMONIZADO
+
+38
+
+SÉPTIMA ENMIENDA - 2022
+
+Las principales variedades de invertebrados acuáticos son los erizos de mar, los pepinos de mar y las
+medusas.
+Esta partida comprende igualmente las partes de los invertebrados acuáticos (por ejemplo, las gónadas
+de erizos de mar), con la condición de que estas partes no hayan sido sometidas a tratamientos distintos de los
+indicados en los párrafos 1) o 2) anteriores.
+Se excluyen de la presente partida los invertebrados acuáticos preparados o conservados por procedimientos no previstos en la presente partida (por ejemplo, los invertebrados acuáticos cocidos en agua o conservados
+en vinagre) (partida 16.05).
+03.09
+
+Harina, polvo y «pellets» de pescado, crustáceos, moluscos y demás invertebrados acuáticos,
+aptos para la alimentación humana.
+0309.10 -
+
+De pescado.
+
+0309.90 -
+
+Los demás.
+
+Se clasifican aquí la harina o polvo (desengrasada o no, como las desengrasadas por extracción con disolventes o por tratamiento en caliente) y los «pellets», de pescado, crustáceos, moluscos y demás invertebrados
+acuáticos aptos para la alimentación humana.
+-------------------------
+
+NOTAS EXPLICATIVAS DEL SISTEMA ARMONIZADO
+
+39
+
+SÉPTIMA ENMIENDA - 2022
+
+CAPÍTULO 4
+LECHE Y PRODUCTOS LÁCTEOS; HUEVOS DE AVE; MIEL NATURAL; PRODUCTOS
+COMESTIBLES DE ORIGEN ANIMAL, NO EXPRESADOS NI COMPRENDIDOS EN
+OTRAS PARTES
+Notas.
+1.
+
+Se considera leche, la leche entera y la leche desnatada (descremada) total o parcialmente.
+
+2.
+
+En la partida 04.03, el yogur puede estar concentrado o aromatizado o con adición de azúcar u otro edulcorante, con frutas u otros frutos, cacao, chocolate, especias, café o extractos de café, plantas, partes de
+plantas, cereales o productos de panadería, siempre que cualquier sustancia añadida no se utilice para
+sustituir, en todo o en parte, cualquier componente de la leche, y el producto conserve el carácter esencial
+de yogur.
+
+3.
+
+En la partida 04.05:
+
+4.
+
+a)
+
+Se entiende por mantequilla (manteca), la mantequilla (manteca)* natural, la mantequilla (manteca)*
+del lactosuero o la mantequilla (manteca)* «recombinada» (fresca, salada o rancia, incluso en recipientes herméticamente cerrados) que provengan exclusivamente de la leche, con un contenido de
+materias grasas de la leche que sea superior o igual al 80 % pero inferior o igual al 95 %, en peso, de
+materias sólidas de la leche, inferior o igual al 2 % en peso y, de agua, inferior o igual al 16 % en peso.
+La mantequilla (manteca)* no debe contener emulsionantes añadidos pero puede contener cloruro
+sódico, colorantes alimentarios, sales de neutralización y cultivos de bacterias lácticas inocuas.
+
+b)
+
+Se entiende por pastas lácteas para untar las emulsiones del tipo agua–en–aceite que se puedan
+untar y contengan materias grasas de la leche como únicas materias grasas y en las que el contenido
+de éstas sea superior o igual al 39 % pero inferior al 80 % en peso.
+
+Los productos obtenidos por concentración del lactosuero con adición de leche o de materias grasas de
+la leche se clasifican en la partida 04.06 como quesos, siempre que presenten las tres características
+siguientes:
+a)
+
+Un contenido de materias grasas de la leche superior o igual al 5 %, calculado en peso sobre el extracto seco;
+
+b) Un contenido de extracto seco superior o igual al 70 % pero inferior o igual al 85 %, calculado en peso;
+c) Moldeados o susceptibles de serlo.
+5.
+
+6.
+
+Este Capítulo no comprende:
+a)
+
+los insectos sin vida, impropios para la alimentación humana (partida 05.11);
+
+b)
+
+Los productos obtenidos del lactosuero, con un contenido de lactosa superior al 95 % en peso, expresado en lactosa anhidra, calculado sobre materia seca (partida 17.02);
+
+c)
+
+Los Productos obtenidos a partir de la leche mediante el reemplazo de uno o más de sus componentes
+naturales (por ejemplo, las grasas butíricas por otra sustancia, o las grasas oleicas de la partida 19.01
+o 21.06.
+
+d)
+
+Las albúminas (incluidos los concentrados de varias proteínas de lactosuero, con un contenido de
+proteínas de lactosuero superior al 80 % en peso, calculado sobre materia seca) (partida 35.02) ni las
+globulinas (partida 35.04).
+
+En la partida 04.10, el término insectos se refiere a insectos comestibles, sin vida, enteros o en trozos,
+frescos, refrigerados, congelados, secos, ahumados, salados o en salmuera, así como la harina y polvo,
+de insectos, aptos para la alimentación humana. Sin embargo, este término no comprende los insectos
+comestibles, sin vida, preparados o conservados de otro modo (Sección IV, generalmente).
+
+NOTAS EXPLICATIVAS DEL SISTEMA ARMONIZADO
+
+40
+
+SÉPTIMA ENMIENDA - 2022
+
+Notas de subpartida.
+1.
+
+En la subpartida 0404.10, se entiende por lactosuero modificado el producto constituido por componentes
+del lactosuero, es decir, lactosuero del que se haya extraído, total o parcialmente, lactosa, proteínas o
+sales minerales, o al que se haya añadido componentes naturales del lactosuero, así como los productos
+obtenidos por mezcla de componentes naturales del lactosuero.
+
+2.
+
+En la subpartida 0405.10, el término mantequilla (manteca) no comprende la mantequilla (manteca) deshidratada ni la «ghee» (subpartida 0405.90).
+CONSIDERACIONES GENERALES
+Este Capítulo comprende:
+
+I)
+
+Los productos lácteos:
+A)
+
+La leche, es decir, leche entera y leche total o parcialmente desnatada (descremada).
+
+B)
+
+La nata (crema).
+
+C)
+
+El suero de mantequilla (manteca)* («babeurre»), leche y nata (crema) cuajadas, yogur, kéfir y
+demás leches y natas (cremas) fermentadas o acidificadas.
+
+D)
+
+El lactosuero.
+
+E)
+
+Los productos a base de los componentes naturales de la leche, no expresados ni comprendidos en otra parte.
+
+F)
+
+La mantequilla (manteca)* y demás materias grasas de la leche; pastas lácteas para untar.
+
+G)
+
+El queso y el requesón.
+
+Los productos mencionados en los anteriores apartados A) a E) pueden contener, independientemente
+de los componentes naturales de la leche (por ejemplo, leche enriquecida con vitaminas o sales minerales),
+pequeñas cantidades de estabilizantes (por ejemplo: fosfato disódico, citrato trisódico, cloruro cálcico) que
+permitan conservar la consistencia natural de la leche líquida durante el transporte, así como de muy pequeñas
+cantidades de antioxidantes o de vitaminas que normalmente no contiene la leche. Algunos de estos productos también pueden contener pequeñas cantidades de productos químicos (por ejemplo, bicarbonato sódico)
+necesarios para su preparación; los productos lácteos en forma de polvo o gránulos pueden contener agentes
+emulsionantes (anticoagulantes), tales como fosfolípidos o dióxido de silicio amorfo.
+Por otra parte, se excluyen de este Capítulo los productos obtenidos a partir del lactosuero con un contenido de lactosa superior al 95 % en peso, expresado en lactosa anhidra, calculada sobre materia seca (partida
+17.02).Para calcular el porcentaje en peso de lactosa contenida en un producto, se entiende por «materia seca»
+aquélla que está libre de agua, incluso de agua de cristalización.
+También se excluyen de este Capítulo, entre otros, los productos siguientes:
+a)
+
+Las preparaciones alimenticias a base de productos lácteos (principalmente, de la partida 19.01).
+
+b)
+
+Los productos resultantes de la sustitución en la leche de uno o varios de sus componentes naturales
+(por ejemplo, materia grasa de tipo butírico) por otra sustancia (por ejemplo, materia grasa de tipo oleico)
+(partidas 19.01 o 21.06).
+
+c)
+
+Los helados (partida 21.05).
+
+d)
+
+Los medicamentos del Capítulo 30.
+
+e)
+
+La caseína (partida 35.01), la lacto albúmina (partida 35.02) y la caseína endurecida (partida 39.13).
+
+II)
+
+Los huevos de ave y sus yemas.
+
+NOTAS EXPLICATIVAS DEL SISTEMA ARMONIZADO
+SÉPTIMA ENMIENDA - 2022
+
+III)
+
+41
+
+La miel natural.
+
+IV) Los productos comestibles de origen animal, no expresados ni comprendidos en otra parte.
+04.01
+
+Leche y nata (crema), sin concentrar, sin adición de azúcar ni otro edulcorante.
+0401.10 -
+
+Con un contenido de materias grasas inferior o igual al 1 % en peso
+
+0401.20 -
+
+Con un contenido de materias grasas superior al 1 % pero inferior o igual al 6 % en peso
+
+0401.40 -
+
+Con un contenido de materias grasas superior al 6 % pero inferior o igual al 10 %, en
+peso
+
+0401.50 -
+
+Con un contenido de materias grasas superior al 10 % en peso.
+
+Esta partida comprende la leche tal como se define en la Nota 1 de este Capítulo y la nata (crema), incluso
+pasteurizadas, esterilizadas o conservadas de otro modo, homogeneizadas o peptonizadas, excepto la leche
+y nata (crema) concentradas o con adición de azúcar u otro edulcorante (partida 04.02), y la leche y la nata
+(crema) cuajadas, fermentadas o acidificadas (partida 04.03).
+Sin embargo, los productos de esta partida se pueden presentar congelados y contener los aditivos mencionados en las Consideraciones generales del Capítulo. Esta partida también comprende la leche y la nata
+(crema) reconstituidas, cuya composición cualitativa y cuantitativa sea la misma que la de los productos naturales.
+04.02
+
+Leche y nata (crema), concentradas o con adición de azúcar u otro edulcorante (+).
+0402.10 -
+
+En polvo, gránulos o demás formas sólidas, con un contenido de materias grasas inferior
+
+-
+
+En polvo, gránulos o demás formas sólidas, con un contenido de materias grasas superior
+
+o igual al 1.5 % en peso
+al 1.5 % en peso:
+0402.21 - - Sin adición de azúcar ni otro edulcorante
+0402.29 - - Las demás
+-
+
+Las demás:
+
+0402.91 - - Sin adición de azúcar ni otro edulcorante
+0402.99 - - Las demás
+Esta partida comprende la leche tal como se define en la Nota 1 de este Capítulo y la nata (crema) concentradas (por ejemplo, evaporadas) o con adición de azúcar u otro edulcorante, en estado líquido, pastoso o
+sólido (bloques, polvo, gránulos), incluso conservadas o reconstituidas.
+A la leche en polvo se le pueden añadir pequeñas cantidades de almidón (que no excedan del 5 % en
+peso), en especial para mantener la leche reconstituida en su estado físico normal.
+Se excluyen de esta partida:
+a)
+
+La leche y la nata (crema) cuajadas, fermentadas o acidificadas (partida 04.03).
+
+b)
+
+Las bebidas constituidas por leche aromatizada, saborizada o con chocolate (partida 22.02).
+
+Nota explicativa de subpartida.
+Subpartidas 0402.10, 0402.21 y 0402.29
+Estas subpartidas no comprenden la leche y nata (crema) concentradas, presentadas en forma de pasta
+(subpartidas 0402.91 y 0402.99).
+
+NOTAS EXPLICATIVAS DEL SISTEMA ARMONIZADO
+
+42
+
+SÉPTIMA ENMIENDA - 2022
+
+04.03
+
+Yogur; suero de mantequilla (de manteca), leche y nata (crema) cuajadas, kéfir y demás leches
+y natas (cremas), fermentadas o acidificadas, incluso concentrados o con adición de azúcar u
+otro edulcorante, aromatizados o con frutas u otros frutos o cacao.
+0403.20 -
+
+Yogur.
+
+0403.90 -
+
+Los demás
+
+Esta partida comprende el suero de mantequilla (manteca)*, la leche y nata (crema) fermentadas o aciduladas de cualquier tipo, en especial la leche y nata (crema) cuajadas, el yogur y el kéfir. Los productos de esta
+partida se pueden presentar en estado líquido, pastoso o sólido (incluso congelados) y estar concentrados (por
+ejemplo: evaporados, en bloques, polvo o gránulos) o conservados.
+La leche fermentada de esta partida puede consistir en leche en polvo de la partida 04.02 a la que se
+han añadido pequeñas cantidades de fermentos lácticos para su utilización en la elaboración de productos de
+charcutería (chacinería) o como aditivo en la alimentación de animales.
+La leche acidificada de esta partida puede consistir en leche en polvo de la partida 04.02 a la que se han
+añadido pequeñas cantidades de ácido (incluido jugo de limón) cristalizado, de forma que pueda obtenerse leche
+cuajada cuando, para reconstituirla, se mezcle con agua.
+Con independencia de los aditivos mencionados en las Consideraciones generales de este Capítulo, a los
+productos de esta partida se les puede añadir azúcar u otros edulcorantes, aromatizantes, saborizantes, frutas
+(incluidas pulpas y confituras) o cacao.
+04.04
+
+Lactosuero, incluso concentrado o con adición de azúcar u otro edulcorante; productos constituidos por los componentes naturales de la leche, incluso con adición de azúcar u otro edulcorante,
+no expresados ni comprendidos en otra parte.
+0404.10 -
+
+Lactosuero, aunque esté modificado, incluso concentrado o con adición de azúcar u otro
+edulcorante
+
+0404.90 -
+
+Los demás
+
+Esta partida comprende el lactosuero (es decir, los componentes naturales de la leche que permanecen
+cuando se ha eliminado la materia grasa y la caseína) y el lactosuero modificado (véase la Nota 1 de subpartidas
+de este Capítulo). Estos productos se pueden presentar en estado líquido, pastoso o sólido (incluso congelado),
+incluidos los parcialmente deslactosados o desmineralizados y además concentrados (por ejemplo, en polvo)
+o conservados.
+Esta partida también incluye los productos frescos o conservados constituidos por los componentes naturales de la leche con distinta composición a la del producto natural, siempre que no estén contemplados más
+específicamente en otra parte. Por tanto, la partida comprende los productos en los que uno o varios de los
+constituyentes naturales de la leche se han separado y la leche a la que se han añadido alguno o algunos de
+sus componentes naturales (por ejemplo, para obtener un producto con mayor contenido de proteínas).
+Con independencia de los componentes naturales de la leche y de los aditivos mencionados en las Consideraciones generales de este Capítulo, a los productos de esta partida se les pueden añadir azúcar u otros
+edulcorantes.
+A los productos en polvo de esta partida, principalmente al lactosuero, se les pueden añadir pequeñas
+cantidades de fermentos lácticos para su utilización en la elaboración de productos de charcutería (chacinería)
+o como aditivos en la alimentación de animales.
+Esta partida no comprende:
+a)
+
+La leche desnatada (descremada) y la leche reconstituida cuya composición cualitativa y cuantitativa sea
+la misma que la de la leche natural (partidas 04.01 o 04.02).
+
+b)
+
+El queso a base de lactosuero (partida 04.06).
+
+c)
+
+Los productos obtenidos a partir de lactosuero con un contenido de lactosa superior al 95 % en peso,
+
+NOTAS EXPLICATIVAS DEL SISTEMA ARMONIZADO
+SÉPTIMA ENMIENDA - 2022
+
+43
+
+expresado en lactosa anhidra, calculada sobre materia seca (partida 17.02).
+d)
+
+Las preparaciones alimenticias a base de componentes naturales de la leche, pero que contengan otras
+sustancias cuya presencia en los productos de este Capítulo no esté autorizada (en especial, partida
+19.01).
+
+e)
+
+Las albúminas (incluidos los concentrados de varias proteínas de lactosuero, con un contenido de proteínas
+de lactosuero superior al 80 % en peso, calculado sobre materia seca) (partida 35.02) ni las globulinas
+(partida 35.04).
+
+04.05
+
+Mantequilla (manteca)* y demás materias grasas de la leche; pastas lácteas para untar.
+0405.10 -
+
+Mantequilla
+
+0405.20 -
+
+Pastas lácteas para untar
+
+0405.90 -
+
+Las demás
+
+Esta partida comprende:
+A)
+
+La mantequilla (manteca)*.
+Este grupo comprende la mantequilla (manteca)* natural, la mantequilla (manteca)* del lactosuero y la
+mantequilla (manteca)* «recombinada» (fresca, salada o rancia, incluso en recipientes herméticamente
+cerrados). La mantequilla debe proceder exclusivamente de la leche, con un contenido de materias grasas
+de leche superior o igual al 80 % pero inferior o igual al 95 % en peso, de materias sólidas no grasas de la
+leche inferior o igual al 2 % en peso y un contenido de agua inferior o igual al 16 % en peso. La mantequilla
+(manteca)* no debe contener emulsionantes añadidos, pero puede contener cloruro de sodio, colorantes
+alimenticios, sales de neutralización y cultivos de bacterias lácticas inocuas (véase la Nota 2 a) de este
+Capítulo).
+El presente grupo también incluye la mantequilla (manteca)* elaborada con leche de cabra o de oveja.
+
+B)
+
+Pastas lácteas para untar.
+Este grupo se refiere a las pastas lácteas para untar, es decir, emulsiones del tipo agua-en-aceite que se
+puedan untar y contengan materias grasas de la leche en una proporción igual o superior al 39 % pero
+inferior al 80 % en peso (véase la Nota 2 b) de este Capítulo). Las pastas lácteas para untar pueden contener ingredientes tales como cultivos de bacterias lácticas inocuas, vitaminas, cloruro de sodio, azúcares,
+gelatina, almidón, colorantes alimenticios, aromatizantes, saborizantes, emulsionantes, espesativos y
+agentes de conservación.
+
+C)
+
+Las demás materias grasas de la leche.
+Este grupo comprende las demás materias grasas de la leche (por ejemplo: materia grasa de leche, grasa
+butírica, aceite butírico). El aceite butírico se obtiene mediante la extracción del agua y de las materias no
+grasas de la mantequilla (manteca)* o de la nata (crema).
+También están comprendidos aquí la mantequilla (manteca)* deshidratada y el «ghee» (especie de mantequilla (manteca)* generalmente elaborada con leche de búfala o de vaca), así como los productos constituidos por una mezcla de mantequilla (manteca)* con pequeñas cantidades de hierbas finas, especias,
+aromatizantes, saborizantes, ajo, etc., (siempre que conserven el carácter de productos pertenecientes a
+esta partida).
+
+Se excluyen de esta partida las pastas para untar cuyas materias grasas sean distintas de las procedentes
+de la leche o en las que el contenido de materias grasas de la leche sea inferior al 39 % en peso (generalmente,
+partida 15.17 o 21.06).
+04.06
+
+Quesos y requesón.
+0406.10 -
+
+Queso fresco (sin madurar), incluido el de lactosuero, y requesón
+
+0406.20 -
+
+Queso de cualquier tipo, rallado o en polvo
+
+NOTAS EXPLICATIVAS DEL SISTEMA ARMONIZADO
+
+44
+
+SÉPTIMA ENMIENDA - 2022
+
+0406.30 -
+
+Queso fundido, excepto el rallado o en polvo
+
+0406.40 -
+
+Queso de pasta azul y demás quesos que presenten vetas producidas por Penicillium
+
+0406.90 -
+
+Los demás quesos
+
+roqueforti
+
+Esta partida comprende toda clase de quesos:
+1)
+
+Queso fresco (incluido el queso obtenido a partir de lactosuero o de suero de mantequilla (manteca)* («babeurre»)) y el requesón. El queso fresco es un queso que no ha sufrido ninguna maduración y que puede
+ser consumido poco después de su elaboración (por ejemplo: Ricotta, Broccio, queso «cottage», queso de
+nata (queso crema), Mozzarella).
+
+2)
+
+Queso rallado o en polvo.
+
+3)
+
+Queso fundido. Se trata de productos obtenidos por cortado, triturado y fundido por calor y emulsionantes
+o acidificantes (incluidas las sales fundentes) de una o varias clases de queso y de uno o varios de los
+productos siguientes: nata (crema) y demás productos lácteos, sal, especias, aromatizantes, saborizantes,
+colorantes y agua.
+
+4)
+
+Queso de pasta azul y demás quesos que presenten vetas producidas por Penicillium roqueforti.
+
+5)
+
+Quesos de pasta blanda (Camembert, Brie, etc.).
+
+6)
+
+Quesos de pasta semidura o dura (Cheddar, Gouda, Gruyére, Parmesano, etc.).
+
+El queso de lactosuero se obtiene por concentración del lactosuero con adición de leche o materias grasas
+de leche. Solamente se clasifica en esta partida cuando presente las tres características siguientes:
+a)
+
+un contenido de materias grasas de la leche superior o igual al 5 %, calculado en peso sobre el extracto
+seco;
+
+b)
+
+un contenido de extracto seco superior o igual al 70 % pero inferior o igual al 85 %, calculado en peso;
+
+c)
+
+moldeado o susceptible de serlo.
+
+La presencia en los quesos de carne, pescados, crustáceos, aromas, hierbas, especias, y hortalizas, frutas,
+vitaminas, leche desnatada (descremada) en polvo, etc., no modifica su clasificación, siempre que el producto
+conserve su carácter de queso.
+Los quesos cubiertos con pasta o pan rallado (rebozados), incluso precocidos, permanecen comprendidos
+en esta partida, siempre que conserven su carácter de queso.
+Nota explicativa de subpartida.
+Subpartida 0406.40
+Esta subpartida comprende los quesos que contengan vetas visibles en el cuerpo del queso, que pueden
+ser de color azul, verde, verdoso-azulado o blanquecino-grisáceo, tales como los quesos Bleu d’Auvergne, Bleu
+de Causses, Bleu de Quercy, Bleu Cheshire, Bleu Dorset, Blue Wensleydale, Cabrales, Danish Blue (Danablu),
+Gorgonzola, Mycella, Roquefort, Saingorlon y Stilton, así como los quesos con nombres propios o comerciales,
+que cumplan con los criterios anteriores.
+04.07
+
+Huevos de ave con cáscara (cascarón), frescos, conservados o cocidos.
+-
+
+Huevos fecundados para incubación:
+
+0407.11 - - De gallina de la especie Gallus domesticus
+0407.19 - - Los demás
+-
+
+Los demás huevos frescos:
+
+0407.21 - - De gallina de la especie Gallus domesticus
+
+NOTAS EXPLICATIVAS DEL SISTEMA ARMONIZADO
+SÉPTIMA ENMIENDA - 2022
+
+45
+
+0407.29 - - Los demás
+0407.90 -
+
+Los demás
+
+Esta partida comprende los huevos fecundados para incubación y los demás huevos frescos (incluso refrigerados) de todas las aves. Comprende igualmente los huevos conservados o cocidos, con cáscara (cascarón).
+04.08
+
+Huevos de ave sin cáscara (cascarón) y yemas de huevo, frescos, secos, cocidos en agua o
+vapor, moldeados, congelados o conservados de otro modo, incluso con adición de azúcar u
+otro edulcorante.
+-
+
+Yemas de huevo:
+
+0408.11 - - Secas
+0408.19 - - Las demás
+-
+
+Los demás:
+
+0408.91 - - Secos
+0408.99 - - Los demás
+Esta partida comprende los huevos enteros sin cáscara (cascarón) y las yemas de huevo, de cualquier
+ave. Los productos de esta partida pueden estar frescos, secos, cocidos al vapor o en agua, moldeados (por
+ejemplo, los huevos con forma cilíndrica llamados huevos largos), congelados o conservados de otra forma.
+Todos estos productos, aunque se les haya añadido azúcar u otro edulcorante, corresponden a esta partida,
+tanto si se destinan a fines alimenticios como a usos industriales (por ejemplo, la curtición).
+Se excluyen de esta partida:
+a)
+
+El aceite de yema de huevo (partida 15.06).
+
+b)
+
+Las preparaciones a base de huevo que contengan sazonadores, especias u otros aditivos (partida 21.06).
+
+c)
+
+La lecitina (partida 29.23).
+
+d)
+
+Las claras de huevo presentadas aisladamente (albúmina) (partida 35.02).
+
+04.09
+
+Miel natural.
+
+Esta partida comprende la miel de abejas (Apis melífera) o demás insectos, centrifugada, en panales o
+con trozos de panales, sin adición de azúcar ni de otras materias. La miel puede designarse con el nombre de
+la flor de la que procede o teniendo en cuenta el origen o incluso el color.
+Los sucedáneos de la miel y las mezclas de miel natural con sucedáneos de la miel se clasifican en la
+partida 17.02.
+04.10
+
+Insectos y demás productos comestibles de origen animal, no expresados ni comprendidos en
+otra parte.
+0410.10 -
+
+Insectos
+
+0410.90 -
+
+Los demás
+
+Esta partida comprende los productos de origen animal aptos para el consumo humano, no expresados ni
+comprendidos en otra parte de la Nomenclatura.
+Están comprendidos, entre otros:
+1)
+
+Los huevos de tortuga. Estos huevos aovados por ciertas especies acuáticas (tortugas de mar o de río)
+pueden presentarse frescos, desecados o conservados de otra forma.
+El aceite de huevos de tortuga corresponde, por el contrario, a la partida 15.06.
+
+2)
+
+Los nidos de salangana, impropiamente denominados «nidos de golondrina». Estos nidos están consti-
+
+NOTAS EXPLICATIVAS DEL SISTEMA ARMONIZADO
+
+46
+
+SÉPTIMA ENMIENDA - 2022
+
+tuidos por una sustancia segregada por el animal, que se solidifica rápidamente en contacto con el aire.
+Se pueden presentar en bruto o sometidos a tratamientos para despojarlos de plumas, plumón, polvo y
+otras impurezas para hacerlos consumibles. Así tratados, tienen generalmente forma de tiras o hilos de
+color blanquecino.
+Muy ricos en proteínas, los nidos de salangana se utilizan casi exclusivamente para preparar sopas, potajes
+u otras preparaciones alimenticias.
+Esta partida no comprende la sangre animal, incluso comestible, líquida o desecada (partida 05.11 o 30.02).
+-------------------------
+
+NOTAS EXPLICATIVAS DEL SISTEMA ARMONIZADO
+
+47
+
+SÉPTIMA ENMIENDA - 2022
+
+CAPÍTULO 5
+LOS DEMÁS PRODUCTOS DE ORIGEN ANIMAL, NO EXPRESADOS NI
+COMPRENDIDOS EN OTRA PARTE
+Notas.
+1.
+
+Este Capítulo no comprende:
+a)
+
+Los productos comestibles, excepto las tripas, vejigas y estómagos de animales, enteros o en trozos,
+y la sangre animal (líquida o desecada);
+
+b)
+
+Los cueros, pieles y peletería, excepto los productos de la partida 05.05 y los recortes y desperdicios
+similares de pieles en bruto de la partida 05.11 (Capítulos 41 o 43);
+
+c)
+
+Las materias primas textiles de origen animal, excepto la crin y los desperdicios de crin (Sección XI);
+
+d)
+
+Las cabezas preparadas para artículos de cepillería (partida 96.03).
+
+2.
+
+En la partida 05.01 también se considera cabello en bruto el extendido longitudinalmente pero sin colocarlo
+en el mismo sentido.
+
+3.
+
+En la Nomenclatura se considera marfil la materia de las defensas de elefante, hipopótamo, morsa, narval
+o jabalí y los cuernos de rinoceronte, así como los dientes de todos los animales.
+
+4.
+
+En la Nomenclatura, se considera crin tanto el pelo de la crin como el de la cola de los équidos o de los
+bóvidos. La partida 05.11 comprende, entre otros la crin y sus desperdicios, incluso en capas con o sin
+soporte,
+CONSIDERACIONES GENERALES
+
+Este Capítulo comprende un conjunto de materias de origen animal, en bruto o con una simple preparación,
+que generalmente no se destinan a la alimentación (con excepción de cierta sangre, y de las tripas, vejigas y
+estómagos de animales) ni están comprendidas en otros Capítulos de la Nomenclatura.
+Se excluyen de este Capítulo:
+a)
+
+Las grasas animales (Capítulos 2 o 15).
+
+b)
+
+Las pieles comestibles sin cocer, de animales (Capítulo 2) o de pescado (Capítulo 3). (Cuando estén
+cocidas, estas pieles se clasifican en el Capítulo 16).
+
+c)
+
+Aletas de pescado comestibles, cabezas, colas, estómagos (vejigas de nadada) y otra basura de pescado
+comestible (el Capítulo 3).
+
+d)
+
+Las glándulas y demás órganos para usos opoterápicos, desecados e incluso pulverizados (Capítulo 30).
+
+e)
+
+Los abonos de origen animal (Capítulo 31).
+
+f)
+
+Las pieles y cueros (Capítulo 41); sin embargo, permanecen comprendidas en el presente Capítulo las
+pieles y partes de pieles de ave, con sus plumas o plumón, que se presenten en bruto o simplemente
+limpiadas, desinfectadas o preparadas para su conservación.
+
+g)
+
+La peletería (Capítulo 43).
+
+h)
+
+Las materias textiles de origen animal: seda, lana y pelo (Sección Xl); sin embargo, la crin y sus desperdicios permanecen clasificados en el presente Capítulo.
+
+ij)
+
+Las perlas naturales o cultivadas (Capítulo 71).
+
+NOTAS EXPLICATIVAS DEL SISTEMA ARMONIZADO
+
+48
+
+SÉPTIMA ENMIENDA - 2022
+
+05.01
+
+Cabello en bruto, incluso lavado o desgrasado; desperdicios de cabello.
+
+Se clasifica aquí el cabello en bruto, incluso lavado o desgrasado (incluido el cabello extendido longitudinalmente, pero sin colocar en el mismo sentido, es decir, en su sentido natural, raíz con raíz y punta con punta),
+así como los desperdicios.
+Se excluye por corresponder a la partida 67.03, el cabello, excepto los desperdicios, cuya manipulación
+rebase el simple lavado o desgrasado, por ejemplo, el que ha sido adelgazado, coloreado o decolorado, rizado
+o preparado para la fabricación de postizos u otras labores, así como el cabello simplemente colocado en el
+mismo sentido (véase la Nota explicativa de la partida 67.03). Sin embargo, esta exclusión no se aplica a los
+desperdicios de cabello que, en todos los casos, se clasifican en la presente partida, aunque procedan, por
+ejemplo, de cabello teñido o decolorado.
+También se excluyen de la presente partida:
+a)
+
+Los capachos de cabello (partida 59.11).
+
+b)
+
+Las redecillas y redes para el cabello, de cabello (partida 65.05).
+
+c)
+
+Las demás manufacturas de cabello (partida 67.04).
+
+05.02
+
+Cerdas de cerdo o de jabalí; pelo de tejón y demás pelos para cepillería; desperdicios de dichas
+cerdas o pelos.
+0502.10 -
+
+Cerdas de cerdo o de jabalí y sus desperdicios
+
+0502.90 -
+
+Los demás
+
+Se denominan cerdas los pelos del cerdo o del jabalí.
+Los productos de esta partida se pueden presentar a granel, en haces en los que los pelos no hayan sufrido
+ningún arreglo (haces sin ordenar, poco apretados), o en haces con los pelos dispuestos en un atado provisional
+y con los extremos del lado de la raíz formando una superficie más o menos plana (pelos en haces). Las cerdas
+o los pelos pueden estar, además, limpios, blanqueados, teñidos o incluso esterilizados.
+Entre los demás pelos para cepillería, se pueden citar los pelos de mofeta o zorrillo (skunks), ardilla o marta.
+Sin embargo, las cerdas y pelos de la presente partida se incluirán en la partida 96.03 cuando se presenten
+en forma de cabezas preparadas, es decir, de mechones sin montar, listos para su utilización en la fabricación
+de brochas, pinceles o artículos análogos, sin dividirlos o que sólo necesiten un complemento poco importante
+de mano de obra, como el encolado o la impregnación de la base del mechón o incluso igualado o acabado de
+las puntas (véase la Nota 3 del Capítulo 96).
+[05.03]
+05.04
+
+Tripas, vejigas y estómagos de animales, excepto los de pescado, enteros o en trozos, frescos,
+refrigerados, congelados, salados o en salmuera, secos o ahumados.
+
+Esta partida comprende las tripas, vejigas y estómagos de animales (excepto los de pescado, que se clasifican en la partida 05.11), sean o no comestibles, frescos, salados o en salmuera, secos o ahumados, enteros
+o en trozos. Se excluyen estos productos preparados o conservados de otro modo (generalmente, Capítulo 16).
+Se clasifican aquí, entre otros:
+1)
+
+Los cuajares (de ternera, cabrito, etc.), incluso cortados o desecados, de los que se extrae el cuajo.
+
+2)
+
+Las tripas y panzas. Cuando están cocidas corresponden al Capítulo 16.
+
+3)
+
+La tripa de batihojas sin trabajar, es decir, constituida por la envoltura o membrana exterior del intestino
+ciego del buey o del carnero.
+También se clasifican aquí las tripas, incluso las de batihojas (en especial las de buey), hendidas o cortadas
+
+NOTAS EXPLICATIVAS DEL SISTEMA ARMONIZADO
+SÉPTIMA ENMIENDA - 2022
+
+49
+
+longitudinalmente en tiras, aunque se les hayan quitado por raspado las capas interiores.
+Las tripas se utilizan, esencialmente, como envoltura de los productos de charcutería (chacinería), en la
+fabricación de catgut quirúrgico (partida 30.06), cuerdas para raquetas (partida 42.06) o cuerdas para instrumentos musicales (partida 92.09).
+Esta partida no comprende las tripas artificiales fabricadas por extrusión de una pasta de fibras de piel
+y endurecidas con una solución de formaldehído y fenoles (partida 39.17) o por encolado de tripas naturales
+cortadas longitudinalmente (partida 42.06).
+05.05
+
+Pieles y demás partes de ave, con sus plumas o su plumón, plumas y partes de plumas (incluso
+recortadas) y plumón, en bruto o simplemente limpiados, desinfectados o preparados para su
+conservación; polvo y desperdicios de plumas o de partes de plumas (+).
+0505.10 -
+
+Plumas de las utilizadas para relleno; plumón
+
+0505.90 -
+
+Los demás
+
+Siempre que se presenten en bruto o que solo se hayan sometido a manipulaciones de limpieza, desinfección o tratamiento exclusivamente destinado a la conservación, la presente partida comprende:
+1)
+
+Las pieles y demás partes de aves (tales como cabeza, alas, etc.) con sus plumas o plumón.
+
+2)
+
+Las plumas y partes de plumas (incluso recortadas), así como el plumón.
+Esta partida comprende igualmente el polvo, harina y desperdicios de plumas o de partes de plumas.
+
+El hecho de que se trate de plumas o plumón para relleno o para artículos ornamentales (generalmente
+después de una preparación más completa) o para cualquier otra finalidad, no afecta su clasificación.
+Las partes de plumas de esta partida también comprenden las plumas hendidas en el sentido de la longitud,
+las barbas separadas del astil (incluso recortadas), aunque permanezcan unidas entre sí en la base por una
+especie de piel procedente del astil, los cañones y los astiles.
+Las plumas y el plumón quedan clasificados aquí, aun cuando, para facilitar la venta al por menor, se presenten dentro de talegos de tela ordinaria que no puedan considerarse cojines o edredones. Lo mismo sucede
+con las plumas simplemente ensartadas para facilitar el transporte.
+Las pieles y demás partes de ave, las plumas y partes de plumas, sometidas a un trabajo más completo
+que los previstos en esta partida (tales como el blanqueo, teñido, rizado, gofrado) o que estén montadas, así
+como los artículos confeccionados con plumas, etc., se clasifican en general, en la partida 67.01 (véase la
+Nota explicativa de esta partida). Los cañones de plumas trabajados y los artículos con cañones de pluma, se
+clasifican según su naturaleza (por ejemplo: flotadores para la pesca con caña, partida 95.07 y mondadientes
+en la partida 96.01).
+Nota explicativa de subpartida.
+Subpartida 0505.10
+Se entenderá por plumas de los tipos utilizados para relleno, las plumas de aves de corral (principalmente
+ganso o pato), de paloma, perdiz o aves similares, excepto las plumas grandes de las alas o de la cola, así como
+las plumas grandes separadas al clasificarlas. El plumón es la parte más fina y suave del plumaje, especialmente
+de los gansos y patos y se diferencia de las plumas por la falta del astil rígido. Estas plumas y plumón se utilizan
+principalmente para el relleno de artículos de cama o de otros artículos, tales como cojines o prendas de vestir
+aislantes (por ejemplo, «anoraks»).
+05.06
+
+Huesos y núcleos córneos, en bruto, desgrasados, simplemente preparados (pero sin cortar en
+forma determinada), acidulados o desgelatinizados; polvo y desperdicios de estas materias.
+0506.10 -
+
+Oseína y huesos acidulados
+
+0506.90 -
+
+Los demás
+
+NOTAS EXPLICATIVAS DEL SISTEMA ARMONIZADO
+
+50
+
+SÉPTIMA ENMIENDA - 2022
+
+Los productos de esta partida se utilizan principalmente como materias de talla, para la fabricación de
+colas, gelatina, o como abono.
+Corresponden a esta partida:
+1)
+
+Los huesos y núcleos córneos (huesos interiores de los cuernos) en bruto o desgrasados (huesos de los
+que se ha eliminado la grasa por diversos procedimientos).
+
+2)
+
+Los huesos simplemente preparados (pero sin cortar en forma determinada), es decir, los que no han
+sido sometidos a trabajos superiores al simple aserrado para eliminar las partes superfluas, troceado, corte
+(transversal o longitudinal), seguido o no de un simple cepillado o decolorado. Por tanto, se excluyen de
+aquí, y corresponden a la partida 96.01 o a otras partidas más específicas, las placas, plaquitas, varillas,
+trozos y piezas cortados en forma determinada (incluso cuadrada o rectangular) o pulidas o trabajadas de
+otra forma, así como los artículos de hueso reconstituido obtenidos por moldeo de polvo de huesos.
+
+3)
+
+Los huesos acidulados, es decir, aquellos en los que la parte calcárea ha sido disuelta por medio de ácido
+clorhídrico y que, sin haber perdido su forma primitiva, conservan sólo el tejido celular y la parte cartilaginosa
+(oseína), que se puede transformar fácilmente en gelatina.
+
+4)
+
+Los huesos des gelatinizados, despojados de la materia orgánica (gelatina) por cocción al vapor; generalmente se presentan en polvo.
+
+5)
+
+El polvo y desperdicios de huesos, incluidos los huesos quebrantados y en especial los desperdicios
+resultantes del trabajo de los huesos.
+
+05.07
+
+Marfil, concha (caparazón) de tortuga, ballenas de mamíferos marinos (incluidas las barbas),
+cuernos, astas, cascos, pezuñas, uñas, garras y picos, en bruto o simplemente preparados, pero
+sin cortar en forma determinada; polvo y desperdicios de estas materias.
+0507.10 -
+
+Marfil; polvo y desperdicios de marfil
+
+0507.90 -
+
+Los demás
+
+Esta partida comprende los productos que se describen a continuación, en bruto o simplemente preparados, pero sin cortar en forma determinada, es decir, trabajados sin sobrepasar el limado, raspado, limpiado,
+desgrasado, separación de partes superfluas, desbarbado, troceado, corte longitudinal, cortado que no sea en
+forma determinada, cepillado somero, enderezado o aplanado:
+A)
+
+El marfil.
+En la Nomenclatura, se considera marfil la sustancia ósea de:
+
+B)
+
+1)
+
+Las defensas del elefante, hipopótamo, morsa, narval o jabalí.
+
+2)
+
+El cuerno de los rinocerontes.
+
+3)
+
+Los dientes de todos los animales terrestres o marinos.
+
+La concha (caparazón) de tortuga.
+
+Esta partida comprende tanto la concha (caparazón) de tortuga marina, que prácticamente es la única
+comercialmente utilizada en taracea y que procede generalmente de las especies conocidas con los nombres
+de tortuga franca, carey y caguama, como la concha (caparazón) de la tortuga terrestre.
+La concha (caparazón) es una materia de naturaleza córnea que, en forma de placas de dimensión y espesor variables, cubre la osamenta o coraza que envuelve el cuerpo del animal.
+En esta partida se entiende por «concha (caparazón) de tortuga»:
+1)
+
+Las conchas (caparazones) enteros o en partes.
+
+2)
+
+Las placas separadas de la concha (caparazón), casi siempre así obtenidas en los mismos lugares de
+
+NOTAS EXPLICATIVAS DEL SISTEMA ARMONIZADO
+SÉPTIMA ENMIENDA - 2022
+
+51
+
+pesca, y que consisten en placas de espesor irregular, abombadas en la superficie; estas placas reciben
+el nombre de espaldar o de peto, según la parte del cuerpo de la que procedan; también suele llamarse
+plastrón a la parte que recubre el vientre y el pecho.
+C)
+
+Las ballenas (incluidas las barbas) de mamíferos marinos.
+Las ballenas de los mamíferos marinos, en su estado natural se presentan como láminas curvas y córneas, recubiertas de una piel gruesa adherida a la superficie y sobre la cara interior tienen una especie de
+flecos de la misma materia que la ballena (barbas de ballena).
+
+D)
+
+Los cuernos, astas, cascos, pezuñas, uñas, garras y picos.
+Los cuernos de este grupo se pueden presentar con sus núcleos o sin ellos o con el hueso frontal. Las
+astas son las cornamentas del ciervo, alce, etc.
+La partida también comprende el polvo y los desperdicios (incluidos los recortes) de estas materias.
+
+Se excluyen de la partida los productos que han sido cortados en forma cuadrada o rectangular, o tengan
+forma de varillas, tubos u otras formas acabadas o semiacabadas, así como las manufacturas obtenidas por
+moldeo (partida 96.01 o de más partidas específicas).
+05.08
+
+Coral y materias similares, en bruto o simplemente preparados, pero sin otro trabajo; valvas
+y caparazones de moluscos, crustáceos o equinodermos, y jibiones, en bruto o simplemente
+preparados, pero sin cortar en forma determinada, incluso en polvo y desperdicios.
+
+El coral es el esqueleto calcáreo de un pólipo marino, generalmente utilizado en bisutería.
+Desde un punto de vista industrial, la concha más importante es la que proporciona el nácar.
+La presente partida comprende:
+1)
+
+El coral en bruto, así como el coral despojado de su costra o corteza.
+
+2)
+
+El coral simplemente preparado, pero sin otro trabajo en otra forma, es decir, el trabajado sin sobrepasar
+el simple troceado o el corte longitudinal.
+
+3)
+
+Las valvas y caparazones, en bruto o simplemente preparados, pero sin cortar en forma determinada,
+es decir, trabajados sin sobrepasar la limpieza o el simple troceado.
+
+Las valvas y caparazones rotos o pulverizados, para alimentación de animales, corresponden a la presente
+partida; también se clasifican aquí los desperdicios de valvas o caparazones, así como los jibiones en bruto.
+Se excluyen de esta partida las placas, plaquitas, varillas, ramas, trozos y piezas cortadas en forma
+determinada, incluso cuadrada o rectangular, o pulidos o trabajados de otra forma, se clasifican en la partida
+96.01 o en partidas más específicas.
+[05.09]
+05.10
+
+Ambar gris, castóreo, algalia y almizcle; cantáridas; bilis, incluso desecada; glándulas y demás
+sustancias de origen animal utilizadas para la preparación de productos farmacéuticos, frescas,
+refrigeradas, congeladas o conservadas provisionalmente de otra forma.
+
+El ámbar gris, segregado por el cachalote, se presenta en forma de masas redondeadas, formadas por
+capas concéntricas, que llegan a pesar hasta 100 kilogramos. Posee aproximadamente la consistencia de la
+cera; cuando se frota, desprende un olor dulce y suave. El color puede variar del gris ceniza al gris muy oscuro;
+la densidad es inferior a la unidad. El ámbar amarillo (succino), que es una sustancia mineral, corresponde a
+la partida 25.30.
+El castóreo es una sustancia de naturaleza resinosa, de color pardo, rojizo o amarillento, con sabor acre
+y amargo y olor fuerte. Se encuentra en las vesículas o bolsas abdominales de los castores. Generalmente, se
+presenta en estas mismas vesículas alargadas, la mayoría de las veces unidas por un extremo, frecuentemente
+plegadas y con una longitud que varía entre 5 cm y 10 cm.
+
+NOTAS EXPLICATIVAS DEL SISTEMA ARMONIZADO
+
+52
+
+SÉPTIMA ENMIENDA - 2022
+
+La algalia, producida por el gato de algalia o civeta, es una sustancia resinosa de consistencia pastosa y
+untuosa, de color leonado o pardo, que posee un olor sui generis extremadamente fuerte que recuerda al del
+almizcle natural.
+El almizcle segregado por una especie de cabra, está contenido de forma natural en bolsas que son, por
+un lado, planas y desprovistas de pelo y, por el otro, convexa y cubiertas de pelos blanquecinos. Esta secreción
+es de color pardo oscuro y de olor fuerte. No se debe confundir este almizcle con los artificiales (almizcle xileno,
+almizcle ámbar, etc.) que se clasifican en el Capítulo 29.
+La cantárida es un insecto coleóptero utilizado principalmente por sus propiedades vesicantes o revulsivas.
+Se presenta generalmente seco o pulverizado.
+También se clasifican en esta partida:
+1)
+
+Las glándulas y demás órganos de origen animal utilizados para la preparación de productos opoterápicos e impropios, por su naturaleza o forma de presentación, en la alimentación humana (tales como, en
+su caso, el páncreas, testículos, ovarios, vesículas biliares, tiroides, hipófisis), que se presenten frescos,
+refrigerados, congelados, o conservados provisionalmente de otra forma (por ejemplo: en glicerina, acetona,
+alcohol) por necesidades de transporte o almacenamiento, antes de su utilización definitiva. Cuando se
+presentan desecados o en forma de extracto, estos productos se clasifican en la partida 30.01. (Para los
+productos comestibles, véase la Nota 1 a) del presente Capítulo.)
+
+2)
+
+La bilis, incluso desecada (los extractos de bilis se clasifican en la partida 30.01).
+Los venenos de serpientes o abejas, que se presenten en forma de partículas, contenidos en ampollas se
+incluyen en la partida 30.01.
+
+05.11
+
+Productos de origen animal no expresados ni comprendidos en otra parte; animales muertos de
+los Capítulos 1 o 3, impropios para la alimentación humana.
+0511.10 -
+
+Semen de bovino
+Los demás:
+
+0511.91 - - Productos de pescado o de crustáceos, moluscos o demás invertebrados acuáticos;
+animales muertos del Capítulo 3
+0511.99 - - Los demás
+Esta partida comprende principalmente:
+1)
+
+El semen animal.
+
+2)
+
+Los embriones de animales. Estos embriones se transportan congelados para implantarlos en otra hembra.
+
+3)
+
+La sangre animal, líquida o desecada, incluso la comestible.
+Se excluye de esta partida la sangre animal preparada para usos terapéuticos, profilácticos o de diagnóstico
+(partida 30.02).
+
+4)
+
+La cochinilla e insectos similares. La cochinilla es un insecto que vive en ciertos cactus (cactos). En el
+comercio se encuentran tres clases de cochinillas: la negra, la gris o plateada y la rojiza. La cochinilla, que
+proporciona una materia colorante roja, sirve para preparar el carmín (partida 32.03) y la laca acarminada
+(partida 32.05).
+
+Entre los insectos similares a la cochinilla, el más importante es el quermés animal, que vive en una variedad de encina enana. Se emplea para teñir de rojo. El color que produce es vivo y muy sólido; se clasifica
+en la partida 32.03.
+El quermés animal no debe confundirse con el quermés mineral (partida 38.24).
+Las cochinillas e insectos similares se presentan secos, enteros o pulverizados.
+
+NOTAS EXPLICATIVAS DEL SISTEMA ARMONIZADO
+SÉPTIMA ENMIENDA - 2022
+
+5)
+
+53
+
+Huevos de pescado no comestibles, huevas y lecha.
+1º) Las huevas fecundadas vivas destinadas a la reproducción, que se reconocen por la presencia en su
+superficie de dos pequeñas manchas negruzcas que corresponden a los ojos del futuro alevín.
+2º) Las huevas saladas de bacalao, caballa y similares, que constituyen la raba o cebo para la pesca. Se
+distinguen de los sucedáneos de caviar (partida 16.04) por su olor desagradable y por el hecho de
+presentarse en barricas.
+El título excluye huevas comestibles y lecha (Capítulo 3).
+
+6)
+
+Los desperdicios de pescado o de crustáceos, moluscos o demás invertebrados acuáticos.
+Con esta denominación se designan, entre otros:
+1º) Las escamas de albur o de pescados similares, frescas o conservadas pero sin disolvente destinadas
+a la preparación de la llamada esencia de Oriente, que se utiliza en la fabricación de perlas artificiales.
+2º) Estómagos (vejigas de natatorias), materia prima, seca o salada, usada en la fabricación de colas de
+pescado.
+3º) Las tripas y los desperdicios de pieles de pescado, utilizados en la fabricación de colas, etc.
+4º) Los desperdicios de pescado.
+Se excluyen de la presente partida:
+a)
+
+Hígados de pescado comestibles, aletas, cabezas, colas, estómagos (vejigas natatorias) y otros
+despojos de pescado comestible (Capítulo 3).
+
+b)
+
+Las valvas y caparazones de moluscos, crustáceos o equinodermos de la partida 05.08.
+
+c)
+
+Los hígados no comestibles de pescados, utilizados en la preparación de productos farmacéuticos
+(partida 05.10).
+
+7)
+
+Los huevos de gusano de seda, llamados comúnmente granitos o labor, por tener el aspecto de granos
+extremadamente pequeños, de color amarillo claro que vira gradualmente al gris ceniza o al ocre. Se importan generalmente en cajas (o celdillas) o en bolsitas de tela.
+
+8)
+
+Los huevos de hormiga.
+
+9)
+
+Los tendones y nervios que, como los desperdicios citados en los apartados 10) y 11) siguientes, se
+utilizan principalmente como materias primas en la fabricación de cola fuerte.
+
+10) Los recortes y otros desperdicios similares de cueros y pieles en bruto.
+11) Los desperdicios de peletería (desperdicios procedentes de cueros y pieles con pelo, en bruto, sin trabajar
+ni adobar y manifiestamente inaprovechables en peletería).
+12) Los animales muertos de las especies citadas en los Capítulos 1 o 3, no comestibles o impropios para
+la alimentación humana; la carne y despojos no comestibles o impropios para la alimentación humana,
+excepto los de la partida 02.09 o los de alguna de las partidas anteriores de este Capítulo.
+13) Crin y sus desperdicios, incluso en capas con o sin soporte. Esta partida comprende los pelos de la crin
+o de la cola de los équidos o de los bóvidos. Está aquí comprendida, no sólo la crin en bruto, sino también
+la lavada, desgrasada, blanqueada, teñida, rizada o preparada de otra forma. Estos productos se pueden
+presentar a granel o en haces, mechas, etc.
+La partida comprende igualmente la crin extendida sobre un soporte, es decir, la que se presente formando
+un solo velo más o menos regular, fijo a un soporte de tejido, papel, etc., o dispuesto entre dos hojas de
+papel, tejido, etc., y mantenido por grapado o simple cosido.
+
+NOTAS EXPLICATIVAS DEL SISTEMA ARMONIZADO
+
+54
+
+SÉPTIMA ENMIENDA - 2022
+
+Por el contrario la crin sometida a un trabajo de hilatura, así como los hilados de crin anudados por los
+extremos, corresponden al Capítulo 51.
+14) Esponjas naturales de origen animal. Esta partida comprende las esponjas en bruto, lavadas o simplemente limpias, así como las esponjas preparadas (despojadas de sus materias calcáreas, blanqueadas,
+etc.) y los desperdicios de esponjas.
+El paste o «lufa» (zufa o loofah), también llamada esponja vegetal, corresponde a la partida 14.04.
+La presente partida tampoco comprende:
+a)
+
+La goma laca (partida 13.01).
+
+b)
+
+Las grasas animales del Capítulo 15.
+
+c)
+
+Las colecciones y especímenes para colecciones de zoología, que consistan en animales de cualquier
+especie (disecados o conservados por cualquier procedimiento), insectos, moluscos, huevos, etc. (partida
+97.05).

@@ -1,0 +1,3966 @@
+SECCIÓN XVII
+MATERIAL DE TRANSPORTE
+Notas.
+1.
+
+Esta Sección no comprende los artículos de las partidas 95.03 o 95.08 ni los toboganes, «bobsleighs» y
+similares (partida 95.06).
+
+2.
+
+No se consideran partes o accesorios de material de transporte, aunque sean identificables como tales:
+a)
+
+las juntas o empaquetaduras, arandelas y similares, de cualquier materia (régimen de la materia constitutiva o partida 84.84), así como los demás artículos de caucho vulcanizado sin endurecer (partida
+40.16);
+
+b)
+
+las partes y accesorios de uso general, tal como se definen en la Nota 2 de la Sección XV, de metal
+común (Sección XV), ni los artículos similares de plástico (Capítulo 39);
+
+c)
+
+los artículos del Capítulo 82 (herramientas);
+
+d)
+
+los artículos de la partida 83.06;
+
+e)
+
+las máquinas y aparatos de las partidas 84.01 a 84.79, así como sus partes, excepto los radiadores
+para los vehículos de la Sección XVII; los artículos de las partidas 84.81 u 84.82 y, siempre que constituyan partes intrínsecas de motor, los artículos de la partida 84.83;
+
+f)
+
+las máquinas y aparatos eléctricos, así como el material eléctrico (Capítulo 85);
+
+g)
+
+los instrumentos y aparatos del Capítulo 90;
+
+h)
+
+los artículos del Capítulo 91;
+
+ij)
+
+las armas (Capítulo 93);
+
+k)
+
+las luminarias y los aparatos de alumbrado, y sus partes, de la partida 94.05;
+
+l)
+
+los cepillos que constituyan partes de vehículos (partida 96.03).
+
+3.
+
+En los Capítulos 86 a 88, la referencia a las partes o a los accesorios no abarca a las partes o accesorios
+que no estén destinados, exclusiva o principalmente, a los vehículos o artículos de esta Sección. Cuando
+una parte o un accesorio sea susceptible de responder a las especificaciones de dos o más partidas de la
+Sección, se clasifica en la partida que corresponda a su utilización principal.
+
+4.
+
+En esta Sección:
+
+5.
+
+a)
+
+los vehículos especialmente diseñados para ser utilizados en carretera y sobre carriles (rieles), se
+clasifican en la partida apropiada del Capítulo 87;
+
+b)
+
+los vehículos automóviles anfibios se clasifican en la partida apropiada del Capítulo 87;
+
+c)
+
+las aeronaves especialmente diseñadas para ser utilizadas también como vehículos terrestres, se
+clasifican en la partida apropiada del Capítulo 88.
+
+Los vehículos de cojín (colchón) de aire se clasifican con los vehículos con los que guarden mayor analogía:
+a)
+
+del Capítulo 86, si están diseñados para desplazarse sobre una vía guía (aerotrenes);
+
+b)
+
+del Capítulo 87, si están diseñados para desplazarse sobre tierra firme o indistintamente sobre tierra
+firme o sobre agua;
+
+c)
+
+del Capítulo 89, si están diseñados para desplazarse sobre agua, incluso si pueden posarse en playas
+
+NOTAS EXPLICATIVAS DEL SISTEMA ARMONIZADO
+
+1490
+
+SÉPTIMA ENMIENDA - 2022
+
+o embarcaderos o desplazarse también sobre superficies heladas.
+Las partes y accesorios de vehículos de cojín (colchón) de aire se clasifican igual que las partes y accesorios
+de los vehículos de la partida en que éstos se hubieran clasificado por aplicación de las disposiciones anteriores.
+El material fijo para vías de aerotrenes se considera material fijo de vías férreas, y los aparatos de señalización, seguridad, control o mando para vías de aerotrenes como aparatos de señalización, seguridad, control
+o mando para vías férreas.
+CONSIDERACIONES GENERALES
+I. ALCANCE GENERAL DE LA SECCIÓN
+Esta Sección comprende los vehículos para vías férreas o similares y los aerotrenes (Capítulo 86), los
+vehículos automóviles y demás vehículos terrestres, incluidos los de cojín de aire (Capítulo 87), los aparatos de
+navegación aérea o espacial (Capítulo 88) y los barcos, aerodeslizadores y artefactos flotantes (Capítulo 89),
+pero con exclusión sin embargo:
+a)
+
+De determinados aparatos y máquinas móviles (véase el apartado II siguiente).
+
+b)
+
+De los modelos para demostraciones de la partida 90.23.
+
+c)
+
+De los juguetes, de determinados artefactos para deportes de invierno y de los vehículos especialmente
+diseñados para circos o atracciones de feria, como los ciclos para niños (excepto las bicicletas), los autos
+de juguete de pedales, los barcos y aviones de juguete (partida 95.03), los trineos, bobsleighs y similares
+(partida 95.06), los autoscooters (partida 95.08), etc.
+
+Independientemente de los vehículos propiamente dichos, esta Sección comprende también los artículos
+expresados en determinadas partidas, principalmente los contenedores, el material fijo para vías férreas y los
+aparatos mecánicos (incluidos los electromecánicos) de señalización (Capítulo 86), los paracaídas, los aparatos y dispositivos de lanzamiento de aeronaves y para el aterrizaje en portaaviones y aparatos y dispositivos
+similares, así como los simuladores de vuelo (Capítulo 88).
+Salvo lo dispuesto en el apartado III siguiente, se clasifican también en esta Sección las partes y accesorios
+de los vehículos u otros artículos comprendidos solamente en los Capítulos 86 a 88.
+II. MÁQUINAS AUTOPROPULSADAS Y DEMÁS MÁQUINAS MÓVILES
+Un gran número de máquinas o de aparatos, en especial de la Sección XVI, se presentan montados en
+chasis de vehículos o en artefactos flotantes de la Sección XVII. La clasificación del conjunto es función de
+diversos criterios y principalmente del carácter del soporte utilizado.
+Se clasifican, por ejemplo, en el Capítulo 89, las máquinas móviles, autopropulsadas o no, que consistan en
+una máquina montada en un artefacto flotante (derricks, grúas, elevadores de granos, etc.). En lo que respecta
+a la clasificación de las máquinas o aparatos móviles constituidos por un artefacto de trabajo montado en el
+chasis de un vagón u otro vehículo rodante, conviene atenerse a las Notas explicativas de las partidas 86.04,
+87.01, 87.05, 87.09 u 87.16.
+III. PARTES Y ACCESORIOS
+Hay que observar que el Capítulo 89 no prevé disposiciones para las partes (distintas de los cascos) y
+accesorios para barcos o artefactos flotantes. Tales partes y accesorios, incluso si son reconocibles como tales,
+se clasifican consecuentemente en otros Capítulos siguiendo su propio régimen. Todos los demás Capítulos
+de la presente Sección permiten la clasificación de las partes y accesorios de los vehículos o artículos en ellos
+comprendidos.
+Hay que observar a este respecto que sólo se clasifican en las partidas consagradas a las partes y accesorios los que respondan a las tres condiciones siguientes:
+a)
+
+Que no estén excluidos en virtud de la Nota 2 de esta Sección (véase el apartado A) siguiente).
+
+b)
+
+Que sean identificables como exclusiva o principalmente diseñados para los artículos de los Capítulos 86
+
+NOTAS EXPLICATIVAS DEL SISTEMA ARMONIZADO
+SÉPTIMA ENMIENDA - 2022
+
+1491
+
+a 88 (véase el apartado B) siguiente).
+c)
+
+Que no estén comprendidos más específicamente en otros Capítulos de la Nomenclatura (véase el apartado
+C) siguiente).
+
+A)
+
+Partes y accesorios excluidos por la Nota 2 de la presente Sección.
+No se consideran incluidos en las partidas de esta Sección consagradas a las partes y accesorios, incluso
+cuando sean identificables como destinadas al material de transporte:
+1)
+
+Las juntas o empaquetaduras, arandelas y similares de cualquier materia (régimen de la materia
+constitutiva o partida 84.84), así como los demás artículos de caucho vulcanizado sin endurecer (por
+ejemplo, guardafangos y cubrepedales) (partida 40.16).
+
+2)
+
+Las partes y accesorios de uso general, según se definen en la Nota 2 de la Sección XV, principalmente
+los cables y cadenas (incluso cortados en longitudes determinadas o con sus terminales, excepto los
+cables de frenos, cables de aceleradores y cables similares reconocibles como destinados a vehículos
+del Capítulo 87), los pernos, tuercas, tornillos y arandelas, los pasadores y chavetas, los muelles y las
+hojas de ballestas para vehículos (de metal común, Capítulos 73 a 76 y 78 a 81; de plástico, Capítulo 39), las cerraduras, guarniciones y herrajes para carrocerías de vehículos (por ejemplo, perfiles
+adaptados para adornar las carrocerías, las empuñaduras y bisagras para puertas, las barras de
+apoyo o de sostén, los compases para capotas, los dispositivos elevalunas), las placas de matrícula,
+de nacionalidad, etc. (de metal común, Capítulo 83; de plástico, Capítulo 39).
+
+3)
+
+Las llaves de ajuste y demás herramientas del Capítulo 82.
+
+4)
+
+Los timbres (para bicicletas, etc.) y demás artículos de la partida 83.06.
+
+5)
+
+Las máquinas y aparatos comprendidos en las partidas 84.01 a 84.79, así como sus partes, por
+ejemplo:
+
+6)
+
+a)
+
+Los generadores de vapor y sus aparatos auxiliares (partidas 84.02 u 84.04).
+
+b)
+
+Los gasógenos, principalmente los de vehículos automóviles (partida 84.05).
+
+c)
+
+Las turbinas de vapor de la partida 84.06.
+
+d)
+
+Los motores de cualquier clase, incluso con los dispositivos de cambio de velocidad y sus partes
+(partidas 84.07 a 84.12).
+
+e)
+
+Las bombas, compresores y ventiladores (partidas 84.13 u 84.14).
+
+f)
+
+Los acondicionadores de aire (partida 84.15).
+
+g)
+
+Los aparatos mecánicos para proyectar, dispersar o pulverizar materias líquidas o en polvo y los
+extintores (partida 84.24).
+
+h)
+
+Las máquinas y aparatos de elevación, carga, descarga o manipulación (principalmente los
+polipastos, gatos o grúas), las máquinas y aparatos de explanación, nivelación, escarificación,
+excavación o perforación del suelo o de minerales (partidas 84.25, 84.26, 84.28, 84.30 u 84.31).
+
+ij)
+
+Las máquinas y artefactos agrícolas de las partidas 84.32 u 84.33 (gradas, sembradoras, barras
+de corte, etc.) diseñadas para montarlas en un vehículo.
+
+k)
+
+Las máquinas y aparatos de la partida 84.74.
+
+l)
+
+Los limpiaparabrisas con motor de la partida 84.79.
+
+Otros artículos del Capítulo 84, por ejemplo:
+a)
+
+Los artículos de grifería, principalmente los grifos de vaciado de radiadores, las válvulas de
+cámaras de aire, etc. (partida 84.81).
+
+NOTAS EXPLICATIVAS DEL SISTEMA ARMONIZADO
+
+1492
+
+7)
+
+8)
+
+SÉPTIMA ENMIENDA - 2022
+
+b)
+
+Los rodamientos de bolas, de rodillos o de agujas (partida 84.82).
+
+c)
+
+Los órganos de transmisión que formen parte intrínseca de motores (árboles de levas, cigüeñales,
+volantes, etc.) de la partida 84.83.
+
+Las máquinas y aparatos eléctricos, así como el material y accesorios eléctricos del Capítulo 85, por
+ejemplo:
+a)
+
+Los motores y generadores eléctricos, transformadores, etc. de las partidas 85.01 u 85.04.
+
+b)
+
+Los electroimanes, embragues, frenos y demás aparatos y órganos electromagnéticos de la
+partida 85.05.
+
+c)
+
+Los acumuladores eléctricos (partida 85.07).
+
+d)
+
+Los aparatos y dispositivos eléctricos de encendido o de arranque para motores de encendido
+por chispa o por compresión y demás aparatos y dispositivos de la partida 85.11.
+
+e)
+
+Los aparatos eléctricos de alumbrado o de señalización, los limpiaparabrisas, los eliminadores de
+escarcha o de vaho, eléctricos, para ciclos o automóviles (partida 85.12), así como los aparatos
+eléctricos de señalización de la partida 85.31 y los eliminadores de escarcha y de vaho, eléctricos, de la partida 85.43 para aeronaves, vehículos de ferrocarril u otros vehículos (incluidos los
+barcos).
+
+f)
+
+Los aparatos eléctricos de calefacción para vehículos automóviles, vagones de ferrocarril, aeronaves, etc. (partida 85.16).
+
+g)
+
+Los micrófonos, altavoces y amplificadores eléctricos de baja frecuencia (partida 85.18).
+
+h)
+
+Los aparatos emisores y receptores de radiotelefonía, radiotelegrafía, radiodifusión, etc., de las
+partidas 85.25 u 85.27.
+
+ij)
+
+Los condensadores (partida 85.32).
+
+k)
+
+Los fusibles, interruptores, conmutadores, pantógrafos y demás colectores de corriente para
+material de tracción, así como los demás aparatos eléctricos de las partidas 85.35 u 85.36.
+
+l)
+
+Las lámparas y tubos de alumbrado eléctrico, incluidos los artículos llamados faros y proyectores
+sellados (partida 85.39).
+
+m)
+
+Las demás piezas de equipamiento eléctrico, tales como los cables aislados (incluidos los juegos
+de cables) y los artículos de grafito o de otros carbonos para usos eléctricos, incluso con las
+piezas de conexión, los aisladores y las piezas aislantes (partidas 85.44 a 85.48).
+
+Los instrumentos y aparatos del Capítulo 90 y, en especial, los destinados a equipar ciertos vehículos
+como:
+a)
+
+Los aparatos fotográficos o cinematográficos (partida 90.06 o 90.07).
+
+b)
+
+Los instrumentos y aparatos de navegación (partida 90.14).
+
+c)
+
+Los instrumentos y aparatos para medicina, cirugía, odontología o veterinaria (partida 90.18).
+
+d)
+
+Los aparatos de rayos X y demás aparatos de la partida 90.22.
+
+e)
+
+Los manómetros (partida 90.26).
+
+f)
+
+Los cuentarrevoluciones o cuentavueltas, taxímetros, velocímetros y tacómetros y demás instrumentos y aparatos de la partida 90.29.
+
+g)
+
+Los instrumentos, aparatos y máquinas de medida o de control de la partida 90.31.
+
+NOTAS EXPLICATIVAS DEL SISTEMA ARMONIZADO
+SÉPTIMA ENMIENDA - 2022
+
+9)
+
+1493
+
+Los artículos de relojería y principalmente los relojes de salpicadero (Capítulo 91).
+
+10) Las armas (Capítulo 93).
+11) Los aparatos de alumbrado y sus partes (por ejemplo, proyectores para aeronaves o trenes) de la
+partida 94.05.
+12) Los cepillos, por ejemplo, para vehículos barredores (partida 96.03).
+B)
+
+Criterio de uso exclusivo o principal.
+1)
+
+Partes y accesorios que puedan clasificarse en la Sección XVII y en otras secciones.
+La Nota 3 de esta Sección dispone que las partes y accesorios que no estén exclusiva o principalmente destinados a los vehículos de los Capítulos 86 a 88 se excluyen de estos Capítulos.
+En realidad, esta Nota sólo tiene interés en la clasificación de acuerdo con el uso principal de las
+partes o accesorios que puedan clasificarse en la Sección XVII y en otras secciones. Así, por ejemplo,
+se clasifican en esta Sección los dispositivos de dirección, los sistemas de frenado, las ruedas, etc.,
+destinados a equipar numerosas máquinas móviles del Capítulo 84 y que son idénticos a los que se
+montan normalmente en los vehículos del Capítulo 87.
+
+2)
+
+Partes y accesorios que puedan clasificarse en dos o más partidas de la presente Sección.
+Algunas partes y determinados accesorios, tales como frenos, dispositivos de dirección, ruedas o
+ejes, pueden utilizarse indistintamente en vehículos automóviles, aeronaves, motocicletas, etc. Estas
+partes y accesorios deben clasificarse en la partida relativa a las partes y accesorios de los vehículos
+en los que se utilizan principalmente.
+
+C)
+
+Criterio de la partida más específica.
+Las partes y accesorios, incluso identificables como destinados a material de transporte, se excluyen de
+esta Sección, cuando están comprendidos más específicamente en otras partidas de la Nomenclatura.
+Este es el caso por ejemplo, de:
+1)
+
+Los perfiles de caucho vulcanizado sin endurecer, incluso cortados en longitudes determinadas (partida
+40.08).
+
+2)
+
+Las correas de transmisión de caucho vulcanizado (partida 40.10).
+
+3)
+
+Los neumáticos, bandajes, bandas de rodadura amovibles para neumáticos, protectores (flaps) y
+cámaras de aire, de caucho (partidas 40.11 a 40.13).
+
+4)
+
+Los estuches de cuero natural o reconstituido, de fibra vulcanizada, etc., para herramientas (partida
+42.02).
+
+5)
+
+Las redes para ciclos o aeróstatos (partida 56.08).
+
+6)
+
+Los cables para remolcar (partida 56.09).
+
+7)
+
+Las alfombras de materias textiles (Capítulo 57).
+
+8)
+
+Las lunas de seguridad sin enmarcar, incluidas las conformadas, para parabrisas, ventanas, etc., de
+vehículos (partida 70.07).
+
+9)
+
+Los espejos retrovisores (partida 70.09 o Capítulo 90, según los casos, véanse las Notas explicativas
+correspondientes).
+
+10) Los cristales para faros, sin enmarcar (partida 70.14) y, en general, los artículos de vidrio del Capítulo
+70.
+11) Los árboles flexibles para cuentavueltas, velocímetros, etc. (partida 84.83).
+
+NOTAS EXPLICATIVAS DEL SISTEMA ARMONIZADO
+
+1494
+
+SÉPTIMA ENMIENDA - 2022
+
+12) Los asientos para vehículos, de la partida 94.01.
+--------------------------
+
+CAPÍTULO 86
+VEHÍCULOS Y MATERIAL PARA VÍAS FÉRREAS O SIMILARES, Y SUS PARTES;
+APARATOS MECÁNICOS (INCLUSO ELECTROMECÁNICOS) DE SEÑALIZACIÓN
+PARA VÍAS DE COMUNICACIÓN
+Notas.
+1.
+
+2.
+
+3.
+
+Este Capítulo no comprende:
+a)
+
+Las traviesas (durmientes) de madera u hormigón para vías férreas o similares y los elementos de
+hormigón para vías guía de aerotrenes (partidas 44.06 o 68.10);
+
+b)
+
+Los elementos para vías férreas de fundición, hierro o acero de la partida 73.02;
+
+c)
+
+Los aparatos eléctricos de señalización, seguridad, control o mando de la partida 85.30.
+
+Se clasifican en la partida 86.07, entre otros:
+a)
+
+Los ejes, ruedas, ejes montados (trenes de ruedas), llantas, bujes, centros y demás partes de ruedas;
+
+b)
+
+Los chasis, bojes y «bissels»;
+
+c)
+
+Las cajas de ejes (cajas de grasa o aceite), los dispositivos de freno de cualquier clase;
+
+d)
+
+Los topes, ganchos y demás sistemas de enganche, los fuelles de intercomunicación;
+
+e)
+
+Los artículos de carrocería.
+
+Salvo lo dispuesto en la Nota 1 anterior, se clasifican en la partida 86.08, entre otros:
+a)
+
+Las vías ensambladas, placas y puentes giratorios, parachoques y gálibos;
+
+b)
+
+Los discos y placas móviles y semáforos, aparatos de mando para pasos a nivel o cambio de agujas, puestos de maniobra a distancia y demás aparatos mecánicos (incluso electromecánicos) de
+señalización, seguridad, control o mando, incluso provistos de dispositivos accesorios de alumbrado
+eléctrico, para vías férreas o similares, carreteras, vías fluviales, áreas o parques de estacionamiento,
+instalaciones portuarias o aeropuertos.
+CONSIDERACIONES GENERALES
+
+Este Capítulo agrupa los vehículos y material para vías férreas o similares de cualquier clase (ferrocarriles,
+tranvías, vías estrechas (por ejemplo, vías Decauville), ferrocarriles de carril único, etc.), los aparatos mecánicos
+(incluidos los electromecánicos) de señalización, de seguridad, de control o de mando para cualquier vía de
+comunicación o para áreas de servicio o estacionamientos, así como los contenedores especialmente diseñados
+y equipados para uno o varios medios de transporte.
+Para la aplicación de este Capítulo, se entenderá por vías férreas o similares no sólo las vías férreas clásicas que utilizan carriles de acero sino también los demás sistemas constituidos por carriles de sustentación
+magnética o estructuras de hormigón, por ejemplo.
+Los diferentes artículos de este Capítulo se clasifican del modo siguiente:
+A)
+
+En las partidas 86.01 a 86.03, los vehículos de cualquier tipo que producen movimiento, tales como locomotoras, locotractores, automotores y autovías. La partida 86.02 comprende, además, los ténderes; las
+locomotoras con dos sistemas de propulsión se clasifican según el sistema más corrientemente utilizado.
+
+NOTAS EXPLICATIVAS DEL SISTEMA ARMONIZADO
+
+1495
+
+SÉPTIMA ENMIENDA - 2022
+
+B)
+
+En la partida 86.04, los vehículos para el mantenimiento o servicio de vías férreas, incluso autopropulsados.
+
+C)
+
+En las partidas 86.05 y 86.06, los diferentes tipos de vehículos remolcados (vehículos de viajeros y furgones
+de equipajes, vagones, vagonetas, etc.).
+
+D)
+
+En las partidas 86.07 y 86.08, las partes de vehículos para vías férreas, así como el material fijo de vías
+férreas y los aparatos mecánicos (incluidos los electromecánicos) de señalización, seguridad, control o
+mando para cualquier vía de comunicación.
+
+E)
+
+En la partida 86.09, los contenedores especialmente diseñados y equipados para uno o varios medios de
+transporte.
+
+Se clasifican también en este Capítulo los vehículos de cojín de aire proyectados para desplazarse sobre
+una vía guía (aerotrenes), las partes de estos vehículos, así como el material fijo y los aparatos mecánicos y
+electromecánicos de señalización, seguridad, control o mando, para vías guía de aerotrenes (véase la Nota 5
+de la Sección XVII).
+Los vehículos incompletos o sin terminar se clasifican con los vehículos completos o terminados, desde
+el momento en que presenten las características esenciales. Se consideran como tales, principalmente:
+1)
+
+Las locomotoras o automotores sin los órganos motores, sin los instrumentos de medida, de seguridad o
+de servicio.
+
+2)
+
+Los vehículos de viajeros sin los asientos o banquetas.
+
+3)
+
+Los chasis de vagones provistos solamente de los órganos de suspensión y de rodamiento.
+
+Por el contrario, las simples cajas automotrices de vagones, vagonetas y ténderes, sin montar en el chasis,
+se clasifican como partes de vehículos de vías férreas o similares (partida 86.07).
+No se clasifican en este Capítulo:
+a)
+
+Los modelos reducidos de vehículos para vías férreas diseñados para demostraciones (partida 90.23).
+
+b)
+
+Las piezas de artillería pesada que circulen por vías férreas (partida 93.01).
+
+c)
+
+Los artículos que tengan el carácter de juguetes (partida 95.03).
+
+d)
+
+El material sobre carriles especialmente diseñado para los circos u otras atracciones de ferias, que, de
+hecho, no constituyen verdadero material de ferrocarril (partida 95.08).
+
+86.01
+
+Locomotoras y locotractores, de fuente externa de electricidad o acumuladores eléctricos.
+8601.10 -
+
+De fuente externa de electricidad
+
+8601.20 -
+
+De acumuladores eléctricos
+
+Esta partida comprende las locomotoras y locotractores eléctricos de cualquier tipo en los que la energía
+de tracción la suministra una potente batería de acumuladores dispuesta en los propios vehículos, o bien, es
+captada por los motores de las líneas de toma de corriente constituidas por un riel dispuesto a lo largo de la vía
+o por una línea aérea, llamada catenaria, tendida por encima de la vía.
+86.02
+
+Las demás locomotoras y locotractores; ténderes.
+8602.10 -
+
+Locomotoras diesel-eléctricas
+
+8602.90 -
+
+Los demás
+A. LOCOMOTORAS
+
+Este grupo comprende las locomotoras y los locotractores, excepto los que se alimentan con una fuente
+exterior de electricidad o con acumuladores eléctricos (partida 86.01), cualquiera que sea la fuente de energía
+que los acciona (vapor, motor diesel, turbina de gas, motor de explosión, motor neumático, etc.).
+
+NOTAS EXPLICATIVAS DEL SISTEMA ARMONIZADO
+
+1496
+
+SÉPTIMA ENMIENDA - 2022
+
+Entre las locomotoras, se pueden citar:
+1)
+
+2)
+
+Las locomotoras diesel.
+a)
+
+Las locomotoras diesel eléctricas, en las que el motor Diesel arrastra un generador que produce
+electricidad que, a su vez, alimenta los motores de tracción que accionan las ruedas.
+
+b)
+
+Las locomotoras diesel hidráulicas, en las que la energía del motor Diesel se transmite a las ruedas
+mediante dispositivos hidráulicos.
+
+c)
+
+Las locomotoras diesel mecánicas, en las que la energía del motor Diesel arrastra las ruedas mediante un embrague o un par hidráulico y una caja de cambios.
+
+Las locomotoras de vapor de cualquier tipo, incluidas las locomotoras de turbina que accionan motores
+eléctricos, las locomotoras ténder y las locomotoras sin hogar, es decir, sin caldera pero con un depósito
+de vapor alimentado a la salida por una instalación industrial.
+
+Se clasifican también aquí los locotractores que son artefactos de potencia moderada sin bojes ni ruedas
+portadoras y que generalmente sólo llevan dos ejes motores. Se utilizan sobre todo en las estaciones para
+maniobrar los vagones y en ciertos establecimientos industriales unidos al ferrocarril.
+B. TÉNDERES
+Los ténderes son vehículos que se enganchan a las locomotoras de vapor para transportar el agua y el
+combustible necesarios para el funcionamiento de la caldera. Constan esencialmente de un chasis montado
+en dos o más ejes, que soporta un depósito cerrado de chapa para contener el agua y una carbonera para el
+combustible.
+Se excluyen de esta partida los tractores automotores construidos para circular por carriles o por la carretera (partida 87.01).
+86.03
+
+Automotores para vías férreas y tranvías autopropulsados, excepto los de la partida 86.04.
+8603.10 -
+
+De fuente externa de electricidad
+
+8603.90 -
+
+Los demás
+
+Los automotores para vías férreas y tranvías con motor se distinguen de las locomotoras por el hecho de que
+tienen el doble carácter de artefactos portadores y motores, es decir, que independientemente del sistema motor,
+están equipados para transportar viajeros o eventualmente mercancías. Estos vehículos están diseñados para
+circular solos o enganchados a otras máquinas del mismo tipo o incluso enganchados a uno o varios remolques.
+La característica de estos vehículos es poseer dos puestos de conducción (uno en cada extremo), o bien,
+uno solo (cabina), más elevado y situado, según los casos, en medio o en un extremo del vehículo.
+Entre los diferentes tipos de automotores para vías férreas, se pueden citar:
+A)
+
+Los automotores de vías férreas eléctricos en los que la corriente de alimentación, que procede de
+una fuente exterior fija, es captada por un pantógrafo o un trole en el caso de una línea aérea, o bien, por
+patines montados en los bojes, por ejemplo, en el caso de un tercer riel conductor.
+Los coches automotores de tranvías utilizan a veces dos rieles conductores dispuestos en un canal y la
+toma de corriente se realiza con un dispositivo especial denominado arado.
+
+B)
+
+Las autovías que son artefactos autónomos que se desplazan por sus propios medios, equipados con
+motor diesel, motor de explosión, etc.
+Algunas autovías se montan en ruedas con bandajes o neumáticos y otros pueden llevar un dispositivo de
+cremallera.
+
+C)
+
+Las autovías y tranvías que funcionan con una batería de acumuladores.
+
+NOTAS EXPLICATIVAS DEL SISTEMA ARMONIZADO
+SÉPTIMA ENMIENDA - 2022
+
+1497
+
+Están también clasificados aquí los vehículos ferroviarios accionados por electrogiro. Este sistema, que se
+basa en la acumulación de energía cinética en un volante que gira a gran velocidad, que por medio de un
+generador eléctrico se restituye en forma de corriente eléctrica a un motor de tracción, ofrece posibilidades
+de empleo bastante limitadas. Sin embargo, puede emplearse para equipar autovías ligeros o tranvías.
+Por el contrario, se clasifican en la partida 87.02 los autocares transformables en autovías por simple
+sustitución de las ruedas y bloqueo de la dirección, y con el mismo motor.
+86.04
+
+Vehículos para mantenimiento o servicio de vías férreas o similares, incluso autopropulsados
+(por ejemplo: vagones taller, vagones grúa, vagones equipados para apisonar balasto, alinear
+vías, coches para ensayos y vagonetas de inspección de vías).
+
+Los vehículos de esta partida, incluso autopropulsados, están especialmente diseñados tanto para la instalación, mantenimiento o servicio de vías férreas como para la realización de ciertos trabajos al borde de la vía.
+Se clasifican aquí principalmente:
+1)
+
+Los vagones taller equipados con herramientas, máquinas herramienta, generadores eléctricos, aparatos
+de elevación (gatos, polipastos, etc.), dispositivos de soldadura, cadenas, cables, etc.
+
+2)
+
+Los vagones grúa de cualquier tipo: vagones grúa de elevación, vagones grúa para la colocación y levantamiento de los carriles, vagones grúa para el servicio de los muelles de carga de los ferrocarriles.
+
+3)
+
+Los vagones torno.
+
+4)
+
+Los vagones equipados con artefactos especiales para limpiar y apisonar el balasto (desguarnecedoras,
+cribadoras y apisonadoras de balasto, etc.).
+
+5)
+
+Los vagones hormigonera para la fabricación del hormigón utilizado a lo largo de las vías férreas, por
+ejemplo, en los cimientos de los postes que sirven de soporte a las líneas eléctricas.
+
+6)
+
+Los vagones para el contraste de las básculas del ferrocarril.
+
+7)
+
+Los vagones con plataforma elevable para la instalación y conservación de las líneas eléctricas.
+
+8)
+
+Los vagones de riego para la destrucción de las malas hierbas a lo largo de la vía.
+
+9)
+
+Los vehículos autopropulsados para el mantenimiento de las vías (alineadoras para vías férreas, principalmente), equipadas con uno o varios motores para el funcionamiento, no sólo de los implementos de
+trabajo de que están provistas (dispositivos de alineamiento de los carriles, apretado del balasto, etc.) y
+la propulsión del conjunto durante el trabajo, sino también, aparte de esto, el desplazamiento rápido y
+totalmente autónomo del vehículo por la vía.
+
+10) Los vehículos de ensayo con dispositivos o instrumentos para controlar la marcha del tren, el funcionamiento
+de los frenos, la carga remolcada por la locomotora, la resistencia de los puentes, o bien, para detectar los
+defectos de los carriles, etc., así como los vehículos de control de las vías que registran, mientras ruedan,
+las irregularidades geométricas de la vía.
+11) Las vagonetas con motor, incluidos los velovías que utiliza el personal de ferrocarriles para el mantenimiento y vigilancia de la vía. Estos artefactos llevan generalmente motores de explosión que permiten el
+desplazamiento rápido totalmente autónomo, tanto para el transporte del personal como de los materiales
+que se reparten o recogen a lo largo de la vía.
+12) Las vagonetas y los velocípedos para vías férreas, sin motor, que utiliza el personal ferroviario para la
+inspección de la vía.
+Cuando las máquinas o artefactos de trabajo, así como los instrumentos de medida están montados, no
+en verdaderos chasis de vagones sino en simples carretillas o plataformas que no constituyen material móvil
+de ferrocarriles, el conjunto se excluye de la presente partida y se clasifica en otras partidas más específicas
+(por ejemplo, partidas 84.25,84.26, 84.28, 84.29 u 84.30).
+
+NOTAS EXPLICATIVAS DEL SISTEMA ARMONIZADO
+
+1498
+
+SÉPTIMA ENMIENDA - 2022
+
+86.05
+
+Coches de viajeros, furgones de equipajes, coches correo y demás coches especiales, para vías
+férreas o similares (excepto los coches de la partida 86.04).
+
+Esta partida comprende un conjunto de coches para vías férreas o similares, sin órganos motores y de los
+que la mayor parte tienen la característica de formar parte de la composición de los trenes de viajeros; comprende
+también los remolques de tranvías y los coches de funiculares.
+Se clasifican aquí principalmente:
+1)
+
+Los coches de cualquier tipo para viajeros, incluidos los coches cama, los coches restaurante, los coches
+salón, los coches especiales para entretenimiento con salas de juego, de baile, etc.
+
+2)
+
+Los coches de funiculares.
+
+3)
+
+Los remolques para tranvías.
+
+4)
+
+Los coches para el transporte de los obreros en las galerías de minas.
+
+5)
+
+Los coches para el alojamiento del personal ferroviario.
+
+6)
+
+Los furgones de equipajes y los coches furgón (vehículos mixtos).
+
+7)
+
+Los coches de correos.
+
+8)
+
+Los coches sanitarios (ambulancias, enfermerías, hospitales, etc.), así como los vehículos radiológicos.
+
+9)
+
+Los coches celulares para el transporte de presos.
+
+10) Los coches blindados.
+11) Los coches especialmente equipados con aparatos de radiotelefonía y radiotelegrafía.
+12) Los coches con aparatos, máquinas y modelos para la enseñanza del personal ferroviario.
+13) Los coches para exposiciones.
+86.06
+
+Vagones para transporte de mercancías sobre carriles (rieles).
+8606.10 -
+
+Vagones cisterna y similares
+
+8606.30 -
+
+Vagones de descarga automática, excepto los de la subpartida 8606.10
+
+-
+
+Los demás:
+
+8606.91 - - Cubiertos y cerrados
+8606.92 - - Abiertos, con pared fija de altura superior a 60 cm
+8606.99 - - Los demás
+Esta partida comprende, por una parte, los diferentes tipos de vagones afectos al transporte de mercancías en una red ferroviaria (vías de cualquier anchura) y, por otra parte, las vagonetas y las plataformas para el
+transporte sobre carriles de mercancías en las minas, canteras, fábricas, depósitos, etc. Estos últimos vehículos
+se diferencian generalmente de los vagones propiamente dichos por la ausencia de muelles de suspensión.
+Independientemente de los vagones abiertos (vagones planos, vagones plataforma, vagones volquete) y
+de los vagones cubiertos corrientes, se clasifican en esta partida los vagones especializados siguientes:
+1)
+
+Los vagones cisterna y similares (por ejemplo, vagones depósito o vagones cuba).
+
+2)
+
+Los vagones isotermos, refrigerantes o frigoríficos.
+
+3)
+
+Los vagones de descarga automática (vagones basculantes, vagones tolva, etc.).
+
+4)
+
+Los vagones plataforma bajos para el transporte de material pesado.
+
+NOTAS EXPLICATIVAS DEL SISTEMA ARMONIZADO
+SÉPTIMA ENMIENDA - 2022
+
+5)
+
+Los vagones para el transporte de madera en trozas.
+
+6)
+
+Los vagones para el transporte de productos químicos con recipientes de gres.
+
+7)
+
+Los vagones establo.
+
+8)
+
+Los vagones de dos pisos, por ejemplo para el transporte de automóviles.
+
+9)
+
+Los vagones especialmente equipados para el transporte de volatería o peces vivos.
+
+1499
+
+10) Los vagones para el transporte de otros vagones.
+11) Las vagonetas de cualquier clase para vías Decauville.
+12) Las berlinas de todos los tipos utilizadas especialmente en las minas.
+13) Los vagones especiales para el transporte de carriles, vigas, etc.
+14) Los vagones con raíles guía para el transporte de remolques por carretera y ferrocarril.
+15) Los vagones y vagonetas especialmente diseñados para el transporte de productos de gran radiactividad.
+Se excluyen de esta partida los remolques de ferrocarril carretera que constituyan fundamentalmente
+vehículos de carretera y especialmente diseñados para transportarlos en vagones especiales con carriles guía
+(partida 87.16).
+86.07
+
+Partes de vehículos para vías férreas o similares.
+-
+
+Bojes, «bissels», ejes y ruedas, y sus partes:
+
+8607.11 - - Bojes y «bissels», de tracción
+8607.12 - - Los demás bojes y «bissels»
+8607.19 - - Los demás, incluidas las partes
+-
+
+Frenos y sus partes:
+
+8607.21 - - Frenos de aire comprimido y sus partes
+8607.29 - - Los demás
+8607.30 -
+
+Ganchos y demás sistemas de enganche, topes, y sus partes
+Las demás:
+
+8607.91 - - De locomotoras o locotractores
+8607.99 - - Las demás
+Esta partida comprende el conjunto de partes de vehículos para vías férreas o similares, salvo que satisfagan las dos condiciones siguientes:
+1º) Que sean identificables como exclusiva o principalmente destinados a los vehículos de esta clase.
+2º) Que no estén excluidos por las Notas de la Sección XVII.
+Entre las partes de vehículos para vías férreas o similares, se pueden citar:
+1)
+
+Los bojes, especie de carretones de dos o más ejes y los «bissels» que consisten en un chasis soportado
+por un solo eje.
+
+2)
+
+Los ejes rectos o acodados, que se pueden presentar montados (trenes de ruedas) o sin montar.
+
+3)
+
+Las ruedas y sus partes (cuerpos de ruedas, llantas, centros, etc.).
+
+4)
+
+Las cajas de ejes, llamadas también cajas de aceite o de engrase y sus partes, por ejemplo, los cuerpos
+de las cajas.
+
+NOTAS EXPLICATIVAS DEL SISTEMA ARMONIZADO
+
+1500
+5)
+
+SÉPTIMA ENMIENDA - 2022
+
+Los dispositivos de frenado de cualquier clase, que comprenden:
+a)
+
+Los frenos de mano, mandados directamente desde cada uno de los vehículos (frenos de palanca y
+frenos de husillo).
+
+b)
+
+Los frenos continuos accionados para todos los vehículos del tren mediante una maniobra única; se
+distinguen entre ellos los frenos de aire comprimido y los frenos de vacío.
+
+c)
+
+Las partes de estos dispositivos de freno, tales como zapatas, cilindros, palancas de freno manual,
+etc.
+
+6)
+
+Los parachoques.
+
+7)
+
+Los ganchos y demás sistemas de enganche de husillos o de cadena; algunos dispositivos de enganche
+pueden ser automáticos.
+
+8)
+
+Los chasis y sus partes constitutivas: largueros o varas, travesaños, placas de defensa, etc., o los chasis
+monobloques colados en una sola pieza.
+
+9)
+
+Los fuelles de intercomunicación, incluidos los puentes de paso.
+
+10) Las carrocerías de automotores, cajas de vagones, vagonetas y ténderes, sin montar en el chasis, así
+como las partes de carrocería como, por ejemplo, las puertas y portezuelas, tabiques, paredes montadas
+con bisagras para los vagones planos, teleros, estribos o depósitos de agua de los ténderes.
+11) Los tubos con las cabezas de acoplamiento para la calefacción o el frenado.
+12) Los dispositivos antichoque hidráulicos para montar en los bojes.
+Conviene resaltar que permanecen comprendidos en la Sección XV los perfiles, las chapas y demás elementos constitutivos de las cajas, los tubos, etc., de metal común cuando la elaboración a que se han sometido
+no los haya transformado manifiestamente en partes identificables de vehículos para vías férreas o similares.
+86.08
+
+Material fijo de vías férreas o similares; aparatos mecánicos (incluso electromecánicos) de señalización, seguridad, control o mando para vías férreas o similares, carreteras o vías fluviales,
+áreas o parques de estacionamiento, instalaciones portuarias o aeropuertos; sus partes.
+A. MATERIAL FIJO DE VÍAS FÉRREAS O SIMILARES
+
+Pertenecen principalmente a este grupo:
+1)
+
+Las vías ensambladas, es decir, las que tienen ya los carriles fijos a las traviesas o soportes similares.
+Estos ensamblados se presentan generalmente en forma de cruces, desviaciones, bifurcaciones, partes
+curvas o rectas, etc.
+
+2)
+
+Las placas y puentes giratorios, incluso accionados eléctricamente, constituidos por una plataforma
+circular, móvil alrededor de un eje en la que el plano superior con carriles está al nivel de las vías férreas
+que une. En los puentes giratorios en especial, la carga se reparte en tres puntos: el pivote central y dos
+rodillos colocados en cada extremo del puente.
+Estos aparatos realizan el cambio de vía o de dirección del material móvil. Algunos de ellos, principalmente
+para vía estrecha (por ejemplo, vías Decauville), se maniobran a mano y llevan el nombre de descarriladores.
+Esta partida no comprende los transbordadores de locomotoras o vagones que sólo transfieren un vehículo
+de una vía a otra. Estos transbordadores, así como otros aparatos de manipulación del material móvil (por
+ejemplo, basculadores o volteadores de vagones y empujadores de vagones), se clasifican en la partida
+84.28.
+
+3)
+
+Los topes dispositivos de detención, hidráulicos o de muelles, colocados en la terminación de las vías para
+amortiguar el choque del material móvil que no se ha podido parar antes del final de la vía. Están diseñados
+para embutirlos en un bloque de albañilería (estaciones terminales principalmente) o para fijarlos en una
+
+NOTAS EXPLICATIVAS DEL SISTEMA ARMONIZADO
+SÉPTIMA ENMIENDA - 2022
+
+1501
+
+estructura robusta (especialmente, en estaciones de clasificación).
+4)
+
+Los gálibos, construcciones metálicas en forma de arco para comprobar si los trenes que los franquean
+no sobrepasan las cotas máximas de altura o de anchura permitidas por el itinerario que hayan de seguir.
+
+Esta partida no comprende, sin embargo, las traviesas de madera (partida 44.06), las traviesas de hormigón (partida 68.10) ni las traviesas, carriles o cualquier otro elemento de construcción de las vías, de hierro
+o de acero, comprendidos en la partida 73.02 (véase la Nota explicativa de esta partida).
+Los postes y pórticos que sirven de sostén a los cables eléctricos no se consideran como material fijo para
+vías férreas y se clasifican según la materia constitutiva (partidas 68.10, 73.08, etc., según los casos).
+B. APARATOS MECÁNICOS (INCLUSO ELECTROMECÁNICOS) DE SEÑALIZACIÓN, SEGURIDAD, CONTROL O MANDO, PARA VÍAS FÉRREAS O SIMILARES, CARRETERAS O VÍAS FLUVIALES, ÁREAS O
+PARQUES DE ESTACIONAMIENTO, INSTALACIONES PORTUARIAS O AEROPUERTOS
+Este grupo comprende esencialmente los aparatos generalmente mandados a distancia en los que la señal
+o las agujas se accionan desde la cabina de mando por medio de palancas, manivelas, varillas, cadenas, cables,
+etc., o con dispositivos hidroneumáticos o motores eléctricos. Los aparatos de mando electroneumático, que
+se utilizan principalmente en los ferrocarriles se clasifican igualmente en esta partida. Estos aparatos permiten
+accionar las señales o agujas por medio de un motor neumático, una válvula electromagnética mandada desde
+un tablero eléctrico de la cabina de control que regula la admisión y el escape del aire del cilindro del motor.
+La señal y el dispositivo de mando neumático se consideran aparatos mecánicos clasificados en esta partida,
+mientras que el tablero eléctrico de mando se clasifica en el Capítulo 85.
+Hay que resaltar que sólo están clasificados aquí los aparatos de señalización que pueden presentar aspectos diferentes, que cada uno se traduce en una instrucción dada al vehículo. Por tanto, se excluyen de esta
+partida las señales para cualquier vía de comunicación (señales ferroviarias, de carretera, etc.) desprovistas de
+todo mecanismo y que sólo constituyan simples paneles de señalización, como por ejemplo, los que indican las
+velocidades máximas, las direcciones, los indicadores de pendientes, etc. Estas señales se clasifican según la
+materia constitutiva (por ejemplo, partida 44.21 u 83.10).
+Salvo que se accionen mecánica o electromecánicamente, este grupo comprende los aparatos y dispositivos siguientes:
+1)
+
+El equipo de las cabinas de señalización que constituye un conjunto de maniobra completo, montado
+en un basamento y que comprende una serie de palancas de mando con poleas, varillas, cables, etc. Se
+prevén frecuentemente dispositivos de fijación para evitar errores en el mando de las señales o de las
+agujas.
+
+2)
+
+Los semáforos, placas y discos giratorios, los postes o pórticos completos de señalización.
+
+3)
+
+Las palancas de mando fijas a las señales que se utilizan para conectar dos señales interdependientes.
+
+4)
+
+Los dispositivos mecánicos de palanca, de manivela, de pedal, colocados al lado de la vía para accionar
+las agujas, las señales, etc.
+
+5)
+
+Los indicadores de las agujas, accionados por el movimiento de las propias agujas y que transmiten
+los movimientos a la cabina de señalización para advertir al personal de ejecución que la aguja está en la
+posición deseada.
+
+6)
+
+Los aparatos de seguridad de las agujas, dispositivos fijos en la vía que realizan automáticamente al
+pasar el tren el bloqueo de las agujas de modo que no puedan maniobrarse desde la cabina de señalización
+durante el paso del tren.
+
+7)
+
+Los desaceleradores de vagones que se utilizan en especial en las estaciones de clasificación. Consisten
+generalmente en carriles freno mandados hidráulica o neumáticamente, y montados a uno y otro lado de
+los carriles y que actúan como un freno sobre las ruedas del material móvil.
+
+8)
+
+Los descarriladores y dispositivos de detención. Estos aparatos pueden separarse de la vía para permitir
+el paso de un vagón, colocarse en el carril para actuar como un dispositivo de parada, o bien, descarrilar
+el vagón.
+
+NOTAS EXPLICATIVAS DEL SISTEMA ARMONIZADO
+
+1502
+9)
+
+SÉPTIMA ENMIENDA - 2022
+
+Los sistemas de detención de trenes, generalmente constituidos por un dispositivo en forma de T colocado
+a lo largo de la vía y accionado por aire comprimido. Este dispositivo, unido a una señal, se levanta cuando
+la señal está en posición de peligro y choca al paso del tren con una palanca de mando de los frenos.
+
+10) Los aparatos automáticos para niebla. Estos dispositivos, mandados neumáticamente en general, colocan
+automáticamente en la vía petardos de señalización cada vez que una señal indica peligro.
+11) Los dispositivos de mando para maniobra de las barreras de los pasos a nivel que suelen consistir en
+manivelas y transmisiones accionadas a mano o en un sistema de palancas accionadas desde la cabina
+de agujas como en el caso de las señales o de las agujas.
+Por el contrario, las barreras de paso a nivel siguen el régimen de la materia constitutiva (partida 73.08, si
+son de hierro o acero o partida 44.21, si son de madera), mientras que las señales mecánicas o electromecánicas que indican si la barrera está abierta o cerrada se clasifican en esta partida.
+12) Los postes de señales accionados a mano o electromecánicamente para regular la circulación de carreteras o marítima.
+PARTES
+Esta partida comprende las partes identificables del material y aparatos mencionados anteriormente y
+principalmente las plataformas de placas y puentes giratorios, los brazos y discos de señales, las palancas de
+mando o las cajas de bloqueo.
+Se excluyen además de esta partida:
+a)
+
+Las cadenas y otras partes y accesorios de uso general, según se definen en la Nota 2 de la Sección XV,
+de metal común (Sección XV) o de plástico (Capítulo 39); el material de uso general (por ejemplo, varillas) y las construcciones metálicas, así como las partes de estas construcciones, que se clasifican en la
+Sección XV. Hay que observar que las varillas o barras de agujas que, pasando bajo los carriles, unen los
+mecanismos de maniobra de la aguja colocados al borde de la vía a las puntas de las agujas, se clasifican
+en la partida 73.02, del mismo modo que otros elementos de material fijo de vías férreas, de hierro o acero,
+que están comprendidos en esta partida.
+
+b)
+
+Las lámparas de señales (partidas 85.30 o 94.05).
+
+c)
+
+Las sirenas, bocinas para la niebla y demás dispositivos acústicos de señalización, que siguen su propio
+régimen.
+
+d)
+
+Los aparatos de señalización instalados a bordo de los vehículos, barcos, etc., y principalmente los dispositivos de alarma para trenes o para barcos, que siguen su propio régimen.
+
+86.09
+
+Contenedores (incluidos los contenedores cisterna y los contenedores depósito) especialmente
+diseñados y equipados para uno o varios medios de transporte
+
+Los contenedores son envases especiales diseñados y equipados para transportarlos por uno o varios
+sistemas de transporte (principalmente por ferrocarril, carreteras, vías fluviales, marítimas o aéreas). Llevan
+dispositivos (ganchos, anillas, soportes, ruedas, etc.) para facilitar la manipulación y estiba a bordo del vehículo
+terrestre, aeronave o barco transportador. Se prestan al transporte de mercancías puerta a puerta sin cambio
+de embalaje desde el punto de partida hasta el de llegada. Son de construcción robusta para poder usarlos
+repetidamente.
+El tipo más corriente, de madera o de metal, consiste en una gran caja con puertas o paneles laterales
+desmontables.
+Entre los principales tipos de contenedores, se pueden citar:
+1)
+
+Los contenedores especialmente adaptados para el transporte de mobiliario.
+
+2)
+
+Los contenedores isotérmicos para artículos o mercancías perecederas.
+
+3)
+
+Los contenedores cisterna y los contenedores depósito, generalmente de forma cilíndrica, para el transporte
+
+NOTAS EXPLICATIVAS DEL SISTEMA ARMONIZADO
+
+1503
+
+SÉPTIMA ENMIENDA - 2022
+
+de líquidos o gases; estos envases sólo se clasifican aquí si están montados en un soporte para fijarlos a
+cualquier vehículo. Si se presentan de otro modo, siguen su propio régimen según la materia constitutiva.
+4)
+
+Los contenedores abiertos afectos al transporte de mercancías a granel (carbón, minerales, adoquines,
+ladrillos, tejas, etc.). Para facilitar la descarga, el fondo o las paredes laterales suelen estar montadas con
+bisagras.
+
+5)
+
+Los contenedores para el transporte de mercancías determinadas, principalmente las manufacturas de
+vidrio, los artículos de cerámica o los animales vivos.
+La capacidad de los contenedores varía generalmente entre 4 m3 y 145 m3. Los hay, sin embargo, más
+pequeños, pero la capacidad no es normalmente inferior a 1 m3.
+Se excluyen de esta partida:
+
+a)
+
+Las cajas de cualquier clase que, aunque estén destinadas al transporte de mercancías puerta a puerta,
+no están especialmente diseñadas para fijarlas o amarrarlas a un vehículo terrestre, aeronave o barco.
+Estos envases siguen su propio régimen según la materia constitutiva.
+
+b)
+
+Los remolques ferrocarril-carretera destinados principalmente a circular por carretera, pero diseñados para
+transportarlos en vagones especiales con carriles guía (partida 87.16).
+-------------------------
+
+NOTAS EXPLICATIVAS DEL SISTEMA ARMONIZADO
+
+1504
+
+SÉPTIMA ENMIENDA - 2022
+
+CAPÍTULO 87
+VEHÍCULOS AUTOMÓVILES, TRACTORES, VELOCÍPEDOS Y DEMÁS VEHÍCULOS
+TERRESTRES; SUS PARTES Y ACCESORIOS
+Notas.
+1.
+
+Este Capítulo no comprende los vehículos diseñados para circular solamente sobre carriles (rieles).
+
+2.
+
+En este Capítulo, se entiende por tractores los vehículos con motor esencialmente diseñados para tirar
+o empujar otros aparatos, vehículos o cargas, incluso si tienen ciertos acondicionamientos accesorios en
+relación con su utilización principal, que permitan el transporte de herramientas, semillas, abonos, etc.
+Las máquinas e instrumentos de trabajo diseñados para equipar los tractores de la partida 87.01 como
+material intercambiable siguen su propio régimen, aunque se presenten con el tractor, incluso si están
+montados sobre éste.
+
+3.
+
+Los chasis con cabina incorporada para vehículos automóviles se clasifican en las partidas 87.02 a 87.04
+y no en la partida 87.06.
+
+4.
+
+La partida 87.12 comprende todas las bicicletas para niños. Los demás velocípedos para niños se clasifican
+en la partida 95.03.
+
+Nota de subpartida.
+1.
+
+La subpartida 8708.22 comprende:
+a)
+
+los parabrisas, vidrios traseros (lunetas) y demás ventanillas, enmarcados;
+
+b)
+
+los parabrisas, vidrios traseros (lunetas)* y demás ventanillas, incluso enmarcados, que incorporen
+dispositivos de calefacción u otros dispositivos eléctricos o electrónicos, siempre que estén destinados
+exclusiva o principalmente a vehículos automóviles de las partidas 87.01 a 87.05.
+CONSIDERACIONES GENERALES
+
+Con excepción de ciertas máquinas móviles de la Sección XVI (véanse a este respecto las Notas explicativas de las partidas 87.01, 87.05 y 87.16), de este Capítulo comprende el conjunto de vehículos terrestres.
+Se clasifican aquí, por tanto:
+1)
+
+Los tractores (partida 87.01).
+
+2)
+
+Los vehículos automóviles para el transporte de personas (partidas 87.02 y 87.03), de mercancías (partida
+87.04) o para usos especiales (partida 87.05).
+
+3)
+
+Las carretillas automóviles sin dispositivo de elevación, de los tipos utilizados en las fábricas, depósitos,
+puertos o aeropuertos, para el transporte de mercancías a cortas distancias y las carretillas tractor de los
+tipos utilizados en las estaciones (partida 87.09).
+
+4)
+
+Los vehículos automóviles blindados de combate (partida 87.10).
+
+5)
+
+Las motocicletas y sidecares; las bicicletas y los sillones de ruedas y demás vehículos para inválidos,
+incluso con motor (partidas 87.11 a 87.13).
+
+6)
+
+Los coches, sillas y vehículos similares para el transporte de niños (partida 87.15).
+
+7)
+
+Los remolques y semirremolques para cualquier vehículo y demás vehículos no automóviles diseñados
+bien para remolcarlos con otros vehículos, bien para arrastrarlos o empujarlos a mano, o bien, para tracción
+animal (partida 87.16).
+
+Se clasifican también este Capítulo los vehículos de cojín de aire diseñados para desplazarse por tierra
+firme o, indiferentemente, por tierra firme y sobre ciertas superficies de agua (pantanos, etc.) (véase la Nota 5
+
+NOTAS EXPLICATIVAS DEL SISTEMA ARMONIZADO
+SÉPTIMA ENMIENDA - 2022
+
+1505
+
+de la Sección XVII).
+La clasificación de un vehículo automóvil no está afectada por las operaciones que se realizan después del
+montaje del conjunto de los componentes de un vehículo automóvil completo tales, como: la fijación del número
+de identificación del vehículo, la alimentación del sistema de frenos y la purga del aire contenido en los frenos,
+la alimentación del sistema de dirección de los sistemas de enfriamiento y acondicionamiento del aire, el ajuste
+de los faros, la alineación de las ruedas y el ajuste de los frenos. Todo esto admitido en la clasificación por la
+aplicación de la Regla General Interpretativa 2 a).
+Los vehículos incompletos o sin terminar, desmontados o sin montar todavía, se clasifican con los vehículos completos o terminados desde el momento en que presenten ya las características esenciales (Regla
+General Interpretativa 2 a)).
+Se consideran como tales, principalmente:
+A)
+
+Un vehículo automóvil simplemente desprovisto de ruedas o neumáticos y sin la batería.
+
+B)
+
+Un vehículo automóvil sin el motor o cuyo interior está sin terminar.
+
+C)
+
+Un ciclo sin el sillín ni los neumáticos.
+
+Este Capítulo comprende igualmente las partes y accesorios identificables como exclusiva o principalmente destinados a los vehículos que comprende, siempre que no estén excluidos por las Notas de la Sección
+XVII (véanse las Consideraciones generales correspondientes).
+Los vehículos automóviles anfibios se clasifican en este Capítulo. Por el contrario, los vehículos aéreos
+especialmente diseñados para poder utilizarlos igualmente como vehículos terrestres se consideran vehículos
+aéreos (partida 88.02).
+También se excluyen:
+a)
+
+Los vehículos y partes de vehículos seccionados diseñados para demostraciones, no susceptibles de otros
+usos (partida 90.23).
+
+b)
+
+Los coches y vehículos de ruedas para entretenimiento de los niños, así como los ciclos para niños (excepto
+las bicicletas) (partida 95.03).
+
+c)
+
+El material para deportes de invierno (de nieve o de hielo), tal como trineos, bobsleighs, etc. (partida 95.06).
+
+d)
+
+Los vehículos especialmente diseñados para circos u otras atracciones de feria (partida 95.08).
+
+87.01
+
+Tractores (excepto las carretillas tractor de la partida 87.09),
+8701.10 -
+
+Tractores de un solo eje
+Tractores de carretera para semirremolques:
+
+8701.21 - - Únicamente con motor de émbolo (pistón), de encendido por compresión (diésel o semidiésel)
+8701.22 - - Equipados para la propulsión con motor de émbolo (pistón), de encendido por compresión
+(diésel o semi-diésel) y con motor eléctrico
+8701.23 - - Equipados para la propulsión con motor de émbolo (pistón), de encendido por chispa y
+con motor eléctrico
+8701.24 - - Únicamente propulsados con motor eléctrico
+8701.29 - - Los demás
+8701.30 -
+
+Tractores de orugas
+Los demás, con motor de potencia:
+
+8701.91 - - Inferior o igual a 18 kW
+8701.92
+
+- - Superior a 18 kW pero inferior o igual a 37 kW
+
+8701.93 - - Superior a 37 kW pero inferior o igual a 75 kW
+
+NOTAS EXPLICATIVAS DEL SISTEMA ARMONIZADO
+
+1506
+
+SÉPTIMA ENMIENDA - 2022
+
+8701.94 - - Superior a 75 kW pero inferior o igual a 130 kW
+8701.95 - - Superior a 130 kW
+Para la aplicación de esta partida, se entenderá por tractores los vehículos con motor, de ruedas o de
+orugas, diseñados esencialmente para tirar o empujar a otros artefactos, vehículos o cargas. Sin embargo,
+pueden llevar una plataforma accesoria o un dispositivo análogo que permita el transporte, en relación con el
+uso principal, de herramientas, semillas, abonos, etc., o también acondicionamientos accesorios para montar
+los implementos de trabajo.
+Por el contrario, no se consideran tractores, a efectos de partida 87.01, las infraestructuras motrices especialmente diseñadas, construidas o reforzadas para constituir una parte integrante de un artefacto, un aparato
+u otra máquina, destinado a realizar un trabajo, tal como levantar, cavar, nivelar, etc., incluso si para ejecutar
+dicho trabajo la infraestructura utiliza el empuje o la tracción.
+Con excepción de las carretillas tractor de la partida 87.09, de los tipos utilizados en las estaciones, esta
+partida comprende los tractores de cualquier tipo y para cualquier uso (tractores agrícolas, forestales, de carretera, de obras públicas, tractores torno, etc.), cualquiera que sea la fuente de energía que los acciona (motor
+de émbolo de encendido por chispa o por compresión, eléctrico, etc.). Comprende también los tractores que
+puedan circular por carriles y por carretera, pero no los exclusivamente diseñados para circular por carriles,
+que siguen el régimen de los locotractores.
+Los tractores de esta partida pueden estar provistos de carrocería, tener asientos para los operarios o una
+cabina de conducción. Por otra parte, pueden estar equipados con un cofre para herramientas, un dispositivo
+que permita levantar o bajar los implementos de trabajo, un dispositivo de remolcado para remolques o semirremolques (principalmente los tractores o artefactos similares) o una toma de fuerza para transmitir la fuerza
+del motor a diversas máquinas (trilladoras, sierras circulares, etc.).
+El chasis de los tractores está montado sobre ruedas, sobre orugas, o bien, sobre ruedas y orugas y el eje
+conductor delantero es el único, en este caso, que está equipado con ruedas.
+Se clasifican igualmente en esta partida los motocultores, que constituyen verdaderos tractores agrícolas
+pequeños, que tienen un solo eje motor con una o dos ruedas y que se utilizan, como los tractores propiamente
+dichos, con implementos o máquinas intercambiables, que pueden accionarse, llegado el caso, mediante una
+toma de fuerza de uso general. Generalmente, no tienen asiento y, en este caso, se guían a mano por medio de
+dos manceras. Algunos tipos, sin embargo, pueden llevar un tren trasero de una o dos ruedas con un asiento
+para el conductor.
+Artefactos de análogo diseño se utilizan en la industria.
+Esta partida comprende también los tractores equipados con tornos o cabrestantes (denominados tractores torno) que se utilizan, por ejemplo, para arrastrar un vehículo atascado, o bien para talar o desbrozar los
+árboles o incluso para remolcar a distancia artefactos agrícolas.
+Esta partida comprende también los tractores con el chasis elevado que se utilizan, por ejemplo, en las
+viñas y viveros.
+Además, se excluyen de esta partida los camiones equipados con grúas, cabrias, tornos, etc., para averías
+(partida 87.05).
+TRACTORES COMBINADOS CON OTROS ARTEFACTOS
+Hay que observar que las máquinas agrícolas que se utilizan con un tractor o un motocultor como equipo
+intercambiable, arrastrándolo o soportándolo (arado, grada, binadera, etc.), siguen su propio régimen aunque
+se presenten montadas en el tractor y solamente el tractor se clasifica, en este caso, en esta partida.
+Los tractores y los implementos de trabajo industriales se clasifican también separadamente cuando se
+trata de tractores diseñados esencialmente para tirar o empujar otros artefactos, vehículos o cargas, pero equipados como los tractores agrícolas, con simples dispositivos que permitan maniobrar los implementos de trabajo
+(levantar, bajar, etc.). En este caso los implementos de trabajo intercambiables siguen su propio régimen,
+incluso si se presentan con el tractor, estén o no montados en él, mientras que los tractores con los dispositivos
+para maniobrar los implementos de trabajo se clasifican en esta partida.
+
+NOTAS EXPLICATIVAS DEL SISTEMA ARMONIZADO
+SÉPTIMA ENMIENDA - 2022
+
+1507
+
+En lo que se refiere a los camiones automóviles articulados con semirremolque, así como a los tractores
+con semirremolque y los tractores de grandes prestaciones a los que están enganchados (de modo similar al
+de los tractores con semirremolque) los artefactos de trabajo del Capítulo 84, el elemento tractor se clasifica en
+esta partida y el semirremolque o el artefacto de trabajo en su propia partida.
+Por el contrario, se excluyen de esta partida las infraestructuras que se utilizan como parte motriz de los
+artefactos, aparatos y máquinas previstas, por ejemplo en las partidas 84.25, 84.26, 84.29, 84.30 y 84.32, en
+las que dicha infraestructura motriz, los dispositivos de mando, los implementos de trabajo, así como los dispositivos de maniobra están especialmente diseñados unos para otros de modo que formen un conjunto mecánico
+homogéneo. Tal sería el caso, principalmente, de las cargadoras, topadoras o motoarados.
+En general, la estructura y la construcción en conjunto (forma, chasis, dispositivo de desplazamiento, etc.)
+permiten distinguir las infraestructuras motrices que constituyen una parte integrante de un artefacto, de un
+aparato o de una máquina destinado a realizar un trabajo de mantenimiento, explanación, etc., de los tractores
+de esta partida. Sin embargo, cuando se trata de una infraestructura de tipo tractor, deben tenerse en cuenta
+diversas características técnicas esencialmente de la estructura del conjunto y del equipo especialmente diseñado
+para ejecutar trabajos distintos de la tracción o el empuje. Por ello, las infraestructuras motrices excluidas de
+esta partida llevan elementos robustos (tales como bloques, placas o vigas de soporte, marcos de elevación,
+apoyos para puentes giratorios, etc.) que forman parte de la osamenta chasis carrocería o que están fijos en
+ella generalmente mediante soldadura; estos elementos están destinados a recibir los dispositivos de maniobra
+necesarios para los implementos. Además, estas infraestructuras pueden llevar varios de los elementos típicos
+siguientes: dispositivos de gran rendimiento con sistema hidráulico incorporado para maniobrar los implementos
+de trabajo; cajas de cambio especiales, por ejemplo, con la velocidad más elevada de la marcha atrás igual
+o superior a la velocidad más elevada de la marcha hacia delante; embrague hidráulico y convertidor de par;
+contrapeso para equilibrar los artefactos de trabajo; orugas más largas para aumentar la estabilidad; armazón
+especial para el motor montado en la parte trasera; etc.
+Notas explicativas de subpartida.
+Subpartida 8701.10
+Véase la Nota explicativa de la partida 87.01, párrafos sexto y séptimo.
+Subpartida 8701.30
+Se clasifican igualmente en esta subpartida los tractores mixtos (de orugas y ruedas).
+87.02
+
+Vehículos automóviles para transporte de diez o más personas, incluido el conductor.
+8702.10 -
+
+Únicamente con motor de émbolo (pistón), de encendido por compresión (diésel o semidiésel).
+
+8702.20 -
+
+Equipados para la propulsión con motor de émbolo (pistón), de encendido por compresión
+(diésel o semi-diésel) y con motor eléctrico
+
+8702.30 -
+
+Equipados para la propulsión con motor de émbolo (pistón), de encendido por chispa y
+
+8702.40 -
+
+Únicamente propulsados con motor eléctrico
+
+8702.90 -
+
+Los demás
+
+con motor eléctrico
+
+Esta partida comprende todos los vehículos automóviles diseñados para transportar diez o más personas,
+incluido el conductor.
+Se pueden citar como pertenecientes a esta partida los autobuses, autocares, trolebuses (vehículos que
+toman la corriente eléctrica necesaria para su funcionamiento de una línea aérea de distribución), incluidos los
+girobuses cuyo principio de funcionamiento está basado en la acumulación de energía cinética en un volante
+lanzado a gran velocidad que la restituye después a un generador eléctrico que alimenta el motor de tracción.
+Están también clasificados aquí los autocares transformados en autovías, con el mismo motor, por simple
+sustitución de las ruedas y el bloqueo de la dirección.
+
+NOTAS EXPLICATIVAS DEL SISTEMA ARMONIZADO
+
+1508
+
+SÉPTIMA ENMIENDA - 2022
+
+87.03
+
+Automóviles de turismo y demás vehículos automóviles diseñados principalmente para el
+transporte de personas (excepto los de la partida 87.02), incluidos los del tipo familiar («break»
+o «station wagon») y los de carreras.
+8703.10 -
+
+Vehículos especialmente diseñados para desplazarse sobre nieve; vehículos especiales
+para transporte de personas en campos de golf y vehículos similares
+
+-
+
+Los demás vehículos, únicamente con motor de émbolo (pistón), de encendido por chispa:
+
+8703.21 - - De cilindrada inferior o igual a 1.000 cm3
+8703.22 - - De cilindrada superior a 1.000 cm3 pero inferior o igual a 1.500 cm3
+8703.23 - - De cilindrada superior a 1.500 cm3 pero inferior o igual a 3.000 cm3
+8703.24 - - De cilindrada superior a 3.000 cm3
+-
+
+Los demás vehículos, únicamente con motor de embolo con motor de émbolo (pistón),
+de encendido por compresión (Diésel o semi-Diesel):
+
+8703.31 - - De cilindrada inferior o igual a 1.500 cm3
+8703.32 - - De cilindrada superior a 1.500 cm3 pero inferior o igual a 2.500 cm3
+8703.33 - - De cilindrada superior a 2.500 cm3
+8703.40 -
+
+Los demás vehículos, equipados para la propulsión con motor de émbolo (pistón), de
+encendido por chispa y con motor eléctrico, excepto los que se puedan cargar mediante
+conexión a una fuente externa de alimentacióneléctrica
+
+8703.50 -
+
+Los demás vehículos, equipados para la propulsión con motor de émbolo (pistón), de
+encendido por compresión (diésel o semi-diésel) y con motor eléctrico, excepto los que
+se puedan cargar mediante conexión a una fuente externa de alimentación eléctrica
+
+8703.60 -
+
+Los demás vehículos, equipados para la propulsión con motor de émbolo (pistón), de
+encendido por chispa y con motor eléctrico, que se puedan cargar mediante conexión a
+una fuente externa de alimentación eléctrica
+
+8703.70 -
+
+Los demás vehículos, equipados para la propulsión con motor de émbolo (pistón), de
+encendido por compresión (diésel o semi-diésel) y con motor eléctrico, que se puedan
+cargar mediante conexión a una fuente externa de alimentación eléctrica
+
+8703.80 -
+
+Los demás vehículos, propulsados únicamente con motor eléctrico
+
+8703.90 -
+
+Los demás
+
+Con excepción de los vehículos automóviles para el transporte de personas contemplados en la partida
+87.02, esta partida comprende los vehículos automóviles de cualquier tipo, incluidos los vehículos automóviles
+anfibios para el transporte de personas, cualquiera que sea el motor que los accione (motor de émbolo de encendido por chispa o por compresión, eléctrico, turbina de gas, etc.).
+Comprende también los vehículos ligeros de tres ruedas, tales como:
+-
+
+Los que utilizan motores y ruedas de motociclos, etc., que, por su estructura mecánica, presentan las características de los automóviles propiamente dichos: presencia de una dirección tipo automóvil o, al mismo
+tiempo, marcha atrás y diferencial;
+
+-
+
+Los montados en un chasis en forma de T en los que las dos ruedas traseras son accionadas por motores
+eléctricos separados alimentados por baterías. Estos vehículos se conducen generalmente mediante una
+palanca central única que permite, por una parte, el arranque y la aceleración o deceleración, la parada y la
+marcha atrás y, por otra parte, el giro a derecha o a izquierda por una diferenciación del par de las ruedas
+motrices o actuando sobre la rueda delantera.
+
+Los vehículos de tres ruedas que presenten las características descritas anteriormente, pero concebidos
+para el transporte de mercancías, se clasifican en la partida 87.04.
+Los vehículos comprendidos aquí pueden montarse sobre ruedas o sobre orugas (auto-orugas).
+Se clasifican en esta partida, principalmente:
+
+NOTAS EXPLICATIVAS DEL SISTEMA ARMONIZADO
+SÉPTIMA ENMIENDA - 2022
+
+1509
+
+1)
+
+Los coches de turismo, de alquiler o de deporte (coches de carreras).
+
+2)
+
+Los vehículos de transporte especializados, tales como ambulancias, coches celulares, coches fúnebres.
+
+3)
+
+Las viviendas motorizadas (minibuses de acampada, caravanas automotoras, etc.), para el transporte
+de personas, especialmente equipadas para el alojamiento (con camas, cocina, sanitarios, etc.).
+
+4)
+
+Los vehículos especialmente diseñados para desplazarse por la nieve.
+
+5)
+
+Los vehículos especiales para el transporte de personas en los campos de golf y vehículos similares.
+
+6)
+
+Los vehículos de cuatro ruedas, con chasis tubular, provistos de un sistema de dirección de tipo automóvil, por ejemplo, basado en el principio de Ackerman.
+
+Se entenderá por vehículos de tipo familiar («break» o «station wagon»), a efectos de esta partida, los
+vehículos con nueve plazas sentadas como máximo (incluido el conductor) cuyo interior pueda utilizarse sin
+modificación de la estructura, tanto para el transporte de personas como para el de mercancías.
+En esta partida, la clasificación de ciertos vehículos automóviles está determinada por algunas características
+que indican que son concebidos principalmente para el transporte de personas y no para mercancías (partida
+87.04). Estas características son especialmente útiles para determinar la clasificación de vehículos automóviles
+en los cuales el peso total de carga es inferior a 5 t y que tienen un espacio interior que comprende el área para
+el conductor y los pasajeros y otra área utilizada para el transporte de personas y mercancías. Están comprendidos en esta categoría los vehículos automóviles conocidos generalmente como vehículos multipropósitos
+(por ejemplo, vehículos tipo van, para deportes y del tipo «pick-up»). Los siguientes elementos son propios de
+las características de diseño que generalmente es aplicable a los vehículos que se incluyen en esta partida:
+a)
+
+La presencia de asientos permanentes con dispositivos de seguridad (por ejemplo, cinturones de seguridad
+o puntos de anclaje y accesorios destinados para su instalación) para cada persona o de puntos de anclaje
+permanentes y accesorios destinados a la instalación de asientos y dispositivos de seguridad en el área
+posterior al conductor y a los pasajeros frontales; estos asientos pueden ser fijos, abatibles o desmontarse
+de sus puntos de anclaje;
+
+b)
+
+La presencia de ventanas a lo largo de los dos paneles laterales;
+
+c)
+
+La presencia de puerta o puertas deslizables o de corredera con ventanas en los paneles laterales o en la
+parte trasera;
+
+d)
+
+La ausencia de una división o barrera permanente entre el área del conductor y los pasajeros frontales y
+el área trasera que puede utilizarse para la transportación de personas o mercancías;
+
+e)
+
+La presencia en el interior del vehículo de elementos de confort, acabados interiores y accesorios asociadas
+con áreas de pasajeros (por ejemplo, ventilación, alfombra, luces interiores, ceniceros).
+
+Los vehículos especialmente concebidos para las ferias, principalmente los autoscooters, se clasifican en
+la partida 95.08.
+87.04
+
+Vehículos automóviles para transporte de mercancías.
+8704.10 -
+
+Volquetes automotores diseñados para utilizarlos fuera de la red de carreteras
+Los demás, únicamente con motor de émbolo (pistón), de encendido por compresión
+(diésel o semi-diésel):
+
+8704.21 - - De peso total con carga máxima inferior o igual a 5 t:
+8704.22 - - De peso total con carga máxima superior a 5 t pero inferior o igual a 20 t:
+8704.23 - - De peso total con carga máxima superior a 20 t
+-
+
+Los demás, únicamente con motor de émbolo (pistón), de encendido por chispa:
+
+8704.31 - - De peso total con carga máxima inferior o igual a 5 t:
+8704.32 - - De peso total con carga máxima superior a 5 t:
+-
+
+Los demás, equipados para la propulsión con motor de émbolo (pistón), de encendido
+
+NOTAS EXPLICATIVAS DEL SISTEMA ARMONIZADO
+
+1510
+
+SÉPTIMA ENMIENDA - 2022
+
+por compresión (diésel o semi-diésel) y con motor eléctrico:
+8704.41 - - De peso total con carga máxima inferior o igual a 5 t:
+8704.42 - - De peso total con carga máxima superior a 5 t pero inferior o igual a 20 t
+8704.43 - - De peso total con carga máxima superior a 20 t
+-
+
+Los demás, equipados para la propulsión con motor de émbolo (pistón), de encendido
+por chispa y con motor eléctrico:
+
+8704.51 - - De peso total con carga máxima inferior o igual a 5 t:
+8704.52 - - De peso total con carga máxima superior a 5 t
+8704.60 -
+
+Los demás, únicamente propulsados con motor eléctrico:
+
+8704.90 -
+
+Los demás:
+
+Esta partida comprende principalmente:
+Los camiones y camionetas corrientes (de plataforma, con caja, con toldo, cerrados, etc.), los vehículos
+de reparto de cualquier clase, los vehículos para mudanzas, los camiones de descarga automática (cajas basculantes, etc.), los camiones cisterna, incluso equipados con bomba, los camiones frigoríficos y los camiones
+isotermos, los camiones con varios pisos para el transporte de bombonas de ácidos, botellas de gas butano,
+etc., los camiones con plataforma muy baja y rampas de acceso para el transporte de material pesado (carros
+de combate, artefactos de elevación o de explanación, transformadores eléctricos, etc.), los camiones especialmente diseñados para el transporte de hormigón fresco, con exclusión de los camiones hormigonera de
+la partida 87.05, etc., los camiones para la recogida de basuras, incluso si tienen dispositivos de carga, de
+compactación, de humectación, etc.
+Comprende también los vehículos ligeros de tres ruedas, tales como:
+-
+
+Los que utilizan motor y ruedas de motociclos, etc., que, por su estructura mecánica, presentan las
+características de los automóviles propiamente dichos: presencia de una dirección tipo automóvil o, al
+mismo tiempo, marcha atrás o diferencial;
+
+-
+
+Los que están montados en un chasis en forma de T, en el que las dos ruedas traseras son accionadas
+por motores eléctricos separados alimentados por baterías. Estos vehículos se conducen generalmente
+mediante una palanca central única que permite al conductor arrancar, acelerar, frenar, parar, dar marcha
+atrás y girar a la derecha o a la izquierda mediante un diferencial aplicado a las ruedas motrices o girando
+las rueda delantera.
+
+Los vehículos de tres ruedas que presenten las características descritas anteriormente, pero concebidos
+para el transporte de personas se clasifican en la partida 87.03.
+La clasificación de ciertos vehículos automóviles en esta partida está determinada por algunas características
+que indican que son concebidos principalmente para el transporte de mercancías y no para personas (partida
+87.03). Estas características son especialmente útiles para determinar la clasificación de vehículos automóviles
+en los que el peso total de carga es inferior a 5 t y que tienen un área interior trasera o una plataforma exterior
+trasera que generalmente se utiliza para el transporte de mercancías, pero que puede tener asientos traseros
+tipo banca que carecen de cinturones de seguridad, puntos de anclaje o elementos de confort para el pasajero y
+que se doblan por completo hacia los lados para que pueda utilizarse toda la plataforma trasera en el transporte
+de mercancías. Están comprendidos en esta categoría los vehículos automóviles conocidos generalmente como
+vehículos multipropósitos (por ejemplo, vehículos tipo van, del tipo «pick-up» y ciertos vehículos para deportes).
+Los siguientes elementos son propios de las características de diseño que por lo general se aplica a los vehículos
+que se incluyen en esta partida:
+a)
+
+La presencia de asientos tipo banca sin dispositivos de seguridad (por ejemplo, cinturones de seguridad
+o puntos de anclaje y accesorios destinados a su instalación) o elementos de confort para el pasajero, en
+el área posterior al conductor y a los pasajeros frontales. Estos asientos por lo general son abatibles, lo
+cual permite el uso total del piso trasero (vehículos tipo van) o de la plataforma separada (vehículos tipo
+«pick-up»), para el transporte de mercancías;
+
+b)
+
+La presencia de una cabina separada para el conductor y pasajeros y una plataforma exterior con paneles
+laterales y una hoja trasera abatible (vehículos tipo «pick up»);
+
+NOTAS EXPLICATIVAS DEL SISTEMA ARMONIZADO
+SÉPTIMA ENMIENDA - 2022
+
+1511
+
+c)
+
+La ausencia de ventanas a lo largo de los dos paneles laterales; la presencia de puerta o puertas deslizables o de corredera, sin ventanas, en los paneles laterales o en la parte trasera, destinadas a la carga y
+descarga de mercancías (vehículos tipo van);
+
+d)
+
+La presencia de una división o barrera permanente entre el área del conductor y los pasajeros frontales y
+el área trasera;
+
+e)
+
+La ausencia de elementos de confort, acabados interiores y accesorios en el área de carga, que están
+asociados con áreas de pasajeros (por ejemplo, alfombra, ventilación, luces interiores, ceniceros).
+Se clasifican igualmente en esta partida:
+
+1)
+
+Los volquetes automóviles que son vehículos de construcción robusta con caja basculante o en los que
+puede abrirse el fondo, diseñados para el transporte de escombros o de materiales diversos. Estos vehículos,
+de chasis generalmente rígido o articulado, generalmente con ruedas para todo terreno, pueden circular por
+suelos movedizos. Este grupo comprende tanto los vehículos pesados como los volquetes ligeros; estos
+últimos tienen a veces la particularidad de llevar un equipo de asiento giratorio, asientos dobles opuestos
+o doble volante de dirección que permite la conducción de cara a la caja para regular mejor la descarga.
+
+2)
+
+Los camiones de acarreo, que se utilizan en las galerías de minas para el acarreo de carbón o minerales
+entre las cortadoras y los transportadores de bandas. Son vehículos pesados de chasis muy bajo, montados
+sobre neumáticos, movidos por motores eléctricos o de émbolo de encendido por chispa o por compresión
+y que realizan automáticamente su propia descarga por deslizamiento del piso móvil.
+
+3)
+
+Los vehículos automóviles autocargables por medio de tornos, dispositivos elevadores, etc., que están
+diseñados esencialmente para el transporte.
+
+4)
+
+Los camiones ferrocarril-carretera especialmente diseñados para circular por carriles y por carretera.
+Estos vehículos cuyas ruedas neumáticas se mueven por el carril, están equipados además, delante y
+detrás, con un elemento guía que desempeña el papel de un boje; un gato hidráulico levanta este elemento
+para permitir a los camiones que vuelvan a la carretera.
+
+Los chasis de vehículos automóviles equipados con su motor y cabina se clasifican igualmente en esta
+partida.
+Se excluyen además de esta partida:
+a)
+
+Las carretillas puente que se utilizan en las fábricas, depósitos, puertos, aeropuertos, etc., para la manipulación de cargas largas o de contenedores (partida 84.26).
+
+b)
+
+Las cargadoras transportadoras que se utilizan en las minas (partida 84.29).
+
+c)
+
+Las motocicletas, «scooters» y demás ciclos con motor, equipados y carrozados para el transporte de
+mercancías, tales como las motocicletas de reparto, motocarros, etc., que no presenten las características
+de los vehículos de tres ruedas de esta partida (partida 87.11).
+
+Notas explicativas de subpartida.
+Subpartida 8704.10
+Los volquetes automotores de esta subpartida se distinguen de los demás vehículos para el transporte de
+mercancías (en especial de los camiones con caja basculante) por el hecho de que presentan las características
+siguientes:
+-
+
+una caja de chapa de acero extremadamente robusta cuya pared delantera se prolonga por encima de la
+cabina del conductor para protegerle y el piso se eleva total o parcialmente hacia atrás;
+
+-
+
+en algunos casos, una semicabina para el conductor;
+
+-
+
+ausencia de suspensión en los ejes;
+
+-
+
+dispositivo de freno reforzado;
+
+NOTAS EXPLICATIVAS DEL SISTEMA ARMONIZADO
+
+1512
+
+SÉPTIMA ENMIENDA - 2022
+
+-
+
+velocidad máxima y radio de acción limitados;
+
+-
+
+neumáticos especiales para suelos movedizos;
+
+-
+
+la relación peso en vacío/carga útil es inferior a 1: 1,6 debido a la robustez del vehículo;
+
+-
+
+caja eventualmente calentada por los gases de escape para evitar que los materiales se adhieran o se
+hielen.
+
+Sin embargo, conviene observar que ciertos volquetes automotores están especialmente diseñados para
+utilizarlos en las minas o en los túneles, como por ejemplo, los que llevan la caja con un piso que puede abrirse. Presentan algunas de las características enunciadas anteriormente, pero no tienen cabina y la caja no se
+prolonga por una especie de tejado de protección.
+Subpartidas 8704.21, 8704.22, 8704.23, 8704.31 y 8704.32
+El peso total con carga máxima es el peso total máximo en condiciones de marcha especificado por el
+constructor. Este peso comprende: el peso del vehículo, el peso de la carga máxima prevista, el peso del conductor y el peso del carburante con el depósito lleno.
+87.05
+
+Vehículos automóviles para usos especiales, excepto los diseñados principalmente para transporte de personas o mercancías (por ejemplo: coches para reparaciones (auxilio mecánico),
+camiones grúa, camiones de bomberos, camiones hormigonera, coches barredera, coches
+esparcidores, coches taller, coches radiológicos).
+8705.10 -
+
+Camiones grúa
+
+8705.20 -
+
+Camiones automóviles para sondeo o perforación
+
+8705.30 -
+
+Camiones de bomberos
+
+8705.40 -
+
+Camiones hormigonera
+
+8705.90 -
+
+Los demás
+
+Esta partida comprende un conjunto de vehículos automóviles, especialmente construidos o transformados,
+equipados con dispositivos o aparatos diversos que les hacen adecuados para realizar ciertas funciones,
+distintas del transporte propiamente dicho. Se trata de vehículos que no están esencialmente diseñados
+para el transporte de personas o de mercancías.
+Se pueden citar como pertenecientes a esta partida:
+1)
+
+Los vehículos para reparaciones constituidos por un chasis de camión o de camioneta, incluso con plataforma, equipados con aparatos de elevación, tales como grúas que no sean rotativas, cabrias, polipastos
+o tornos, diseñados para elevar y remolcar los vehículos averiados.
+
+2)
+
+Los coches bomba, en los que la bomba la acciona generalmente el motor del coche, como por ejemplo,
+los coches para la lucha contra incendios.
+
+3)
+
+Los coches con escalera y los coches con plataforma elevadora para la conservación de las líneas eléctricas, del alumbrado público, etc., así como los vehículos con plataforma y brazos articulados (travelines)
+para tomas cinematográficas o de televisión.
+
+4)
+
+Los vehículos utilizados para la limpieza de las calles, plazas públicas, alcantarillas, pistas de aeropuertos,
+etc., tales como barredoras, regadoras, regadoras barredoras y vehículos para aspirar el fango.
+
+5)
+
+Los quitanieves automóviles con equipo inamovible. Se trata de vehículos automóviles exclusivamente
+diseñados para este uso, equipados generalmente con turbinas, aspas giratorias, etc., accionados por el
+motor del vehículo, o bien, por un motor distinto.
+Los equipos quitanieve amovibles de cualquier tipo se clasifican siempre en la partida 84.30, aunque se
+presenten montados en un vehículo automóvil.
+
+6)
+
+Los coches esparcidoras con calentamiento o sin él, de cualquier tipo y para cualquier uso (incluso agrí-
+
+NOTAS EXPLICATIVAS DEL SISTEMA ARMONIZADO
+SÉPTIMA ENMIENDA - 2022
+
+1513
+
+colas), con dispositivos para esparcir hormigón, grava, etc.
+7)
+
+Los camiones grúa que no se destinen al transporte de mercancías, constituidos por un chasis de vehículo automóvil con cabina en el que se ha montado permanentemente una grúa rotativa. Sin embargo, se
+excluyen los vehículos automóviles de la partida 87.04 que se cargan ellos mismos.
+
+8)
+
+Los camiones para sondeos y perforaciones, constituidos por un camión en el que hay montada una estructura metálica vertical con un torno y demás mecanismos necesarios para el sondeo o perforación.
+
+9)
+
+Los coches con dispositivo elevador, excepto las carretillas elevadoras de manipulación de la partida
+84.27, constituidos por una horquilla o una plataforma de carga elevadoras, movidas generalmente por el
+motor de vehículo, que se deslizan por un soporte vertical. Los vehículos automóviles que se cargan ellos
+mismos por medio de tornos, dispositivos elevadores, etc., se clasifican por el contrario en la partida 87.04,
+siempre que estén especialmente diseñados para el transporte de mercancías y no para la manipulación.
+
+10) Los camiones hormigonera constituidos por un chasis de vehículo automóvil con cabina en el que está
+montada permanentemente una hormigonera, que pueden hacer a la vez la preparación y el transporte del
+hormigón.
+11) Los grupos electrógenos automóviles, constituidos por un vehículo automóvil con cabina en el que está
+montado un generador eléctrico movido por el motor del vehículo o por un motor distinto.
+12) Los camiones radiológicos con una sala para examen, laboratorio de revelado y los aparatos de radiología.
+13) Los vehículos clínica, incluidas las odontológicas, con sala de operaciones, equipos de anestesia y demás
+aparatos quirúrgicos.
+14) Los automóviles proyectores que llevan un proyector luminoso montado en un vehículo y cuyo funcionamiento está generalmente garantizado por un generador eléctrico accionado por el motor del coche.
+15) Los coches de radiorreportajes.
+16) Los vehículos automóviles con equipos telegráficos, radiotelegráficos o radiotelefónicos para la emisión y
+recepción; los coches radar.
+17) Los coches equipados con calculadoras que determinan automáticamente en los hipódromos las relaciones
+y cotizaciones de las apuestas.
+18) Los coches laboratorio, por ejemplo, para el control del trabajo de las máquinas agrícolas.
+19) Los camiones equipados con aparatos de registro que permitan determinar la potencia de tracción de los
+vehículos automóviles que los remolcan.
+20) Los camiones panadería con su equipo completo (amasadoras, horno, etc.) y los vehículos cocina.
+21) Los camiones taller equipados con máquinas y herramientas diversas, dispositivos de soldadura, etc.
+22) Los coches banco, los coches biblioteca y los coches preparados para la exposición o la presentación de
+mercancías.
+Se excluyen igualmente de esta partida:
+a)
+
+Los rodillos compresores autopropulsados (partida 84.29).
+
+b)
+
+Los rodillos allanadores agrícolas accionados por un motor (partida 84.32).
+
+c)
+
+Los pequeños aparatos móviles con motor auxiliar, conducidos por un peatón, tales como las barredoras
+para parques, jardines públicos, etc., y los aparatos utilizados para el trazado de las bandas de las carreteras o de las calles (partida 84.79).
+
+d)
+
+Los minibuses de acampada (partida 87.03).
+
+NOTAS EXPLICATIVAS DEL SISTEMA ARMONIZADO
+
+1514
+
+SÉPTIMA ENMIENDA - 2022
+
+CHASIS DE VEHÍCULOS AUTOMÓVILES O DE CAMIONES COMBINADOS CON ARTEFACTOS
+DE TRABAJO
+Conviene destacar que, para que se clasifique en esta partida un vehículo que lleve aparatos de elevación
+o de manipulación, artefactos de explanación, de excavación o de sondeo, etc., debe consistir en un verdadero
+chasis de vehículo automóvil o de camión que reúna, por tanto, en sí mismo, como mínimo, los órganos mecánicos
+siguientes: motor de propulsión, caja y dispositivos de cambio de velocidad y órganos de dirección y de frenado.
+Por el contrario, se clasifican, por ejemplo, en las partidas 84.26, 84.29 y 84.30, los aparatos o artefactos
+simplemente autopropulsados (grúas, excavadoras, etc.) en los que uno o varios de los mecanismos de propulsión o de mando antes mencionados están reunidos en la cabina del artefacto de trabajo montados en un
+chasis de ruedas o de orugas, aunque el conjunto pueda circular por sus propios medios.
+Asimismo, se excluirán de esta partida las máquinas autopropulsadas de ruedas en las que chasis y artefacto de trabajo estén especialmente diseñados el uno para el otro de modo que formen un conjunto mecánico
+homogéneo (por ejemplo, ciertas niveladoras autopropulsadas llamadas motoniveladoras). En tales casos, el
+artefacto de trabajo no está simplemente montado en un chasis de vehículo automóvil, sino que está totalmente
+integrado en un chasis inutilizable para otros fines y puede llevar los mecanismos automóviles esenciales
+antes mencionados.
+Se recuerda que los quitanieves automóviles con equipo inamovible siempre se clasifican en esta partida.
+Nota explicativa de subpartida.
+Subpartida 8705.10
+Véase la Nota explicativa de la partida 87.05, Apartado 7).
+87.06
+
+Chasis de vehículos automóviles de las partidas 87.01 a 87.05, equipados con su motor.
+
+Esta partida comprende el conjunto del mecanismo motor, los órganos de transmisión o de dirección, los
+ejes (con ruedas o sin ellas) montados en el marco del chasis o en la estructura sin carrozar del conjunto chasiscarrocería (construcción monocasco) de los vehículos automóviles de las partidas 87.01 a 87.05. Se trata en
+realidad de vehículos automóviles o tractores de carretera sin equipar con la caja, ni la cabina.
+La presencia del capó del motor, del parabrisas, de las aletas, estribos, salpicadero, incluso con los instrumentos, no modifica sin embargo la clasificación de los chasis en esta partida. Por otra parte, quedan comprendidos aquí, tengan o no los neumáticos, dispositivos de carburación, batería y otros dispositivos eléctricos.
+Sin embargo, si la unión de estos elementos tiene como resultado formar un tractor o un vehículo completo o
+virtualmente completo, estos conjuntos no están incluidos en esta partida.
+Se excluyen igualmente de aquí:
+a)
+
+Los chasis equipados con su motor y cabina, incluso incompleta (por ejemplo, sin asiento) (partidas 87.02
+a 87.04) (véase la Nota 3 de este Capítulo).
+
+b)
+
+Los chasis, incluso equipados con diversos órganos mecánicos, pero sin el motor (partida 87.08).
+
+87.07
+
+Carrocerías de vehículos automóviles de las partidas 87.01 a 87.05, incluidas las cabinas.
+8707.10 -
+
+De vehículos de la partida 87.03
+
+8707.90 -
+
+Las demás
+
+Esta partida comprende las carrocerías, incluidas las cabinas, de los vehículos automóviles de las partidas
+87.01 a 87.05.
+Las carrocerías o cajas constituyen la parte que se monta en el chasis. En los vehículos sin chasis, ellas
+mismas soportan, sin embargo, el mecanismo motor y los ejes; así sucede con las cajas autoportantes y los
+conjuntos monobloques (llamados también chasis-carrocería) en los que los elementos del cuadro del chasis
+están integrados en la carrocería.
+
+NOTAS EXPLICATIVAS DEL SISTEMA ARMONIZADO
+SÉPTIMA ENMIENDA - 2022
+
+1515
+
+Existe una gran variedad de carrocerías especiales para los diversos tipos de vehículos a los que están
+destinados (vehículos para el transporte de personas, camiones, vehículos especiales, etc.). Se fabrican principalmente de acero, de aleaciones ligeras, de madera o de plástico.
+Pueden estar completamente equipadas, por ejemplo, con todas las guarniciones y accesorios diversos,
+tales como salpicaderos, asientos y cojines, alfombras, maleteros, portaequipajes o accesorios eléctricos.
+También están comprendidas aquí las carrocerías incompletas, es decir, las que carecen de algunos elementos (por ejemplo, parabrisas o puertas) o en las que la guarnición interior o exterior y la pintura no están
+completamente acabadas.
+Las cabinas distintas de las cajas (por ejemplo, para camiones), así como las adaptables a los tractores,
+están igualmente comprendidas en esta partida.
+87.08
+
+Partes y accesorios de vehículos automóviles de las partidas 87.01 a 87.05.
+8708.10 -
+
+Parachoques (paragolpes, defensas) y sus partes
+Las demás partes y accesorios de carrocería (incluidas las de cabina):
+
+8708.21 - - Cinturones de seguridad
+8708.22 - - Parabrisas, vidrios traseros (lunetas) y demás ventanillas especificados en la Nota 1 de
+subpartida de este Capítulo
+8708.29 - - Los demás
+8708.30 -
+
+Frenos y servofrenos; sus partes
+
+8708.40 -
+
+Cajas de cambio y sus partes
+
+8708.50 -
+
+Ejes con diferencial, incluso provistos con otros órganos de transmisión, y ejes portadores;
+
+8708.70 -
+
+Ruedas, sus partes y accesorios
+
+8708.80 -
+
+Sistemas de suspensión y sus partes (incluidos los amortiguadores)
+
+sus partes
+
+-
+
+Las demás partes y accesorios:
+
+8708.91 - - Radiadores y sus partes
+8708.92 - - Silenciadores y tubos (caños) de escape; sus partes
+8708.93 - - Embragues y sus partes
+8708.94 - - Volantes, columnas y cajas de dirección; sus partes
+8708.95 - - Bolsas inflables de seguridad con sistema de inflado (airbag); sus partes
+8708.99 - - Los demás
+Esta partida comprende el conjunto de partes y accesorios de los vehículos automóviles de las partidas
+87.01 a 87.05, siempre que, sin embargo, estas partes y accesorios satisfagan las dos condiciones siguientes:
+1º) Que sean identificables como exclusiva o principalmente destinadas a esta clase de vehículos.
+2º) Que no estén excluidas por las Notas de la Sección XVII (véanse las Consideraciones generales de esta
+Sección).
+Entre estas partes y accesorios, se pueden citar:
+A)
+
+Los marcos de chasis de vehículos automóviles ensamblados (con ruedas o sin ellas, pero sin motor) y
+sus elementos constitutivos: largueros, travesaños, tirantes, sujeciones de ballestas y muelles, soportes
+de carrocería, de motor, de estribos, de batería, de depósito de carburantes, etc.
+
+B)
+
+Las partes de carrocería y el equipo de ésta, es decir, los elementos de la caja: piso, costados, paneles
+delanteros y traseros, maleteros, etc.; las puertas y sus elementos; el capó del motor, lunas enmarcadas,
+las lunas con dispositivos de conexión eléctricos además de resistencias calentadoras, los marcos de las
+lunas, los estribos, aletas, guardafangos, etc.; los salpicaderos, las rejillas delanteras, los soportes de
+las placas de matrícula, los parachoques, las barras y panes de parachoques, los soportes de dirección,
+los portaequipajes exteriores, los parasoles, los aparatos no eléctricos de calefacción y eliminadores de
+
+NOTAS EXPLICATIVAS DEL SISTEMA ARMONIZADO
+
+1516
+
+SÉPTIMA ENMIENDA - 2022
+
+escarcha que utilicen el calor producido por el motor del vehículo, los cinturones de seguridad que se fijan
+permanentemente en el interior del vehículo para la protección de las personas, las alfombras de materias
+distintas de las textiles o del caucho vulcanizado sin endurecer, etc. Se clasifican aquí y no en la partida
+87.07 los ensamblados de elementos de carrocería (incluidos los de carrocerías monocasco o chasis carrocería) que no presenten todavía el carácter de carrocerías incompletas, por ejemplo, las carrocerías
+desnudas, sin puertas, sin aletas, sin capó ni tapa del maletero.
+C)
+
+Los embragues (de cono, de disco, hidráulicos o automáticos), con exclusión de los embragues electromagnéticos de la partida 85.05, los cárteres, tapas, platos y palancas del embrague y las guarniciones
+montadas.
+
+D)
+
+Las cajas de cambio de cualquier tipo (mecánicas, supermultiplicadoras, preselectoras, electromecánicas,
+automáticas, etc.); los convertidores de par, los cárteres y tapas de cajas de cambio, los árboles (excepto
+los que constituyan partes intrínsecas de motor), los piñones, pestañas y engranajes móviles, etc.
+
+E)
+
+Ejes con diferencial; ejes portadores (delanteros o traseros); cajas para diferencial; piñones planetarios y
+satélites; dados (cubos), manguetas y soportes de manguetas.
+
+F)
+
+Las demás piezas y órganos de transmisión: árboles, semiejes, engranajes, cojinetes, desmultiplicadores,
+juntas de articulación, etc., con exclusión de las piezas internas de motor tales como bielas, vástagos,
+empujadores de las válvulas (partida 84.09), cigüeñales, volantes y árboles de levas (partida 84.83).
+
+G)
+
+Las piezas de dirección: los tubos de la columna, bielas, barras y palancas de dirección; las cajas, cárteres
+y cremalleras; los mecanismos de servodirección, etc.
+
+H)
+
+Los frenos (de mandíbulas, de segmentos, de disco, etc.) y las partes (platos, tambores, cilindros, guarniciones montadas, depósitos para frenos hidráulicos, etc.); los servofrenos y sus partes.
+
+IJ)
+
+Los amortiguadores de suspensión (de fricción, hidráulicos, etc.) y los demás órganos de suspensión (excepto los muelles) y las barras de torsión.
+
+K)
+
+Las ruedas (de chapa embutida, de acero moldeado, con radios, etc.), incluso equipadas con bandajes o
+neumáticos, las tejas y trenes de ruedas y los trenes de ruedas para máquinas de orugas, las llantas, los
+discos, los radios o los embellecedores de las ruedas.
+
+L)
+
+Los mandos: volante, columna y cárter de dirección, los ejes del volante; las palancas de la caja de cambio
+y del freno de mano; los pedales del acelerador, del freno y del embrague; las varillas de mando (de freno,
+de embrague, etc.).
+
+M)
+
+Los radiadores, los silenciadores del tubo de escape, los tubos de escape, los depósitos de combustible,
+etc.
+
+N)
+
+Los cables de embrague, los cables de freno, los cables de acelerador y los cables similares constituidos
+por una funda exterior flexible y un cable interno móvil. Se presentan cortados en longitudes determinadas
+y con sus terminales.
+
+O)
+
+Las bolsas inflables de seguridad de todos los tipos con sistema de inflado (airbag) (por ejemplo: bolsas
+frontales del lado del conductor, bolsas para los pasajeros, bolsas para los paneles de las puertas para
+proteger a los pasajeros contra los choques laterales, bolsas para instalarse en el techo del vehículo para
+reforzar la protección de la cabeza) y sus partes. El sistema de inflado incluye el ignitor o detonador y la
+carga propelente contenidos en un contenedor que desencadena la expansión del gas en la bolsa. La
+presente partida no comprende los sensores remotos o controladores electrónicos, que no se consideran
+partes del sistema de inflado.
+Se excluyen de esta partida los cilindros hidráulicos o neumáticos de la partida 84.12.
+
+NOTAS EXPLICATIVAS DEL SISTEMA ARMONIZADO
+
+1517
+
+SÉPTIMA ENMIENDA - 2022
+
+87.09
+
+Carretillas automóvil sin dispositivo de elevación de los tipos utilizados en fábricas, almacenes,
+puertos o aeropuertos, para transporte de mercancías a corta distancia; carretillas tractor de los
+tipos utilizados en estaciones ferroviarias; sus partes.
+-
+
+Carretillas:
+
+8709.11 - - Eléctricas
+8709.19 - - Las demás
+8709.90 -
+
+Partes
+
+Esta partida comprende un conjunto de carretillas de los tipos utilizados en las fábricas, depósitos, puertos
+o aeropuertos para el transporte a cortas distancias de cargas diversas (mercancías o contenedores) o para la
+tracción de pequeños remolques en las estaciones.
+Estas carretillas son de tipos y dimensiones muy variadas. Pueden estar accionadas por un motor eléctrico
+alimentado por baterías, o bien, por un motor de émbolo de encendido por chispa o por compresión, o cualquier
+otro.
+Las características esenciales comunes a las carretillas de esta partida, que permiten distinguirlas de los
+vehículos de las partidas 87.01, 87.03 u 87.04, pueden resumirse como sigue:
+1)
+
+No pueden utilizarse para el transporte de personas ni para el transporte de mercancías por carretera u
+otras vías públicas a causa de su estructura y de los dispositivos especiales que habitualmente presentan.
+
+2)
+
+Su velocidad máxima con carga es generalmente inferior a 30-35 km/h.
+
+3)
+
+Su radio de giro es aproximadamente igual a la longitud de la propia carretilla.
+
+Las carretillas de esta partida no tienen normalmente cabina de conducción cerrada, el puesto del conductor
+se reduce a veces a una plataforma en la que se mantiene de pie para conducir el vehículo. Un dispositivo protector, tal como una armadura o un enrejado metálico, está a veces colocado por encima del asiento del conductor.
+También quedan clasificadas en esta partida las carretillas en las que el conductor va a pie.
+Las carretillas automóvil están provistas, por ejemplo, de una plataforma o de una caja, móviles, en las
+que se cargan las mercancías.
+Pertenecen también a este grupo las carretillas cisterna, incluso equipadas con bombas, que se utilizan
+principalmente en las estaciones.
+Las carretillas tractor de los tipos utilizados en estaciones, que están esencialmente construidas para la
+tracción o empuje de otros vehículos, principalmente de pequeños remolques. No transportan ellas mismas las
+mercancías. Son artefactos generalmente más ligeros y menos potentes que los tractores de la partida 87.01.
+Los vehículos de estos tipos pueden igualmente utilizarse en los muelles de los puertos, en los depósitos, etc.
+PARTES
+También están comprendidas aquí las partes de los vehículos de esta partida, siempre que satisfagan las
+dos condiciones siguientes:
+1º) Que sean identificables como destinadas exclusivamente a los vehículos de esta clase.
+2º) Que no estén excluidas en virtud de las Notas de la Sección XVII (véanse las Consideraciones generales
+y las Notas explicativas correspondientes).
+Entre estas partes, se pueden citar:
+1)
+
+Los chasis.
+
+2)
+
+Las carrocerías, plataformas, cajas de adrales y cajas basculantes.
+
+3)
+
+Las ruedas, incluso con los bandajes o neumáticos.
+
+NOTAS EXPLICATIVAS DEL SISTEMA ARMONIZADO
+
+1518
+
+SÉPTIMA ENMIENDA - 2022
+
+4)
+
+Los embragues.
+
+5)
+
+Las cajas de cambio y los diferenciales.
+
+6)
+
+Los ejes, incluso tractores.
+
+7)
+
+Los manillares y volantes de dirección.
+
+8)
+
+Los dispositivos de frenado y sus partes.
+
+9)
+
+Los cables de embrague, los cables de freno, los cables de acelerador y los cables similares constituidos
+por una funda exterior flexible y un cable interno móvil. Se presentan cortados en longitudes determinadas
+y con sus terminales.
+Se excluyen de esta partida:
+
+a)
+
+Las carretillas puente y las carretillas grúa (partida 84.26).
+
+b)
+
+Las carretillas elevadoras y demás carretillas de manipulación con dispositivo de elevación (partida 84.27).
+
+c)
+
+Los volquetes automotores (partida 87.04).
+
+87.10
+
+Tanques y demás vehículos automóviles blindados de combate, incluso con su armamento; sus
+partes.
+
+Esta partida comprende, por una parte, los carros de combate (tanques) y los demás vehículos automóviles
+blindados, armados o sin armar, y sus partes.
+Los carros de combate o tanques son vehículos blindados de orugas, provistos de diversas armas ofensivas
+(cañones, ametralladoras, lanzallamas, etc.) montadas generalmente en una torre giratoria. Llevan, a veces,
+dispositivos giroscópicos especiales de estabilización que facilitan la puntería, con cualquier movimiento del
+vehículo. Pueden también estar equipados con dispositivos antiminas como, por ejemplo, un tambor rotativo
+colocado delante del carro al que se fijan cadenas provistas en uno de los extremos de bolas de fundición que
+golpean en el suelo, o bien, de pesados rodillos colocados delante del tanque.
+Los carros anfibios se clasifican igualmente en esta partida.
+Los automóviles blindados son vehículos con blindaje menos pesado y armamento menos potente que
+el de los carros de combate; son también más rápidos, más silenciosos y de construcción menos robusta que
+estos últimos. A veces, incluso, sólo están provistos de un blindaje parcial. Se utilizan sobre todo para misiones
+de policía, de reconocimiento o de transporte en zonas de combate. Algunos automóviles blindados están provistos de orugas, pero la mayoría están montados sobre ruedas; pueden ser anfibios y se utilizan entonces, por
+ejemplo, como vehículos de desembarque.
+Esta partida comprende igualmente:
+A)
+
+Los tanques especialmente diseñados para la reparación de otros vehículos.
+
+B)
+
+Los vehículos blindados, generalmente de orugas, aunque no se hayan construido para armarlos, que
+se utilizan, por ejemplo, para el abastecimiento de gasolina, aceite, agua o municiones en las zonas de
+combate.
+
+C)
+
+Los tanques teledirigidos, de pequeñas dimensiones, que transportan las municiones hasta las piezas de
+artillería u otros vehículos de combate avanzados.
+
+D)
+
+Los vehículos blindados especialmente destinados, por ejemplo, a la destrucción de obstáculos de hormigón.
+
+E)
+
+Los vehículos blindados para el transporte de tropas.
+
+Se excluyen de esta partida los coches y camiones automóviles de tipo corriente con un ligero blindaje
+o provistos accesoriamente de dispositivos amovibles de blindaje (partidas 87.02 a 87.05, según los casos).
+
+NOTAS EXPLICATIVAS DEL SISTEMA ARMONIZADO
+
+1519
+
+SÉPTIMA ENMIENDA - 2022
+
+Las piezas de artillería autopropulsadas se clasifican en la partida 93.01; se caracterizan por el hecho de
+que disparan estando paradas y que la pieza tiene un campo de tiro limitado.
+PARTES
+Esta partida comprende también las partes de los vehículos blindados contemplados anteriormente, siempre
+que satisfagan las dos condiciones siguientes:
+1º) Que sean identificables como destinadas exclusiva o principalmente a dichos vehículos.
+2º) Que no estén excluidas en virtud de las Consideraciones generales de la Sección XVII.
+Entre estas partes, se pueden citar:
+1)
+
+Los chasis de los vehículos blindados y sus partes (torretas, puertas, capós blindados, etc.).
+
+2)
+
+Las orugas especiales para carros de combate.
+
+3)
+
+Las ruedas especiales para automóviles blindados.
+
+4)
+
+Las ruedas motrices para las orugas de los carros de combate.
+
+5)
+
+Las planchas de blindaje que se hayan sometido a trabajos que las hagan identificables como tales.
+
+6)
+
+Los cables de embrague, los cables de freno, los cables de acelerador y los cables similares constituidos
+por una funda exterior flexible y un cable interno móvil. Se presentan cortados en longitudes determinadas
+y con sus terminales.
+
+87.11
+
+Motocicletas (incluidos los ciclomotores) y velocípedos equipados con motor auxiliar, con sidecar
+o sin él; sidecares.
+8711.10 -
+
+Con motor de émbolo (pistón) de cilindrada inferior o igual a 50 cm3
+
+8711.20 -
+
+Con motor de émbolo (pistón) de cilindrada superior a 50 cm3 pero inferior o igual a 250
+cm3
+
+8711.30 -
+
+Con motor de émbolo (pistón) de cilindrada superior a 250 cm3 pero inferior o igual a 500
+cm3
+
+8711.40 -
+
+Con motor de émbolo (pistón) de cilindrada superior a 500 cm3 pero inferior o igual a 800
+cm3
+
+8711.50 -
+
+Con motor de émbolo (pistón) de cilindrada superior a 800 cm3
+
+8711.60 -
+
+Propulsados con motor eléctrico
+
+8711.90 -
+
+Los demás
+
+Esta partida comprende un conjunto de vehículos con motor, de dos ruedas, destinado esencialmente para
+transporte de personas.
+Además de las motocicletas de tipo clásico, esta partida comprende los scooters, caracterizados por ruedas
+de pequeña dimensión y por una plataforma horizontal que une la parte delantera y la trasera del vehículo, los
+ciclomotores (motociclos de pequeña potencia llamados a veces velomotores) y los ciclos equipados con un
+motor auxiliar.
+Esta partida también comprende los aparatos de dos ruedas, de propulsión eléctrica, concebidos para el
+transporte de una sola persona por zonas de baja velocidad como las aceras, caminos y carriles para bicicletas.
+La tecnología empleada le permite al conductor permanecer de pie, mientras que un sistema compuesto por
+sensores giroscópicos y un conjunto de microprocesadores a bordo, mantienen el equilibrio del conductor y del
+aparato sobre las dos ruedas que se desplazan independientemente una a cada lado.
+Los motociclos pueden carrozarse para proteger al conductor contra la intemperie o equiparlos con sidecar.
+Están también clasificados aquí los vehículos de tres ruedas (por ejemplo, del tipo motocarro), a condición
+
+NOTAS EXPLICATIVAS DEL SISTEMA ARMONIZADO
+
+1520
+
+SÉPTIMA ENMIENDA - 2022
+
+de que no presenten las características de un vehículo automóvil de la partida 87.03 u 87.04 (véase la Nota
+explicativa de la partida 87.03 y 87.04).
+Esta partida comprende, por otra parte, los sidecares de todos los tipos para motocicletas o ciclos, diseñados
+para el transporte de personas o de mercancías, que no pueden utilizarse separadamente. Están equipados
+con una sola rueda en un costado, mientras que en el otro llevan dispositivos que permiten fijarlos al motociclo
+o al ciclo en posición lateral.
+En cambio, se excluyen:
+a)
+
+Los vehículos de cuatro ruedas para el transporte de personas, de chasis tubular, provistos de un sistema
+de dirección de tipo automóvil, por ejemplo, basado en el principio de Ackerman (partida 87.03).
+
+b)
+
+Los remolques para acoplar a una motocicleta o a una bicicleta (partida 87.16).
+
+87.12
+
+Bicicletas y demás velocípedos (incluidos los triciclos de reparto), sin motor.
+
+Esta partida comprende los ciclos con las ruedas accionadas mediante pedales, como por ejemplo, las
+bicicletas (incluidas las de niños), los tándemes, los triciclos y los cuadriciclos.
+Independientemente de los velocípedos comunes, esta partida comprende diversos tipos especializados,
+tales como:
+1)
+
+Los triciclos de reparto diseñados generalmente en forma de un conjunto articulado que comprende una
+caja, a veces, isotérmica que se apoya en dos ruedas portadoras delanteras.
+
+2)
+
+Los tándemes y tripletas.
+
+3)
+
+Los monociclos y las bicicletas especialmente diseñadas para los artistas de circo, caracterizadas por la
+ligereza, la rueda de piñón fijo, etc.
+
+4)
+
+Las bicicletas para inválidos (por ejemplo, las provistas de un dispositivo que permita pedalear con una
+sola pierna).
+
+5)
+6)
+
+Las bicicletas equipadas con estabilizadores con pequeñas ruedas laterales, generalmente fijos al buje de
+la rueda trasera.
+Las bicicletas de carreras.
+
+7)
+
+Los cuatriciclos con varios asientos y juegos de pedales, todo ello encerrado en una carrocería ligera.
+
+8)
+
+Los patinetes tipo bicicleta concebidos para niños, adolescentes y adultos, con un solo pedal enganchado
+a una cadena y a un sistema de piñones, con una columna de dirección regulable tipo bicicleta y manillar,
+ruedas inflables, bastidor y frenos de mano.
+
+Los velocípedos sin motor equipados con sidecares se clasifican aquí, pero los sidecares presentados
+aisladamente corresponden a la partida 87.11.
+Se excluyen además de esta partida:
+a)
+
+Los velocípedos equipados con motor auxiliar (partida 87.11).
+
+b)
+
+Los velocípedos (excepto las bicicletas) para niños (partida 95.03).
+
+c)
+
+Las bicicletas especiales utilizables únicamente para atracciones de feria (partida 95.08).
+
+87.13
+
+Sillones de ruedas y demás vehículos para inválidos, incluso con motor u otro mecanismo de
+propulsión.
+8713.10 -
+
+Sin mecanismo de propulsión
+
+8713.90 -
+
+Los demás
+
+NOTAS EXPLICATIVAS DEL SISTEMA ARMONIZADO
+SÉPTIMA ENMIENDA - 2022
+
+1521
+
+Esta partida comprende los sillones de ruedas y demás vehículos especialmente preparados para el transporte de inválidos (enfermos, paralíticos, mutilados, etc.), con mecanismo de propulsión o sin él.
+Los vehículos con mecanismo de propulsión son accionados generalmente con un motor, o bien, a mano
+por medio de palancas o manivelas. Los demás vehículos (sillas y sillones de ruedas) se empujan a mano o los
+maniobran directamente los inválidos con las manos sobre las ruedas.
+Por el contrario, se excluyen de aquí:
+a)
+
+Los vehículos simplemente adaptados para el uso por inválidos, como por ejemplo, los vehículos automóviles
+con un embrague o un acelerador de mano (partida 87.03), las bicicletas con dispositivos que permitan
+pedalear con una sola pierna (partida 87.12).
+
+b)
+
+Las camillas con ruedas (partida 94.02).
+
+87.14
+
+Partes y accesorios de vehículos de las partidas 87.11 a 87.13.
+8714.10 -
+
+De motocicletas (incluidos los ciclomotores)
+
+8714.20 -
+
+De sillones de ruedas y demás vehículos para inválidos
+
+-
+
+Los demás:
+
+8714.91 - - Cuadros y horquillas, y sus partes
+8714.92 - - Llantas y radios
+8714.93 - - Bujes sin freno y piñones libres
+8714.94 - - Frenos, incluidos los bujes con freno, y sus partes
+8714.95 - - Sillines (asientos)
+8714.96 - - Pedales y mecanismos de pedal, y sus partes
+8714.99 - - Los demás
+Esta partida comprende el conjunto de partes y accesorios de los tipos utilizados en motociclos (incluidos
+los ciclomotores), ciclos con motor auxiliar, sidecares, ciclos sin motor, sillones de ruedas y demás vehículos
+para inválidos, siempre que, sin embargo, estas partes y accesorios satisfagan las dos condiciones siguientes:
+1º) Que sean identificables como exclusiva o principalmente destinadas a los vehículos contemplados anteriormente.
+2º) Que no estén excluidos por las Notas de la Sección XVII (véanse las Consideraciones generales de esta
+Sección).
+Entre estas partes y accesorios, se pueden citar:
+1)
+
+Las carrocerías de motocarros, de sidecares, de coches para inválidos, y sus partes (capotas, puertas,
+pisos, etc.).
+
+2)
+
+Los chasis y marcos completos y sus partes.
+
+3)
+
+Los engranajes, cajas de cambio, embragues y demás dispositivos de transmisión y sus partes, para motociclos.
+
+4)
+
+Las ruedas y partes de ruedas (bujes, llantas, radios, etc.).
+
+5)
+
+Los piñones libres.
+
+6)
+
+Los cambios de velocidad de los ciclos y sus partes.
+
+7)
+
+Los platos pedal y sus partes (plato, biela, eje, etc.); los pedales y sus partes (ejes, etc.); los rastrales.
+
+8)
+
+Los pedales de arranque, las palancas y demás dispositivos de mando.
+
+9)
+
+Los frenos de cualquier clase (de zapatas, de varilla, de tambor, de disco, de contrapedal en el buje, etc.)
+
+NOTAS EXPLICATIVAS DEL SISTEMA ARMONIZADO
+
+1522
+
+SÉPTIMA ENMIENDA - 2022
+
+y las partes tales como palanca, portazapatas, tambores, segmentos para frenos de tambor u horquillas
+de frenos.
+10) Manillares, vástagos del manillar y puños (de corcho, de plástico, etc.).
+11) Los sillines, tubos del sillín y cubresillines.
+12) Las horquillas, incluidas las telescópicas, y sus partes (cabezas, vástagos, etc.).
+13) Los tubos preparados y los racores para el cuadro.
+14) Los amortiguadores hidráulicos y sus partes.
+15) Los guardabarros y sus dispositivos de sujeción (soportes o varillas).
+16) Los catadióptricos montados en sus cajas (dispositivos reflectantes).
+17) Los protectores de la ropa, excepto las redes de la partida 56.08, los cubrecadenas, los posapiés y protectores de las piernas.
+18) Los apoyos de soporte para motociclos.
+19) Los capós de scooter las tapas para ocultar las ruedas de recambio del scooter.
+20) Los silenciadores y sus partes.
+21) Los depósitos de carburante.
+22) Los parabrisas.
+23) Los portaequipajes, portalinternas, portafaros y portabidones.
+24) Las palancas y manivelas de propulsión, los respaldos y columnas de dirección, reposapiés y apoyos para
+las piernas o los brazos, para coches de inválidos.
+25) Los cables de embrague, los cables de freno, los cables de acelerador y los cables similares constituidos
+por una funda exterior flexible y un cable interno móvil. Se presentan cortados en longitudes determinadas
+y con sus terminales.
+87.15
+
+Coches, sillas y vehículos similares para transporte de niños, y sus partes.
+
+Esta partida comprende:
+I.
+
+Los coches para transporte de niños, plegables o no, con dos o más ruedas que se empujan a mano
+(sillas, coches, etc.).
+
+II.
+
+Las partes de los coches mencionados anteriormente, siempre que estas partes satisfagan las dos
+condiciones siguientes:
+1º) Que sean identificables como destinadas exclusiva o principalmente a dichos vehículos.
+2º) Que no estén excluidas en virtud de las Notas de la Sección XVII (véanse las Consideraciones generales y las Notas explicativas correspondientes).
+Entre estas partes, se pueden citar:
+
+1)
+
+Las carrocerías destinadas a fijarlas en los chasis, así como las carrocerías amovibles que puedan utilizarse
+también como cunas.
+
+2)
+
+Los chasis y sus partes.
+
+3)
+
+Las ruedas, incluso con neumáticos, y sus partes.
+
+NOTAS EXPLICATIVAS DEL SISTEMA ARMONIZADO
+SÉPTIMA ENMIENDA - 2022
+
+87.16
+
+1523
+
+Remolques y semirremolques para cualquier vehículo; los demás vehículos no automóviles; sus
+partes.
+8716.10 -
+
+Remolques y semirremolques para vivienda o acampar, del tipo caravana
+
+8716.20 -
+
+Remolques y semirremolques, autocargadores o autodescargadores, para uso agrícola
+
+-
+
+Los demás remolques y semirremolques para transporte de mercancías:
+
+8716.31 - - Cisternas
+8716.39 - - Los demás
+8716.40 -
+
+Los demás remolques y semirremolques
+
+8716.80 -
+
+Los demás vehículos
+
+8716.90 -
+
+Partes
+
+Con excepción de los vehículos contemplados en las partidas precedentes, esta partida comprende un
+conjunto de vehículos no automóviles con una o varias ruedas para el transporte de personas o de mercancías.
+Comprende, además, los vehículos para usos especiales sin ruedas, como por ejemplo, los trineos, incluso los
+de arrastrar maderas.
+Los vehículos de esta partida están diseñados para que los remolquen otros vehículos (tractores, automóviles, carretillas, motociclos, ciclos, etc.), para arrastrarlos o empujarlos a mano o con el pie, o bien, para la
+tracción animal.
+Están comprendidos aquí:
+A)
+
+Los remolques y semirremolques.
+Se consideran remolques o semirremolques, a efectos de esta partida, los vehículos, distintos de los
+sidecares, destinados exclusivamente a engancharlos a otros vehículos por medio de un dispositivo especial, incluso automático.
+Los remolques y semirremolques diseñados para la tracción por vehículos automóviles constituyen la
+categoría más importante de este grupo. Los remolques llevan generalmente dos o más trenes de ruedas
+y un sistema de enganche unido al tren de ruedas delantero que es giratorio, ruedas que funcionan como
+ruedas directrices. Los semirremolques tienen un solo tren de ruedas y la parte delantera del vehículo se
+apoya en la plataforma de un vehículo tractor al que está enganchado por medio de un dispositivo especial.
+En la Nota explicativa siguiente, el término remolque abarca igualmente a los semirremolques.
+Entre los diferentes tipos de remolques, se pueden citar:
+1)
+
+Los remolques para vivienda o acampada, del tipo caravana.
+
+2)
+
+Los remolques autocargadores para uso agrícola con dispositivos automáticos de carga y eventualmente aparatos que permitan picar el forraje, las mazorcas de maíz, etc.
+Por el contrario, se excluyen los remolques autocargadores con equipo de corte inamovible, que se
+utilizan para guadañar, picar, transportar la hierba, el maíz, etc. (partida 84.33).
+
+3)
+
+Los remolques para el transporte de productos diversos (forraje, estiércol, etc.) llamados autodescargadores, que tienen el piso móvil para descargar y que pueden estar equipados con diversos dispositivos
+(para picar el estiércol, trocear el forraje, etc.) que pueden utilizarse como esparcidoras de estiércol,
+distribuidores de forraje o de raíces forrajeras.
+
+4)
+
+Los demás remolques para el transporte de mercancías, tales como:
+a)
+
+Los remolques cisterna, incluso equipados con bombas, con carácter accesorio.
+
+b)
+
+Los remolques para usos agrícolas, obras públicas, etc., incluso con caja basculante.
+
+c)
+
+Los remolques frigoríficos y los isotermos para el transporte de géneros o mercancías perecederas.
+
+NOTAS EXPLICATIVAS DEL SISTEMA ARMONIZADO
+
+1524
+
+5)
+
+B)
+
+SÉPTIMA ENMIENDA - 2022
+
+d)
+
+Los remolques especialmente diseñados para el transporte de muebles.
+
+e)
+
+Los remolques con uno o dos pisos para el transporte de animales, automóviles, ciclos, etc.
+
+f)
+
+Los remolques adaptados al transporte de determinadas mercancías, por ejemplo manufacturas
+de vidrio (lunas, etc.).
+
+g)
+
+Los remolques ferrocarril-carretera (intermodal) destinados principalmente a circular por carretera,
+pero diseñados para transportarlos en vagones especiales provistos de carriles guía.
+
+h)
+
+Los remolques con carriles para el transporte por carretera de vagones de ferrocarril.
+
+ij)
+
+Los remolques con plataforma baja y rampa de acceso para transportar material pesado (carros
+de combate, artefactos de elevación o explanación, transformadores eléctricos, etc.).
+
+k)
+
+Los trenes de rodadura con dos o cuatro ruedas para el transporte de estructuras de construcción,
+madera aserrada, etc.
+
+l)
+
+Los carretones para el transporte de madera en troncos.
+
+m)
+
+Los pequeños remolques para ciclos o motociclos.
+
+Los demás remolques, tales como:
+a)
+
+Los remolques especialmente preparados para el transporte de personas.
+
+b)
+
+Los remolques de ferias, excepto los de la partida 95.08.
+
+c)
+
+Los remolques preparados para la exposición o presentación de mercancías.
+
+d)
+
+Los remolques biblioteca.
+
+Los vehículos impulsados (arrastrados o empujados) a mano o con el pie.
+Se pueden citar como pertenecientes a este grupo:
+1)
+
+Las carretillas de manipulación de cualquier tipo, incluidas las especiales para determinadas industrias
+(industrias textiles, cerámicas, lácteas, etc.).
+
+2)
+
+Las carretillas, carretas y vehículos con caja, incluidos los de caja basculante.
+
+3)
+
+Las carretillas para alimentos que no tengan el carácter de artículos comprendidos en la partida
+94.03, de los tipos utilizados en las estaciones.
+
+4)
+
+Los carritos para recoger la basura.
+
+5)
+
+Los cochecitos chinos, vehículos ligeros para el transporte de personas.
+
+6)
+
+Los carritos con caja isotérmica para la venta de helados.
+
+7)
+
+Las carretillas de mano de cualquier tipo para transporte de mercancías; estos vehículos, de construcción ligera, suelen estar montados sobre ruedas con neumáticos.
+
+8)
+
+Los carretones (schlittes), especies de trineos dirigidos a mano para el transporte de madera en zonas
+montañosas.
+
+9)
+
+Los trineos (“kicksleds”) para el transporte de personas en las regiones subárticas, que se impulsan
+apoyando el pie sobre la nieve que cubre el suelo.
+
+Se excluyen de esta partida:
+a)
+
+Cubos de basura móviles (incluidos los de uso exterior) (p. ej., partida 39.24 o 73.23)
+
+NOTAS EXPLICATIVAS DEL SISTEMA ARMONIZADO
+
+1525
+
+SÉPTIMA ENMIENDA - 2022
+
+C)
+
+b)
+
+Los aparatos de ayuda para caminar conocidos como «andadores», constituidos generalmente de un
+marco de metal tubular equipado con tres o cuatro ruedas (algunas son giratorias), manijas y frenos
+de mano (partida 90.21).
+
+c)
+
+Los pequeños contenedores de ruedas (de cestería, de chapa, etc.), sin chasis (carros cesto, etc.),
+de los tipos utilizados en las tiendas y almacenes (régimen de la materia constitutiva).
+
+Los vehículos de tracción animal.
+Se clasifican en este grupo, principalmente:
+1)
+
+Las carrozas, cupés, calesas, simones y cabriolés.
+
+2)
+
+Los coches fúnebres.
+
+3)
+
+Los coches para carreras de caballos (sulkies).
+
+4)
+
+Los cestos para niños (tirados por asnos, cabras o ponis), que se utilizan en jardines públicos, plazas,
+etc.
+
+5)
+
+Los vehículos de reparto de cualquier tipo y los vehículos para mudanzas.
+
+6)
+
+Los carros de cualquier tipo y los volquetes.
+
+7) Los trineos.
+VEHÍCULOS COMBINADOS CON MÁQUINAS, APARATOS O ARTEFACTOS DE TRABAJO
+La clasificación de los conjuntos constituidos por un vehículo de esta partida en el que se han montado
+permanentemente máquinas, artefactos o aparatos, estará determinada por el elemento que dé el carácter
+esencial al conjunto. En consecuencia se clasifican en esta partida los conjuntos que deban el carácter esencial
+al propio vehículo. Por el contrario, se excluyen los conjuntos cuyo carácter esencial se deba a la máquina o
+aparato de trabajo que lleven.
+De lo que precede, resulta:
+I.
+
+Que se clasifican en esta partida los carros y remolques, aunque lleven cubas o cisternas, incluidos los
+que estén provistos, a título accesorio, de bombas para llenado o vaciado.
+
+II.
+
+Se excluyen, por ejemplo, de esta partida y se clasifican en la partida de las máquinas o aparatos de
+trabajo:
+a)
+
+Determinados conjuntos que consisten en aparatos de la partida 84.24 montados en carros o carretillas.
+
+b)
+
+Las máquinas, aparatos y artefactos montados en un simple chasis con ruedas y que puedan remolcarse, como por ejemplo, los grupos motobomba o motocompresor (partidas 84.13 u 84.14), las grúas
+y escalas móviles (partidas 84.26 u 84.28).
+
+c)
+
+Determinados tipos de hormigoneras (partida 84.74).
+PARTES
+
+Esta partida comprende igualmente las partes de los vehículos precitados, siempre que satisfagan las
+dos condiciones siguientes:
+1º) Que sean identificables como destinadas exclusiva o principalmente a estos vehículos.
+2º) Que no estén excluidas en virtud de las Notas de la Sección XVII (véanse igualmente las Consideraciones
+generales y las Notas explicativas correspondientes).
+Entre estas partes, se pueden citar:
+
+NOTAS EXPLICATIVAS DEL SISTEMA ARMONIZADO
+
+1526
+
+SÉPTIMA ENMIENDA - 2022
+
+1)
+
+Los chasis y sus partes.
+
+2)
+
+Los ejes.
+
+3)
+
+Las carrocerías y sus partes.
+
+4)
+
+Las ruedas y sus partes, de madera o metal, incluidas las que lleven neumáticos.
+
+5)
+
+Los sistemas de enganche.
+
+6)
+
+Los dispositivos de frenado y sus partes.
+
+7)
+
+Las varas, pértigas o lanzas y otras piezas de carrocería.
+
+Finalmente, se recuerda que el material para deportes de invierno, tal como los trineos, bobsleighs, etc.,
+se clasifica en la partida 95.06.
+--------------------------
+
+NOTAS EXPLICATIVAS DEL SISTEMA ARMONIZADO
+
+1527
+
+SÉPTIMA ENMIENDA - 2022
+
+CAPÍTULO 88
+AERONAVES, VEHÍCULOS ESPACIALES, Y SUS PARTES
+Nota de subpartida.
+1.
+
+En este Capítulo, se entiende por aeronave no tripulada cualquier aeronave, distinta de las de la partida
+88.01, diseñada para vuelos sin piloto a bordo. Pueden estar diseñadas para transportar una carga útil
+o estar equipadas con cámaras digitales u otros dispositivos integrados permanentemente, para realizar
+funciones de utilidad durante su vuelo.
+Sin embargo, la expresión aeronave no tripulada no comprende los juguetes voladores, diseñados exclusivamente para fines recreativos (partida 95.03).
+
+Notas de subpartida.
+1.
+
+En las subpartidas 8802.11 a 8802.40, la expresión peso en vacío se refiere al peso de los aparatos en
+orden normal de vuelo, excepto el peso de la tripulación, del carburante y del equipo distinto del que está
+fijo en forma permanente.
+
+2.
+
+Para la aplicación de las subpartidas 8806.21 a 8806.24 y 8806.91 a 8806.94, se entiende por peso máximo
+de despegue, el peso máximo de los aparatos en orden normal de vuelo en el despegue, incluido el peso
+de la carga útil, el equipo y el carburante.
+CONSIDERACIONES GENERALES
+
+Este Capítulo comprende los globos y dirigibles y los vehículos aéreos que no estén diseñados para la propulsión con motor (partida 88.01), los demás vehículos aéreos, los vehículos espaciales (incluidos los satélites) y
+sus vehículos de lanzamiento (partida 88.02), así como el material afín, tal como los paracaídas (partida 88.04),
+los aparatos y dispositivos para el lanzamiento de aeronaves o el aterrizaje en portaaviones y los simuladores
+de vuelo (partida 88.05). Este Capítulo comprende igualmente las partes y accesorios identificables como exclusiva o principalmente destinados a los vehículos que comprende, siempre que no estén excluidos por las
+Notas de la Sección XVII (véanse las Consideraciones generales de esta Sección).
+Este Capítulo comprende los aparatos incompletos o sin acabar (por ejemplo, un vehículo aéreo sin los
+órganos motores o cuyo equipo interior esté sin acabar), siempre que presente las características esenciales
+de los aparatos completos.
+88.01
+
+Globos y dirigibles; planeadores, alas planeadoras y demás aeronaves, no propulsados con
+motor.
+I. GLOBOS Y DIRIGIBLES
+
+Este grupo se refiere a los aparatos de navegación aérea más ligeros que el aire, cualquiera que sea el uso
+a que se destinan (militar, deportivo, científico, publicitario, etc.). Se clasifican, pues, aquí los globos libres y
+los globos cautivos (retenidos al suelo por un cable), así como los dirigibles, que son aerostatos arrastrados
+por un órgano motor.
+Se clasifican también aquí los globos de los tipos siguientes, empleados por los servicios aeronáuticos o
+meteorológicos:
+1)
+
+Los globos sonda, utilizados para elevar a gran altura aparatos de radiosondeo. Algunos globos sonda
+pesan hasta 4.500 g pero el peso habitual varía de 350 g a 1.500 g.
+
+2)
+
+Los globos piloto, que se lanzan para conocer la velocidad y la dirección del viento. Pesan generalmente
+de 50 g a 100 g.
+
+3)
+
+Los globitos llamados de techo, más pequeños que los artículos precedentes (peso: de 4 g a 30 g) que
+se utilizan para determinar la velocidad de las nubes.
+Los globos y globitos utilizados en meteorología se fabrican, en la mayoría de los casos, con caucho muy
+
+NOTAS EXPLICATIVAS DEL SISTEMA ARMONIZADO
+
+1528
+
+SÉPTIMA ENMIENDA - 2022
+
+delgado de una calidad muy cuidada que permita una dilatación considerable. Están excluidos los globos para
+niños (partida 95.03). Se caracterizan por su inferior calidad, por tener el cuello para inflarlos más corto y, generalmente, por la presencia de inscripciones publicitarias o impresiones decorativas.
+II. PLANEADORES Y ALAS PLANEADORAS
+Los planeadores son artefactos más pesados que el aire que evolucionan utilizando las corrientes atmosféricas. Sin embargo, los planeadores con motor o diseñados para montarle un motor se clasifican en la
+partida 88.02.
+Entre las alas planeadoras se incluyen las alas delta que permiten a una o dos personas, suspendidas
+por arneses, realizar ciertas maniobras aéreas. El ala está constituida por un tejido tenso extendido sobre una
+estructura rígida, normalmente tubular y de metal, que incorpora en el centro una barra horizontal de dirección.
+Otros tipos de alas planeadoras tienen otra forma, pero su comportamiento aerodinámico y su estructura es
+análogo al de las alas delta.
+III. LAS DEMÁS AERONAVES NO CONCEBIDAS PARA LA PROPULSIÓN CON MOTOR
+Se clasifican principalmente en este grupo las cometas que son artefactos más pesados que el aire, sin
+máquina propulsora. Están unidos al suelo por un cable del mismo modo que los globos cautivos y pueden
+utilizarse, por ejemplo, para el transporte de instrumentos meteorológicos.
+Se excluyen las cometas que tengan manifiestamente el carácter de juguetes (partida 95.03).
+Se excluyen además de esta partida las maquetas y modelos reducidos utilizados, por ejemplo, para la
+decoración (por ejemplo, partida 44.20 u 83.06), para demostración (partida 90.23), como juguetes o para
+entretenimiento (partida 95.03).
+88.02
+
+Las demás aeronaves (por ejemplo: helicópteros, aviones), excepto las aeronaves no tripuladas
+de la partida 88.06; vehículos espaciales (incluidos los satélites) y sus vehículos de lanzamiento
+y vehículos suborbitales.
+-
+
+Helicópteros:
+
+8802.11 - - De peso en vacío inferior o igual a 2.000 kg
+8802.12 - - De peso en vacío superior a 2.000 kg
+8802.20 8802.30 -
+
+Aviones y demás aeronaves, de peso en vacío inferior o igual a 2.000 kg
+Aviones y demás aeronaves, de peso en vacío superior a 2.000 kg pero inferior o igual
+a 15.000 kg
+
+8802.40 -
+
+Aviones y demás aeronaves, de peso en vacío superior a 15.000 kg
+
+8802.60 -
+
+Vehículos espaciales (incluidos los satélites) y sus vehículos de lanzamiento y vehículos
+suborbitales
+
+Esta partida comprende:
+1)
+
+Los vehículos aéreos más pesados que el aire que funcionan con una máquina propulsora. Entre ellos
+se pueden citar los aviones (terrestres o anfibios) y los hidroaviones, así como los autogiros(en los que
+el rotor o rotores giran libremente alrededor de ejes verticales) y los helicópteros (en los que el rotor o
+rotores son arrastrados por un órgano motor).
+Estos aparatos pueden utilizarse, por ejemplo, con fines militares, para el transporte de personas o de
+mercancías, entrenamiento, fotografía aérea, trabajos agrícolas, salvamento, lucha contra incendios, observación meteorológica u otras misiones científicas.
+Quedan comprendidos en esta partida los aparatos radiodirigidos desde el suelo o desde otro aparato
+aéreo, así como los aviones especialmente constituidos para utilizarlos también como vehículos terrestres.
+
+2)
+
+Los vehículos espaciales, que son artefactos que pueden desplazarse en el espacio situado más allá de
+la atmósfera terrestre (por ejemplo, satélites para comunicaciones o meteorología).
+
+NOTAS EXPLICATIVAS DEL SISTEMA ARMONIZADO
+SÉPTIMA ENMIENDA - 2022
+
+1529
+
+3)
+
+Los vehículos de lanzamiento para vehículos espaciales, que son artefactos cuya misión consiste en
+colocar una carga útil dada en una trayectoria que constituya una órbita terrestre (lanzadores de satélites)
+o que caiga bajo la influencia de un campo de atracción distinto del campo terrestre (lanzadores espaciales).
+Estos artefactos permiten comunicar a la carga, al final de la propulsión, una velocidad terminal superior a
+7.000 m/s.
+
+4)
+
+Los vehículos de lanzamiento de cargas útiles suborbitales que siguen una trayectoria parabólica y
+llevan, generalmente, más allá de la atmósfera terrestre instrumentación científica o técnica, que puede ser
+recuperado en forma de carga útil. En el caso de que se libere carga útil, estos vehículos no alcanzan una
+velocidad terminal superior a 7.000 m/s. La carga útil cae a la superficie terrestre normalmente por medio
+de un paracaídas.
+
+Por el contrario, se excluyen de esta partida lo cohetes de combate, los misiles dirigidos tales como los
+misiles balísticos y los ingenios de guerra similares que no comunican a la carga útil una velocidad terminal
+superior a 7.000 m/s (partida 93.06). Lanzan pertrechos de guerra, por ejemplo: explosivos, municiones, agentes
+químicos, que después de seguir una trayectoria parabólica impactan sobre el blanco.
+También se excluyen de esta partida:
+a)
+
+Las maquetas y modelos reducidos, aunque no estén construidos a escala, que se utilizan, por ejemplo,
+para la decoración (por ejemplo, partidas 44.20 u 83.06) o exclusivamente con fines de demostración
+(partida 90.23).
+
+b)
+
+Los juguetes o modelos reducidos para entretenimiento (partida 95.03).
+
+[88.03]
+88.04
+
+Paracaídas, incluidos los dirigibles, planeadores (parapentes) o de aspas giratorias; sus partes
+y accesorios.
+
+Se clasifican aquí los paracaídas que se utilizan para el descenso de personas, de equipos o de material
+militar, de instrumentos de meteorología, cohetes iluminadores, etc., así como para frenar los aviones de reacción. Según el uso al que se destinan, estos paracaídas son de diversos tamaños y pueden fabricarse de seda
+o de fibras textiles sintéticas, lino, algodón, papel, etc.
+El tipo convencional de paracaídas utilizado por los paracaidistas comprende normalmente en la parte
+superior un paracaídas extractor de dimensiones reducidas cuya abertura se produce por tracción de un puño
+de mando. El paracaídas extractor obliga a desplegarse al paracaídas principal al que están fijados cierto
+número de suspensores. Estos consisten en cordajes reunidos hacia abajo en dos o más cinchas unidas
+al arnés que lleva el paracaidista, que es un conjunto de correas con hebillas y mosquetones. El paracaídas
+extractor, el principal y los suspensores están cuidadosamente plegados en un saco que se abre cuando se
+acciona el puño de mando.
+Esta partida comprende también los paracaídas planeadores (parapentes) concebidos para lanzarse uno
+mismo desde la ladera de una montaña, un acantilado, etc., constituidos por un velamen plegable, cordaje de
+suspensión para dirigirlo en las corrientes de aire y un arnés para el piloto.
+Sin embargo, su similitud con los paracaídas no se extiende al comportamiento aerodinámico; en ciertas
+condiciones y si las corrientes de aire lo permiten, los paracaídas planeadores (parapentes) pueden seguir
+trayectorias ascendentes.
+Se clasifican también en esta partida los paracaídas de aspas giratorias, son unos aparatos de alas
+giratorias utilizados en meteorología para la recuperación de instrumentos de radiosondeo lanzados mediante
+un cohete.
+Se clasifican también en esta partida las partes y accesorios de paracaídas, tales como el saco, los arneses
+y los marcos con muelles mecánicos para que funcione el paracaídas extractor, así como las partes y accesorios
+de los paracaídas giratorios.
+
+NOTAS EXPLICATIVAS DEL SISTEMA ARMONIZADO
+
+1530
+
+SÉPTIMA ENMIENDA - 2022
+
+88.05
+
+Aparatos y dispositivos para lanzamiento de aeronaves; aparatos y dispositivos para aterrizaje
+en portaaviones y aparatos y dispositivos similares; aparatos de entrenamiento de vuelo en
+tierra; sus partes.
+8805.10
+
+-
+
+Aparatos y dispositivos para lanzamiento de aeronaves y sus partes; aparatos y dispositivos para aterrizaje en portaaviones y aparatos y dispositivos similares, y sus partes
+
+-
+
+Aparatos de entrenamiento de vuelo en tierra y sus partes:
+
+8805.21 - - Simuladores de combate aéreo y sus partes
+8805.29 - - Los demás
+Esta partida comprende tres grupos de aparatos bien diferenciados:
+A)
+
+Los aparatos y dispositivos para el lanzamiento de vehículos aéreos.
+Estos aparatos, empleados generalmente a bordo de barcos, llevan una rampa metálica que guía el curso
+del avión a la salida. Los impulsos y aceleraciones necesarios para el vuelo se producen mediante aire
+comprimido, vapor, explosión de un cartucho, etc., sobre un carretón o un émbolo al que está fijo el aparato
+que se lanza.
+No se clasifican en esta partida:
+
+B)
+
+a)
+
+Los tornos mecánicos que se utilizan para el lanzamiento de planeadores (partida 84.25)
+
+b)
+
+Las rampas y torres de lanzamiento de cohetes, cuyo papel es el de dirigir el despegue y no el de
+lanzar los que se elevan por sus propios medios (partida 84.79).
+
+Los aparatos y dispositivos para el aterrizaje en portaaviones y aparatos y dispositivos similares.
+Estos aparatos, que se utilizan en los portaaviones pero también en algunos aeropuertos, se utilizan para
+frenar el avión en el momento del aterrizaje con objeto de reducir la longitud de la pista necesaria para la
+detención completa del vehículo.
+Sin embargo, esta partida no comprende los demás dispositivos, tales como los dispositivos de seguridad
+(por ejemplo, redes).
+
+C)
+
+Los aparatos de entrenamiento de vuelo en tierra.
+Entre los aparatos que se utilizan para la enseñanza y entrenamiento de los pilotos, se pueden citar:
+1)
+
+Los aparatos de entrenamiento de vuelo en tierra accionados electrónicamente. Las condiciones
+de vuelo se simulan con aparatos electrónicos. Éstos calculan y reproducen en los mandos e instrumentos de a bordo de la cabina las indicaciones que resultan de las maniobras del piloto para unas
+condiciones dadas de vuelo. Por simuladores de combate aéreo se entiende cualquier sistema
+electrónico o mecánico para entrenar a pilotos simulando las condiciones del combate aéreo.
+Los aparatos de entrenamiento de vuelo en tierra montados en vehículos automóviles o en remolques
+se clasifican respectivamente en las partidas 87.05 u 87.16 (véase, sin embargo, la Nota explicativa
+de esta última partida).
+
+2)
+
+Los aparatos, llamados link trainer, que constan generalmente de una pequeña cabina que gira
+sobre un basamento y está equipada del mismo modo que la cabina de un avión y ofrece al alumno
+la posibilidad de efectuar todas la maniobras requeridas para un vuelo real.
+PARTES
+
+Esta partida comprende igualmente las partes de los artefactos y aparatos contemplados anteriormente,
+siempre que, sin embargo, estas partes satisfagan las dos condiciones siguientes:
+1º) Que sean identificables como exclusiva o principalmente destinadas a dichos artefactos y aparatos.
+
+NOTAS EXPLICATIVAS DEL SISTEMA ARMONIZADO
+SÉPTIMA ENMIENDA - 2022
+
+1531
+
+2º) Que no estén excluidas por las Notas de la Sección XVII (véanse igualmente las Consideraciones generales
+y las Notas explicativas correspondientes).
+Por el contrario, se excluyen los artefactos cuya función principal sea la de registrar las reacciones humanas
+en condiciones difíciles (aceleraciones elevadas, enrarecimiento del oxígeno, etc.). Estos aparatos (columpios
+o bancos de ensayo para pilotos de aviones supersónicos) tienen el carácter de aparatos de sicotecnia y se
+clasifican en la partida 90.19.
+Los aparatos que no estén diseñados especialmente para entrenamiento en vuelo de los pilotos, sino para
+la enseñanza general de las tripulaciones (por ejemplo, modelos agrandados de giroscopios) se clasifican en
+la partida 90.23.
+88.06
+
+Aeronaves no tripuladas.
+8806.10 -
+
+Diseñadas para el transporte de pasajeros
+Las demás, únicamente diseñadas para ser teledirigidas:
+
+8806.21 - - Con un peso máximo de despegue inferior o igual a 250 g
+8806.22 - - Con un peso máximo de despegue superior a 250 g pero inferior o igual a 7 kg
+8806.23 - - Con un peso máximo de despegue superior a 7 kg pero inferior o igual a 25 kg
+8806.24 - - Con un peso máximo de despegue superior a 25 kg pero inferior o igual a 150 kg
+8806.29 - - Las demás
+-
+
+Las demás:
+
+8806.91 - - Con un peso máximo de despegue inferior o igual a 250 g u
+8806.92 - - Con un peso máximo de despegue superior a 250 g pero inferior o igual a 7 kg
+8806.93 - - Con un peso máximo de despegue superior a 7 kg pero inferior o igual a 25 kg
+8806.94 - - Con un peso máximo de despegue superior a 25 kg pero inferior o igual a 150 kg
+8806.99 - - Las demás
+Un vehículo aéreo no tripulado (VANT), UAV (del inglés Unmanned Aerial Vehicle), más apropiadamente
+RPAS (del inglés Remotely Piloted Aircraft System), comúnmente conocido como dron, hace referencia a una
+aeronave que vuela sin tripulación, la cual ejerce su función remotamente. Un VANT es un vehículo sin tripulación,
+reutilizable, capaz de mantener de manera autónoma un nivel de vuelo controlado y sostenido, y propulsado
+por un motor de explosión, eléctrico o de reacción.
+88.07
+
+Partes de los aparatos de las partidas 88.01, 88.02 u 88.06.
+8807.10 -
+
+Hélices y rotores, y sus partes
+
+8807.20 -
+
+Trenes de aterrizaje y sus partes
+
+8807.30 -
+
+Las demás partes de aviones, helicópteros o aeronaves no tripuladas
+
+8807.90 -
+
+Las demás
+
+Esta partida comprende las partes de los aparatos de las partidas 88.01, 88.02 u 88.06, siempre que, sin
+embargo, estas partes satisfagan las dos condiciones siguientes:
+1º) Que sean identificables como exclusiva o principalmente destinadas a los aparatos de las partidas precitadas.
+2º) Que no estén excluidas por las Notas de la Sección XVII (véanse igualmente las Consideraciones generales
+y las Notas explicativas correspondientes).
+Entre estas partes se pueden citar:
+I.
+
+Las partes de globos y dirigibles, tales como:
+1)
+
+Las barquillas.
+
+2)
+
+Las envolturas y sus partes (fuselajes y paneles).
+
+NOTAS EXPLICATIVAS DEL SISTEMA ARMONIZADO
+
+1532
+
+II.
+
+SÉPTIMA ENMIENDA - 2022
+
+3)
+
+Los círculos de carga.
+
+4)
+
+Los balones compensadores.
+
+5)
+
+Las estructuras rígidas y sus secciones.
+
+6)
+
+Los estabilizadores y los planos de gobierno.
+
+7)
+
+Las hélices de dirigibles.
+
+Las partes de vehículos aéreos, incluidos los planeadores y cometas, tales como:
+1)
+
+Los fuselajes y los cascos; las secciones de fuselaje y del casco, así como las partes exteriores
+(cúpulas o conos traseros del fuselaje, capós de carenado, paneles, tabiques, compartimentos de
+equipajes, tableros de a bordo, cuadernas, puertas, mangas y toboganes de evacuación, ventanas,
+ojos de buey, etc.).
+
+2)
+
+Las alas y sus elementos (largueros, costillas o traveseros).
+
+3)
+
+Los alerones, móviles o no (estabilizadores, alerones, deflectores, timones de profundidad y de dirección, estabilizadores, servoaletas, etc.).
+
+4)
+
+Las barquillas, capós, barquillas ahusadas y mástiles de fijación para reactores.
+
+5)
+
+Los trenes de aterrizaje (incluidos los frenos y los ensamblados de frenos) y los dispositivos para
+ocultarlos; las ruedas (con neumáticos o sin ellos); los esquís de aterrizaje.
+
+6)
+
+Los flotadores de hidroaviones.
+
+7)
+
+Las hélices, los rotores de helicópteros y de autogiros; las palas de hélices y de rotores; los dispositivos
+de reglaje del paso de las hélices o de los rotores.
+
+8)
+
+Las palancas de mando: pedal del estabilizador vertical y palancas de mando para maniobras diversas.
+
+9)
+
+Depósitos de combustible, incluidos los depósitos lanzables.
+--------------------------
+
+NOTAS EXPLICATIVAS DEL SISTEMA ARMONIZADO
+
+1533
+
+SÉPTIMA ENMIENDA - 2022
+
+CAPÍTULO 89
+BARCOS Y DEMÁS ARTEFACTOS FLOTANTES
+Nota.
+1.
+
+Los barcos incompletos o sin terminar y los cascos de barcos, aunque se presenten desmontados o sin
+montar, así como los barcos completos desmontados o sin montar, se clasifican en la partida 89.06 en caso
+de duda respecto de la clase de barco a que pertenecen.
+CONSIDERACIONES GENERALES
+
+Este Capítulo comprende los barcos de cualquier tipo y para cualquier uso, de propulsión mecánica o no,
+así como diversos artefactos flotantes tales como cajones, cofres de amarre, embarcaderos o boyas. Comprende también los vehículos de cojín de aire (aerodeslizadores) diseñados para desplazarse sobre el agua (mar,
+estuarios, lagos), incluso si pueden aterrizar en las playas o desembarcaderos o desplazarse también sobre
+superficies heladas (véase la Nota 5 de la Sección XVII).
+Están igualmente comprendidos en este Capítulo:
+A)
+
+Los barcos incompletos o sin terminar como, por ejemplo, los barcos sin las máquinas propulsoras, sin los
+instrumentos de navegación, sin los artefactos de elevación y de manipulación o sin los muebles.
+
+B)
+
+Los cascos, cualquiera que sea la materia de la que estén constituidos.
+
+Los barcos incompletos o sin terminar y los cascos, montados o sin montar, así como los barcos completos
+desmontados, se clasifican como barcos, según su clase y las características que presenten o en la partida
+89.06, en caso de duda respecto de la clase de barco a que pertenecen.
+Sin embargo, debe observarse que, contrariamente a las disposiciones relativas al material de transporte
+de los demás Capítulos de la Sección XVII, todas las partes (excepto los cascos) y accesorios de los barcos
+y artefactos flotantes, presentados aisladamente, sean o no identificables como tales, se excluyen de este
+Capítulo y siguen en todos los casos su propio régimen. Este es el caso, por ejemplo, de:
+1)
+
+Las partes y accesorios especificados en la Nota 2 de la Sección XVII.
+
+2)
+
+Los remos, zaguales y canaletes, de madera (partida 44.21).
+
+3)
+
+Los cables y cordajes de materia textil (partida 56.07).
+
+4)
+
+Las velas (partida 63.06).
+
+5)
+
+Los mástiles, escotillas, bordas y partes del casco que presenten las características de construcciones
+metálicas de la partida 73.08.
+
+6)
+
+Los cables de hierro o de acero (partida 73.12).
+
+7)
+
+Las anclas de fundición, hierro o acero (partida 73.16).
+
+8)
+
+Las hélices y las ruedas de álabes (partida 84.87).
+
+9)
+
+Los aparatos de timonería o de gobierno para barcos (partida 84.79), excepto los timones propiamente
+dichos (partidas 44.21, 73.25, 73.26, etc., según los casos).
+También se excluyen de este Capítulo:
+
+a)
+
+Las maquetas de barcos utilizadas con fines decorativos (por ejemplo, carabelas y demás barcos de vela)
+(partida 44.20, 83.06, etc.).
+
+b)
+
+Los modelos de demostración y las maquetas de la partida 90.23.
+
+NOTAS EXPLICATIVAS DEL SISTEMA ARMONIZADO
+
+1534
+
+SÉPTIMA ENMIENDA - 2022
+
+c)
+
+Los torpedos, minas y municiones similares (partida 93.06).
+
+d)
+
+Los vehículos en forma de barcos para el entretenimiento de los niños y demás artículos que tengan el
+carácter de juguetes (partida 95.03).
+
+e)
+
+Los esquís náuticos y artefactos similares (partida 95.06).
+
+f)
+
+Las barquillas para montar en columpios o utilizadas en otras atracciones de feria (partida 95.08).
+
+g)
+
+Los objetos de antigüedad que tengan más de cien años (partida 97.06).
+
+Los vehículos automóviles anfibios y los vehículos de cojín de aire que puedan desplazarse indiferentemente por tierra firme y por ciertas superficies de agua (pantanos, etc.) se clasifican como vehículos automóviles
+(Capítulo 87); los hidroaviones se clasifican en la partida 88.02.
+89.01
+
+Transatlánticos, barcos para excursiones (de cruceros), transbordadores, cargueros, gabarras
+(barcazas) y barcos similares para transporte de personas o mercancías.
+8901.10 -
+
+Transatlánticos, barcos para excursiones (de cruceros) y barcos similares diseñados
+principalmente para transporte de personas; transbordadores
+
+8901.20 -
+
+Barcos cisterna
+
+8901.30 -
+
+Barcos frigorífico, excepto los de la subpartida 8901.20
+
+8901.90 -
+
+Los demás barcos para transporte de mercancías y demás barcos diseñados para transporte mixto de personas y mercancías
+
+Esta partida comprende todos los barcos para el transporte de personas o de mercancías, en la navegación
+marítima o en la navegación interior (por ejemplo, en lagos, canales, ríos y estuarios), con excepción de las
+embarcaciones de la partida 89.03 y de los barcos de salvamento que no sean de remos, de los navíos para
+el transporte de tropas y de los navíos hospital (partida 89.06).
+Se clasifican principalmente en esta partida:
+1)
+
+Los transatlánticos y barcos para excursiones (de cruceros).
+
+2)
+
+Los transbordadores utilizados tanto para el transporte de trenes de viajeros o de mercancías como para
+el transporte de vehículos automóviles; las barcazas de cualquier clase.
+
+3)
+
+Los barcos cisterna (petroleros, metaneros, vinateros, etc.).
+
+4)
+
+Los barcos frigoríficos para el transporte de carne, frutas, etc.
+
+5)
+
+Los cargueros de cualquier clase (distintos de los barcos cisterna y de los barcos frigoríficos), especializados
+o no en el transporte de ciertas mercancías. Entre éstos se pueden citar, por ejemplo, los barcos para el
+transporte de minerales y otros barcos para el transporte de graneles (por ejemplo, para el transporte de
+cereales o de carbón), los barcos para contenedores, los barcos portabarcazas.
+
+6)
+
+Las chalanas, gabarras (barcazas), lanchas, pontones (especie de embarcaciones planas para el transporte
+de mercancías y eventualmente de personas).
+
+7)
+
+Los hidrodeslizadores, los hidrópteros y hovercrafts (aerodeslizadores).
+
+89.02
+
+Barcos de pesca; barcos factoría y demás barcos para la preparación o la conservación de los
+productos de la pesca.
+
+Esta partida comprende los barcos de pesca de cualquier tipo proyectados para la pesca profesional en el
+mar o en aguas interiores, con exclusión, sin embargo, de los barcos de remo de la partida 89.03, utilizados
+para la pesca. Se pueden citar, a título de ejemplo, las traineras y atuneros.
+Se clasifican igualmente en esta partida los barcos factoría para la fabricación de conservas de pescado, etc.
+
+NOTAS EXPLICATIVAS DEL SISTEMA ARMONIZADO
+SÉPTIMA ENMIENDA - 2022
+
+1535
+
+Los barcos de pesca susceptibles de utilizarse para cruceros o excursiones, principalmente durante la
+temporada turística, se clasifican también aquí.
+Por el contrario, los barcos para la pesca deportiva se clasifican en la partida 89.03.
+89.03
+
+Yates y demás barcos y embarcaciones de recreo o deporte; barcas (botes) de remo y canoas.
+-
+
+Embarcaciones inflables, incluso con casco rígido:
+
+8903.11 - - Equipadas o diseñadas para equiparlas con motor, de peso en vacío, sin motor, inferior
+o igual a 100 kg
+8903.12 - - No diseñadas para ser utilizadas con motor y de peso en vacío inferior o igual a 100 kg
+8903.19 - - Las demás
+-
+
+Barcos de vela, distintos de los inflables, incluso con motor auxiliar:
+
+8903.21 - - De longitud inferior o igual a 7,5 m
+8903.22 - - De longitud superior a 7,5 m pero inferior o igual a 24 m
+8903.23 - - De longitud superior o igual a 24 m
+-
+
+Barcos de motor, distintos de los inflables, excepto los de motor fueraborda:
+
+8903.31 - - De longitud inferior o igual a 7,5 m
+8903.32 - - De longitud superior a 7,5 m pero inferior o igual a 24 m
+8903.33 - - De longitud superior a 24m
+-
+
+Los demás:
+
+8903.93 - - De longitud inferior o igual a 7,5 m:
+8903.99 - - Los demás
+Se clasifican aquí todos los barcos destinados a la navegación de placer o deportiva, así como todas las
+embarcaciones de remo y las canoas.
+Se pueden citar, a título de ejemplo, los yates, las motos acuáticas y demás embarcaciones de vela o de
+motor, botes, piraguas, yolas, kayacs, esquifes, pedalos, los barcos para la pesca deportiva, las embarcaciones
+inflables y las embarcaciones plegables o desmontables.
+Se clasifican también en esta partida los botes salvavidas de remo (los demás barcos de salvamento se
+clasifican en la partida 89.06).
+Se excluyen además de esta partida las planchas de vela (partida 95.06).
+Nota explicativa de subpartida.
+Los motores fueraborda se describen en la Nota explicativa de la partida 84.07.
+89.04
+
+Remolcadores y barcos empujadores.
+
+Esta partida comprende:
+A.
+
+Los remolcadores, que son barcos especialmente proyectados para la tracción de otras unidades. Pueden
+ser del tipo utilizado en el mar o para la navegación interior y se diferencian de las demás embarcaciones
+por su aspecto peculiar, el casco reforzado de forma especial, las potentes máquinas motrices y por los
+diversos equipos del puente para la manipulación y enganche de los cables, amarras, etc.
+
+B.
+
+Los barcos empujadores, que son barcos especialmente proyectados para empujar barcazas y gabarras
+principalmente. Se caracterizan especialmente por la proa plana diseñada para empujar, así como por la
+posición especialmente elevada del puente de mando que puede ser telescópico.
+
+Se incluyen también en esta partida los barcos proyectados al mismo tiempo como remolcadores y
+empujadores; como los barcos empujadores, estas embarcaciones tienen la proa plana, pero la popa está
+preparada de tal modo que pueden también remolcar en ese sentido por medio de cables.
+Los remolcadores proyectados para ayudar a los barcos en peligro están también clasificados aquí.
+
+NOTAS EXPLICATIVAS DEL SISTEMA ARMONIZADO
+
+1536
+
+SÉPTIMA ENMIENDA - 2022
+
+Los barcos de esta partida no están proyectados para el transporte de personas o de mercancías. Pueden
+estar equipados accesoriamente con aparatos especiales de bombeo, de lucha contra incendios, de calentado,
+etc. Sin embargo, los barcos bomba se clasifican en la partida 89.05.
+89.05
+
+Barcos faro, barcos bomba, dragas, pontones grúa y demás barcos en los que la navegación
+sea accesoria en relación con la función principal; diques flotantes; plataformas de perforación
+o explotación, flotantes o sumergibles.
+8905.10 -
+
+Dragas
+
+8905.20 -
+
+Plataformas de perforación o explotación, flotantes o sumergibles
+
+8905.90 -
+
+Los demás
+
+Esta partida comprende:
+A)
+
+Los barcos faro, barcos bomba, dragas, pontones grúa y demás barcos en los que la navegación
+sea accesoria en relación con la función principal.
+Entre estos barcos, que son generalmente estacionarios cuando realizan su función, se pueden citar: los
+barcos faro, los barcos para perforaciones, los barcos bomba, las dragas de cualquier tipo (de cangilones,
+aspiradoras, etc.), los barcos elevadores para poner a flote los barcos hundidos, los barcos boya para
+salvamento, los batiscafos, los pontones con artefactos de elevación o de manipulación (derricks, grúas,
+elevadores de granos, etc.) montados en pontones, así como los pontones manifiestamente proyectados
+para servir de basamento a estos artefactos.
+Los barcos vivienda, los barcos lavadero y los molinos flotantes pertenecen también a este grupo.
+
+B)
+
+Los diques flotantes.
+Los diques flotantes son verdaderos talleres flotantes que sustituyen a los diques secos de los puertos.
+Constan de un cajón cuya sección transversal tiene generalmente la forma de U. Gracias al relleno de lastre
+de que están provistos, se sumergen parcialmente para la entrada de los navíos para reparar. También
+pueden remolcarse.
+Otros tipos de diques flotantes que funcionan de modo análogo están equipados, además, de potentes
+órganos motores que permite su propio desplazamiento. Se utilizan entonces para reparaciones de vehículos anfibios u otras embarcaciones a las que transportan.
+
+C)
+
+Las plataformas de perforación o explotación, flotantes o sumergibles.
+Están generalmente proyectadas para la investigación o la explotación de yacimientos de petróleo o de
+gas natural. Estas plataformas llevan, independientemente del material necesario para la perforación o la
+explotación, tal como derricks, grúas, bombas, unidades de cimentación, silos, etc., locales para alojar al
+personal.
+Estas plataformas, remolcadas o eventualmente autopropulsadas hasta el lugar de explotación, pueden a
+veces desplazarse por flotación hacia otro lugar de trabajo y pertenecen a uno de los grupos siguientes:
+1)
+
+Plataformas autoelevadoras que comprenden, independientemente de la propia plataforma de trabajo, instalaciones (cascos, cajones, etc.) que le permiten flotar y pilares retráctiles que en el lugar de
+trabajo descienden para apoyarse en el fondo submarino y elevar la plataforma de trabajo por encima
+del nivel del agua.
+
+2)
+
+Plataformas sumergibles cuya infraestructura está sumergida en los lugares de trabajo para que
+los cajones lastre se apoyen en el fondo con el fin de mantener una gran estabilidad en la plataforma
+de trabajo mantenida por encima del nivel del agua. Los cajones lastre pueden estar equipados con
+faldones o pilares que se hunden más o menos profundamente en el fondo.
+
+3)
+
+Plataformas semisumergibles, análogas a las plataformas sumergibles, pero de las que se diferencian
+por el hecho de que la parte sumergida no se apoya en el fondo. Estas plataformas se mantienen en
+posición fija durante el trabajo por medio de líneas de anclaje o dinámicamente.
+
+NOTAS EXPLICATIVAS DEL SISTEMA ARMONIZADO
+SÉPTIMA ENMIENDA - 2022
+
+1537
+
+Las plataformas fijas para la investigación o la explotación de yacimientos submarinos de petróleo o de
+gas natural, que no son ni flotantes ni sumergibles, se excluyen de esta partida (partida 84.30).
+También se excluyen de esta partida las barcazas y los transbordadores (partida 89.01), los barcos
+factoría para el tratamiento de los productos de la pesca (partida 89.02) y los buques cableros y las fragatas
+meteorológicas (partida 89.06).
+89.06
+
+Los demás barcos, incluidos los navíos de guerra y barcos de salvamento excepto los remo.
+8906.10 -
+
+Navíos de guerra
+
+8906.90 -
+
+Los demás
+
+Esta partida comprende todos los barcos que no estén comprendidos más específicamente en las partidas
+89.01 a 89.05.
+Entre éstos se pueden citar:
+1)
+
+Los navíos de guerra de cualquier tipo entre los cuales se pueden distinguir:
+a)
+
+Las embarcaciones proyectadas para el combate, armadas con diversas armas ofensivas y defensivas, llevan dispositivos de protección contra los proyectiles (blindajes o tabiques estancos múltiples,
+principalmente) o los artefactos sumergidos (protección antimagnética contra las minas). Además están
+generalmente equipadas con dispositivos de detección y de escucha, tales como radares, sonares,
+aparatos de detección de infrarrojos, así como materiales para la creación de perturbaciones en las
+emisiones de radio.
+Las embarcaciones de esta categoría difieren además de los buques comerciales por la rapidez y
+movilidad generalmente superiores, por la importancia de la tripulación, por el volumen de las bodegas
+de combustible y la presencia de bodegas especiales preparadas para el transporte y utilización de
+las municiones en el mar.
+
+b)
+
+Algunas embarcaciones especialmente preparadas que, aunque no llevan ni armamento ni blindaje,
+son identificables como exclusiva o principalmente destinadas a operaciones de guerra, tales como
+barcazas de desembarco, embarcaciones auxiliares (para el transporte de municiones o de minas,
+etc.) o navíos para el transporte de tropas.
+
+c)
+
+Los submarinos.
+
+2)
+
+Las embarcaciones que se utilizan para ciertos servicios oficiales (por ejemplo, aduana o policía) que
+presentan, a veces, ciertas características propias de los navíos de guerra.
+
+3)
+
+Los barcos de salvamento colocados a bordo de los navíos, así como los que se colocan en ciertos lugares
+de la costa para socorrer a los barcos en peligro. Sin embargo, los botes salvavidas de remo se clasifican
+en la partida 89.03.
+
+4)
+
+Los barcos equipados para la investigación científica; los barcos laboratorio; las fragatas meteorológicas.
+
+5)
+
+Los barcos para el transporte y fondeo de boyas; los buques cableros, por ejemplo, para tender cables
+submarinos para telecomunicaciones.
+
+6)
+
+Los buques piloto.
+
+7)
+
+Los rompehielos.
+
+8)
+
+Los barcos hospital.
+
+9)
+
+Las embarcaciones con fondo capaz de abrirse para el vertido de fangos o escombros.
+
+Esta partida comprende igualmente los contenedores plegables llamados draconas constituidos por una
+envolvente flexible de tejido recubierto, identificables por la forma generalmente ahusada y los dispositivos de que
+están provistos (por ejemplo, dispositivos de estabilización y de remolcado y, en algunos casos, de flotabilidad)
+
+NOTAS EXPLICATIVAS DEL SISTEMA ARMONIZADO
+
+1538
+
+SÉPTIMA ENMIENDA - 2022
+
+para uso en el transporte por el agua de fluidos u otras mercancías, por simple remolcado.
+Se excluyen también de esta partida:
+a)
+
+Los pontones del tipo de las embarcaciones planas (partida 89.01).
+
+b)
+
+Los pontones manifiestamente destinados a servir de basamento a elevadores, grúas, etc. (partida 89.05).
+
+c)
+
+Los cajones cilíndricos huecos que se utilizan para sujetar los puentes provisionales, etc., y las balsas de
+todas clases (partida 89.07).
+
+89.07
+
+Los demás artefactos flotantes (por ejemplo: balsas, depósitos, cajones, incluso de amarre,
+boyas y balizas).
+8907.10 -
+
+Balsas inflables
+
+8907.90 -
+
+Los demás
+
+Esta partida comprende artefactos flotantes, excepto los que tengan el carácter de barcos. Son generalmente fijos y comprenden, en especial:
+1)
+
+Los cajones cilíndricos huecos que se utilizan para soportar los puentes provisionales, etc. Los pontones
+que presenten las características de barcos se clasifican en las partidas 89.01 u 89.05.
+
+2)
+
+Los viveros flotantes con agujeros para conservar crustáceos o peces vivos.
+
+3)
+
+Los depósitos que se utilizan en ciertos puertos para abastecimiento de agua, gasóleo, etc.
+
+4)
+
+Los cajones ataguías utilizados en la construcción de pilares de puentes, etc.
+
+5)
+
+Los embarcaderos y desembarcaderos flotantes.
+
+6)
+
+Los cofres de amarre, las boyas de cualquier tipo: de amarre, de señalización, luminosas, de campana,
+etc.
+
+7)
+
+Las balizas destinadas a marcar los canales, señalar los obstáculos a la navegación, etc.
+
+8)
+
+Los flotadores de elevación utilizados para poner a flote las embarcaciones.
+
+9)
+
+Los flotadores empleados para dragar las minas.
+
+10) Las balsas de cualquier clase, incluidos los artefactos flotantes de forma circular que se inflan automáticamente al contacto con el agua y que se utilizan para el transporte de náufragos.
+11) Los artefactos flotantes diseñados para funcionar como puertas de dársenas (barcos puerta).
+Se excluyen además de esta partida:
+a)
+
+Las campanas de buzo constituidas por una cámara metálica que baja o sube mediante un dispositivo
+exterior (artefacto de elevación) (partida 84.79, generalmente).
+
+b)
+
+Los cinturones, chalecos y boyas de salvamento (régimen de la materia constitutiva).
+
+c)
+
+Las planchas de vela (partida 95.06).
+
+89.08
+
+Barcos y demás artefactos flotantes para desguace.
+
+Esta partida comprende solamente los barcos y demás artefactos flotantes clasificados en las partidas
+89.01 a 89.07, que se presentan para la demolición. Se trata generalmente de barcos que han tenido averías, de
+barcos retirados de la navegación, desprovistos a veces de los aparatos de navegación, órganos motores, etc.
